@@ -1,0 +1,2113 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 23.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "COMPANY PROFILE",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PeopleApps School Feeding Mobile Platform",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE",
+      "PeopleApps School Feeding Mobile Platform"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE",
+      "PeopleApps School Feeding Mobile Platform"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE",
+      "PeopleApps School Feeding Mobile Platform"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Public",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE",
+      "PeopleApps School Feeding Mobile Platform"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Login & Navigation",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 School & Menu Management",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Order & Supply Planning",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Invoice & Documentation Capture",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Finance & Payment Tracking",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Notifications & Communication",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Public Information Access",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Products & Supplier Management",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. Reporting & Analytics",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Value Delivered",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "PeopleApps School Feeding Mobile Platform is a mobile application built to support school meal",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "program operations for organizations that coordinate schools, food suppliers, and program",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "administrators across many locations.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application gives program staff a single, connected mobile system to manage school and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "menu information, coordinate orders and deliveries, capture invoice evidence, track payments,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and stay informed through notifications - all from one mobile app.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Organizations that run school feeding programs typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Coordinate schools, menus, and participating institutions",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Plan and place food orders with suppliers on a regular basis",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track deliveries and confirm what has been received",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture invoices and monitor related payments",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keep staff and stakeholders informed as activities progress",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Handling this manually across many schools and suppliers is time-consuming and error-prone.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "PeopleApps School Feeding Mobile Platform centralizes the entire workflow - from school and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "menu management through ordering, invoicing, and reporting - into a single, purpose-built",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "mobile application.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure Login & Navigation\nAuthenticated sign-in and a centralized,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "role-based navigation dashboard",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "School & Menu Management\nMaintain school records, participating institutions,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and their meal menus",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Order & Supply Planning\nPlan, create, and track food orders and supply",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "requests by school or period",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nSecure Login & Navigation | Authenticated sign-in and a centralized,\nrole-based navigation dashboard\nSchool & Menu Management | Maintain school records, participating institutions,\nand their meal menus\nOrder & Supply Planning | Plan, create, and track food orders and supply\nrequests by school or period",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Invoice & Documentation Capture\nCapture and manage photo/PDF evidence for",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "invoices tied to deliveries",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Finance & Payment Tracking\nReview balances, payment status, and related",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "financial information",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Notifications & Communication\nTimely alerts and messaging tied to relevant",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "program activity",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Public Information Access\nRead-only access to selected school, menu, and",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "product information",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Products & Supplier Management\nMaintain product, supplier, and producer records",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "used in ordering",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Login & Navigation",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Users authenticate through a secure sign-in screen. Once signed in, they land on a central",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "dashboard that serves as the primary navigation hub for the application, giving users quick",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "access to schools, orders, invoices, finance, and notifications from one place.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 School & Menu Management",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 School & Menu Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Maintain school records, including institutional details and participating status",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 School & Menu Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View and manage menu information tied to each school",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 School & Menu Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track relevant notes and contacts associated with each school",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 School & Menu Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Quickly locate schools relevant to the user's role",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 School & Menu Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Order & Supply Planning",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Plan upcoming order and menu needs ahead of time, by month or by year",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Create, review, and assign food orders and supply requests",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track order status from creation through delivery and receipt",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Supports both individual and bulk order handling across schools",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Invoice & Documentation Capture | Capture and manage photo/PDF evidence for\ninvoices tied to deliveries\nFinance & Payment Tracking | Review balances, payment status, and related\nfinancial information\nNotifications & Communication | Timely alerts and messaging tied to relevant\nprogram activity\nPublic Information Access | Read-only access to selected school, menu, and\nproduct information\nProducts & Supplier Management | Maintain product, supplier, and producer records\nused in ordering",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Order & Supply Planning"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Invoice & Documentation Capture",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Invoice & Documentation Capture"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Create and manage invoice records tied to deliveries",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Invoice & Documentation Capture"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture photos or documents directly from a mobile device as supporting evidence",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Invoice & Documentation Capture"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Preview and confirm invoice details before submission",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Invoice & Documentation Capture"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Maintain a record of invoice status and updates over time",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Invoice & Documentation Capture"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Finance & Payment Tracking",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Finance & Payment Tracking"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Review account balances and payment status",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Finance & Payment Tracking"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track payments and related financial activity tied to program operations",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Finance & Payment Tracking"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Access financial information relevant to a user's role",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Finance & Payment Tracking"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keep operational activity connected to its financial record",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Finance & Payment Tracking"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 Notifications & Communication",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Notifications & Communication"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application keeps users informed through timely notifications tied to relevant activity, helping",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Notifications & Communication"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "schools, suppliers, and administrators stay up to date without needing to check in manually.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Notifications & Communication"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Public Information Access",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Public Information Access"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Selected school, menu, and product information is available for general viewing, giving visibility",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Public Information Access"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "into the program beyond authorized staff and participants.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Public Information Access"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Products & Supplier Management",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Products & Supplier Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Maintain product and product type information used across orders",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Products & Supplier Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Manage supplier and producer records",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Products & Supplier Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keep product and supplier data aligned with ordering needs",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Products & Supplier Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a typical activity from school setup through to reporting and follow-up.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Set up School / Menu records​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Create Order or Invoice -----> Track Activity Status​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Attach Supporting Evidence​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(photos / documents for invoices)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "[ Backend system validates and processes the submission ]​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Review Status Update​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "+-------------------+​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Needs Correction Approved / Confirmed​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Update & resubmit Continue to next step​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Finance & Reporting Review​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Notifications sent to relevant users​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(A separate public browsing path allows general visitors​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "to view selected school and menu information.)",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Reporting & Analytics",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application provides visibility into day-to-day program activity, including:",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Order and delivery status across schools",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Invoice and payment tracking tied to program activity",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Notification history for relevant updates",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ School and menu information at a glance",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Supplementing this, dedicated views cover order history, invoice records, and financial balances",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "- accessible directly within the application.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform\n.NET MAUI mobile application for Android and",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "iOS devices",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Data Layer\nSecure connection to backend services, with local",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "on-device storage for session information",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Reporting\nIntegrated document and photo/PDF capture for",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "invoices, with in-app viewing of financial and order",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "information",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Architecture\nStructured, feature-oriented design separating",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "schools, orders, invoices, and finance into",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "dedicated areas of the application",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Value Delivered",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Consolidates school, order, invoice, and finance activity into a single mobile system",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Reduces manual effort and delays in day-to-day program coordination",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Improves visibility and accountability across schools, suppliers, and administrators",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Connects field activity directly to financial tracking and reporting",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Supports timely communication through built-in notifications",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Platform | .NET MAUI mobile application for Android and\niOS devices\nData Layer | Secure connection to backend services, with local\non-device storage for session information\nReporting | Integrated document and photo/PDF capture for\ninvoices, with in-app viewing of financial and order\ninformation\nArchitecture | Structured, feature-oriented design separating\nschools, orders, invoices, and finance into\ndedicated areas of the application",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  }
+]

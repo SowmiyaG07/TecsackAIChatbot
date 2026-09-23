@@ -1,0 +1,1890 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 27.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PROJECT PROFILE",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "PROJECT PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Virtual Terminal",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Virtual Terminal"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.04,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Virtual Terminal"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Virtual Terminal"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Internal",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Virtual Terminal"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 2",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Virtual Terminal"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview ................................................................................................................................. 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context .................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities ...................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules ................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Merchant Login & Access Control .................................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Load Gift Card .................................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Redeem Gift Card ............................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Balance Inquiry & Recent Transactions ........................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Void Transaction ............................................................................................................................... 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Card Capture: Barcode Scan & Key-In ............................................................................................ 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Receipts & Email Delivery ................................................................................................................ 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Help, Feedback & About ................................................................................................................... 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow .............................................................................................................. 6",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. System Architecture & Integrations ......................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack ................................................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Security & Data Handling ........................................................................................................ 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "9. Value Delivered ....................................................................................................................... 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 3",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Virtual Terminal is a cross-platform mobile application that lets merchant staff process gift card",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "transactions — loading value, redeeming purchases, checking balances and voiding transactions —",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "directly from an Android or iOS device.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "After signing in with merchant credentials, the app retrieves the merchant profile and the list of functions",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "enabled for that account from the Synergy web service, and shows only those actions on the dashboard.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "A card is identified by scanning its barcode with the device camera or by keying in the card number, and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "every operation is confirmed on screen with a receipt that can be emailed to the customer.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application is built on .NET 9 and .NET MAUI using the MVVM pattern. It communicates with the",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Synergy web service (SynergyWebX.asmx) through SOAP/XML requests; card balances and transaction",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "records are held on the Synergy server, and the app keeps no local transaction database.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Merchants that sell and accept gift cards typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Load value onto a gift card at the time of sale",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Redeem a card against a purchase and show what is left on it",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Look up a card’s balance and recent activity on request",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Reverse (void) a transaction when a mistake has been made",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Give each merchant account only the functions it is entitled to",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Provide the customer with a receipt for every load or redemption",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Virtual Terminal brings these tasks together in one mobile app connected directly to the Synergy gift and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "loyalty platform, with the available functions controlled per merchant account.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure Merchant Sign-In\nMerchant credentials validated by the Synergy web service; session data cleared\non logout",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Function-Based Access\nDashboard offers only the functions enabled for the account: Load, Redeem,\nBalance Inquiry and Void",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Load Gift Card\nAdd value to a card by amount and receive the updated balance and a receipt",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Redeem Gift Card\nDeduct a sale from a card, with optional clerk and check number; any shortfall is\nshown as the amount owed",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Balance Inquiry\nCurrent card balance together with the card’s recent transactions",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nSecure Merchant Sign-In |  |  |  | Merchant credentials validated by the Synergy web service; session data cleared | \n |  |  |  | on logout | \nFunction-Based Access |  |  |  | Dashboard offers only the functions enabled for the account: Load, Redeem, | \n |  |  |  | Balance Inquiry and Void | \n | Load Gift Card |  |  | Add value to a card by amount and receive the updated balance and a receipt | \nRedeem Gift Card |  |  |  | Deduct a sale from a card, with optional clerk and check number; any shortfall is | \n |  |  |  | shown as the amount owed | \n | Balance Inquiry |  |  | Current card balance together with the card’s recent transactions |",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 4",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Void Transaction\nSelect a transaction from a date-based list and void it, after confirming the login\npassword",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Card Capture\nBarcode scanning through the device camera, or manual entry of the card\nnumber",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Receipts & Email\nOn-screen receipt with an option to email a receipt to one or more customer\naddresses",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Merchant Login & Access Control",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Merchant Login & Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Merchants sign in with a user ID and password, which the Synergy web service validates",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Merchant Login & Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The service returns the merchant profile and the list of enabled functions; if none are enabled the app\nreports “No Features Enabled”",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Merchant Login & Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The dashboard presents Load Gift Card, Redeem Gift Card, Void Transaction and Check Balance\naccording to those enabled functions",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Merchant Login & Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Returning users with an active session open directly on the dashboard; Logout in the menu clears the\nsession",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Merchant Login & Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 Load Gift Card",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Load Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The merchant scans or keys in the card number, then enters the amount to load; an empty amount is\nrejected",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Load Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The load is processed on the Synergy server; the app confirms success or reports an invalid card\nnumber",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Load Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The receipt shows the card number, date, amount loaded and the updated card balance",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Load Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Redeem Gift Card",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Redeem Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The merchant enters the sale amount to redeem, with optional clerk and check number fields",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Redeem Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The app reports the outcome: a normal redemption, a redemption that uses the whole balance, or\ninsufficient funds",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Redeem Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• When the balance is short, the amount the customer still owes is calculated and displayed and carried\nonto the receipt",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Redeem Gift Card"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Balance Inquiry & Recent Transactions",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Merchants scan or key in a card to see its current balance",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The card’s recent transactions are listed with their date and reference number",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A Transactions screen lists transactions for a selected date, showing authorization number, date, time\nand gross amount",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nVoid Transaction |  |  |  | Select a transaction from a date-based list and void it, after confirming the login | \n |  |  |  | password | \nCard Capture |  |  |  | Barcode scanning through the device camera, or manual entry of the card | \n |  |  |  | number | \nReceipts & Email |  |  |  | On-screen receipt with an option to email a receipt to one or more customer | \n |  |  |  | addresses |",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 5",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Balance Inquiry & Recent Transactions"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Void Transaction",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Void Transaction"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The merchant picks a date to list transactions; entries without a card number or authorization number\nare skipped",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Void Transaction"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Selecting a transaction opens its details: card number, authorization number, merchant, date and\ngross amount",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Void Transaction"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Voiding requires the login password to be re-entered; on success the app confirms “Void Successful”\nand returns to the transaction list",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Void Transaction"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 Card Capture: Barcode Scan & Key-In",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Card Capture: Barcode Scan & Key-In"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The camera scanner reads any supported barcode format and strips dashes and spaces from the\nvalue",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Card Capture: Barcode Scan & Key-In"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The value must be numeric; the scanned number is shown for confirmation with Next or Retry, and a\nsuccessful scan gives haptic feedback",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Card Capture: Barcode Scan & Key-In"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A Key in Card Number option lets the merchant type the number instead; the flow then continues to\nthe load, redeem or balance screen that started it",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Card Capture: Barcode Scan & Key-In"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Receipts & Email Delivery",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Receipts & Email Delivery"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• After a load or redemption, a receipt screen shows the card number, date, amount, card balance, clerk\nand check number",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Receipts & Email Delivery"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Email Receipt accepts one or more comma-separated addresses, validates each, and shows “Invalid\nEmail” when none are valid",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Receipts & Email Delivery"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The HTML email masks the card number to its last four digits and uses separate subjects for loads\nand redemptions",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Receipts & Email Delivery"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Help, Feedback & About",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Help, Feedback & About"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Help & Support opens the Synergy support website in an in-app web view",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Help, Feedback & About"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Feedback lets the user type a message and send it by email, and displays the company’s contact\ndetails",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Help, Feedback & About"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• About shows the application name and version information",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Help, Feedback & About"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 6",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Help, Feedback & About"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a merchant’s journey from sign-in through a card transaction to the customer",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "receipt.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Sign In (User ID + Password)\n|\nv\nSynergy web service validates the credentials\nand returns profile + enabled functions\n|\nv\nDashboard (enabled functions only)\n|\n+-------------------+-------------+-------------+-------------------+\n| | | |\nv v v v\nLoad Gift Card Redeem Gift Card Check Balance Void Transaction\n| | | |\nv v v v\nScan / key in Scan / key in Scan / key in Select date and\ncard number card number card number transaction\n| | | |\nv v v v\nEnter amount Enter sale amount Balance + recent Confirm with\n(+ clerk / check no.) transactions shown login password\n| | |\n+---------+---------+ |\nv v\nRequest processed on Synergy server Void request sent\nto Synergy server\n| |\nv v\nReceipt shown on screen Result shown\n|\nv\nOptional: email receipt to customer\nBalance inquiry ends on its own result screen; loads and redemptions produce a receipt.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fig. 1 — From merchant sign-in to card transaction and receipt in the Virtual Terminal app.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Sign In (User ID + Password) | \n | | | \n | v | \n | Synergy web service validates the credentials | \n | and returns profile + enabled functions | \n | | | \n | v | \n | Dashboard (enabled functions only) | \n | | | \n | +-------------------+-------------+-------------+-------------------+ | \n | | | | | | \n | v v v v | \n | Load Gift Card Redeem Gift Card Check Balance Void Transaction | \n | | | | | | \n | v v v v | \n | Scan / key in Scan / key in Scan / key in Select date and | \n | card number card number card number transaction | \n | | | | | | \n | v v v v | \n | Enter amount Enter sale amount Balance + recent Confirm with | \n | (+ clerk / check no.) transactions shown login password | \n | | | | | \n | +---------+---------+ | | \n | v v | \n | Request processed on Synergy server Void request sent | \n | to Synergy server | \n | | | | \n | v v | \n | Receipt shown on screen Result shown | \n | | | \n | v | \n | Optional: email receipt to customer | \n | Balance inquiry ends on its own result screen; loads and redemptions produce a receipt. |",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 7",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. System Architecture & Integrations",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The app is organized in layers and connects to a small number of external services:",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Presentation: XAML pages for sign-in, dashboard, card scan, load, redeem, card balance,\ntransactions, void details, receipt, help, feedback and about, inside a Shell flyout menu",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• View models: MVVM view models with bindable state and commands, resolved through dependency\ninjection",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Service repositories: card (balance, load, redeem), login and void services, each building a SOAP\nenvelope and posting it to the web service",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Synergy web service: SynergyWebX.asmx over HTTPS — credentials, load, redeem, balance\ninquiry, void and transaction reports; JSON results returned inside the XML reply and parsed with\nNewtonsoft.Json",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Email: customer receipts and feedback messages sent through an SMTP relay (Amazon SES, port\n587, SSL)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Device services: camera for barcode capture, haptic feedback, and Preferences / SecureStorage for\nsession data",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform\n.NET 9 and .NET MAUI (C#) — Android & iOS",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Supported OS\nAndroid 5.0+ (API 21) and iOS 12.2+",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Application Design\nMVVM with CommunityToolkit.Mvvm, dependency injection, Shell navigation with\nflyout menu, repository/service layer",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Backend Services\nSynergy web service (SynergyWebX.asmx) accessed with SOAP/XML requests;\nJSON responses parsed with Newtonsoft.Json",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Card Scanning\nZXing.Net.MAUI, BarcodeScanner.Mobile.Maui and Camera.MAUI",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "User Interface\nXAML views, CommunityToolkit.Maui, Controls.UserDialogs.Maui (dialogs, toasts,\nloading), XCalendar.Maui, Material Icons and Open Sans fonts",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Local Storage\n.NET MAUI Preferences and SecureStorage; no local database",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Email\nSystem.Net.Mail SMTP client on port 587 with SSL and an HTML receipt template",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Platform |  |  | .NET 9 and .NET MAUI (C#) — Android & iOS | \n | Supported OS |  |  | Android 5.0+ (API 21) and iOS 12.2+ | \nApplication Design |  |  |  | MVVM with CommunityToolkit.Mvvm, dependency injection, Shell navigation with | \n |  |  |  | flyout menu, repository/service layer | \nBackend Services |  |  |  | Synergy web service (SynergyWebX.asmx) accessed with SOAP/XML requests; | \n |  |  |  | JSON responses parsed with Newtonsoft.Json | \n | Card Scanning |  |  | ZXing.Net.MAUI, BarcodeScanner.Mobile.Maui and Camera.MAUI | \nUser Interface |  |  |  | XAML views, CommunityToolkit.Maui, Controls.UserDialogs.Maui (dialogs, toasts, | \n |  |  |  | loading), XCalendar.Maui, Material Icons and Open Sans fonts | \n | Local Storage |  |  | .NET MAUI Preferences and SecureStorage; no local database | \n | Email |  |  | System.Net.Mail SMTP client on port 587 with SSL and an HTML receipt template |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Virtual Terminal — Project Profile\nPage 8",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Security & Data Handling",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Sign-in credentials are validated by the Synergy web service; the app does not keep a local user\ndirectory",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The merchant key returned at sign-in is held in platform SecureStorage; logout clears it, the stored\npassword and the session flag",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Voiding a transaction requires the user to re-enter the login password",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Available functions are restricted per merchant account, based on the features enabled on the\nSynergy platform",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Web service requests use an HTTPS endpoint, and receipt email is sent over SMTP with SSL enabled",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Emailed receipts show only the last four digits of the card number",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Card balances and transaction history stay on the Synergy server; the app keeps no local transaction\ndatabase",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "9. Value Delivered",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Turns a phone or tablet into a gift card terminal for loading, redeeming, balance checks and voids",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Speeds up card handling with barcode scanning and validated card-number entry",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Keeps each merchant in control: an account only sees the functions it is entitled to",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Reduces errors with clear on-screen outcomes, including the amount owed when a card balance is\ninsufficient",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Gives customers an emailed receipt for every load and redemption",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Supports Android and iOS from a single .NET MAUI codebase",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Connects directly to the existing Synergy web service and stores no transaction data on the device",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

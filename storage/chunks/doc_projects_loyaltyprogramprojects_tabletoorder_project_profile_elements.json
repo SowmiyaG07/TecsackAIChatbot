@@ -1,0 +1,1850 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 27.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PROJECT PROFILE",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "PROJECT PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table to Order Food App",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table to Order Food App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.04,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table to Order Food App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table to Order Food App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Internal",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table to Order Food App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 2",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table to Order Food App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview ................................................................................................................................. 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context .................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities ...................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules ................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Admin & User Application Modes ..................................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Menu Browsing & Search ................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Cart & Order Review ........................................................................................................................ 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Payment Options .............................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Order Placement & Confirmation...................................................................................................... 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Menu Management (Admin) ............................................................................................................. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Category Management ..................................................................................................................... 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Order Management (Admin) ............................................................................................................. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow .............................................................................................................. 6",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. System Architecture & Integrations ......................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack ................................................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Security & Data Handling ........................................................................................................ 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "9. Value Delivered ....................................................................................................................... 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 3",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Table to Order Food App (Tap2Table) is a cross-platform application that lets diners browse a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "restaurant menu, build an order and pay from a device at the table, while restaurant staff manage the",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "menu and process incoming orders from a companion admin app.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The same codebase produces two application flavours, Admin and User, selected by build configuration.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The User app presents the menu with images, prices and ratings, category filters and search, a cart,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "payment options and an order confirmation. The Admin app provides menu and category management",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and an order board with Order Requests, Current Orders and Order Completed tabs.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application is built on .NET 9 and .NET MAUI using the MVVM pattern and targets Android, iOS, Mac",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Catalyst and Windows. Menu items, categories and orders are held on the Tap2Table server and reached",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "through a REST API returning JSON; the server address is read from an embedded Appconfig.json file,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and the app keeps no local database.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Restaurants and cafes that take orders at the table typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Show diners the full menu with pictures, prices, ratings and descriptions",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Let diners place and pay for an order without waiting for staff",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Give staff a live list of new orders to accept, decline or mark as delivered",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Keep the menu current: items, prices, availability, categories and cuisines",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Track every order by table, date, items, quantity, total and payment type",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Table to Order Food App brings ordering, payment and order handling into two companion apps that",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "share one server, so a change made by the restaurant is what the diner sees, and an order placed by the",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "diner is what the staff see.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Menu Browsing\nMenu with images, prices, ratings and descriptions; category chips, keyword\nsearch and a grid or list layout",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Cart & Ordering\nAdd items with quantities, review the cart, change quantities, add more items\nand see the tax and total",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Payment Options\nPay with a debit or credit card (card details form) or choose Tap to Pay",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Order Confirmation\nOrder sent to the server, followed by a “Thank You! Your order has been placed”\npop-up",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nMenu Browsing |  |  |  | Menu with images, prices, ratings and descriptions; category chips, keyword | \n |  |  |  | search and a grid or list layout | \nCart & Ordering |  |  |  | Add items with quantities, review the cart, change quantities, add more items | \n |  |  |  | and see the tax and total | \n | Payment Options |  |  | Pay with a debit or credit card (card details form) or choose Tap to Pay | \nOrder Confirmation |  |  |  | Order sent to the server, followed by a “Thank You! Your order has been placed” | \n |  |  |  | pop-up |",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 4",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Menu Management\nAdmin can add, edit and delete menu items with price, description, category,\ncuisine, availability and rating",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Category Management\nAdmin can add categories, which then appear as filters in the menu",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Order Handling\nOrder Requests, Current Orders and Order Completed tabs with accept, decline\nand delivered actions",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Automatic Refresh\nThe admin order list reloads from the server every 60 seconds",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Admin & User Application Modes",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Admin & User Application Modes"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The build configuration (Admin or User) sets the app title, application ID and start-up route, producing\nTap2Table Admin and Tap2Table User",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Admin & User Application Modes"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• On launch the Admin build opens the Menu List screen and the User build opens the ordering screen;\nthe route also depends on whether the device is a tablet or a phone",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Admin & User Application Modes"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A top navigation bar offers Menu List, Add Menu, Orders and Menu, with the active button highlighted",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Admin & User Application Modes"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 Menu Browsing & Search",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Menu Browsing & Search"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Menu items and categories are fetched from the server (up to 500 per request); each item shows its\nimage, name, price, rating and description",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Menu Browsing & Search"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Category chips, with an added “All” chip, filter the list; the search box filters items by name within the\nselected category",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Menu Browsing & Search"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A toggle switches between a five-column grid and a list layout, and a message is shown when no\nitems are found",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Menu Browsing & Search"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Cart & Order Review",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Cart & Order Review"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Each menu item has an ADD button with plus and minus controls; reducing the quantity below one\nremoves the item",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Cart & Order Review"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• View Cart opens the review screen, or shows “Please Add Food” when nothing has been added",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Cart & Order Review"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• On the review screen quantities can be increased or decreased, more items added through an Add\nItems pop-up, and the total (items plus a fixed $1.00 tax) updates instantly",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Cart & Order Review"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Payment Options",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Payment Options offers Debit/Credit Cards and Tap to Pay; selecting one clears the other",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Choosing a card opens a Card Detail form for card number, expiry (auto-formatted with a slash) and\nCVV, each of which is required",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Make Payment checks that the cart is not empty, that a payment option is chosen and, for cards, that\ndetails were entered",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nMenu Management |  |  |  | Admin can add, edit and delete menu items with price, description, category, | \n |  |  |  | cuisine, availability and rating | \n | Category Management |  |  | Admin can add categories, which then appear as filters in the menu | \nOrder Handling |  |  |  | Order Requests, Current Orders and Order Completed tabs with accept, decline | \n |  |  |  | and delivered actions | \n | Automatic Refresh |  |  | The admin order list reloads from the server every 60 seconds |",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 5",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Payment Options"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Order Placement & Confirmation",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Order Placement & Confirmation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The order carries the table ID, UTC order date, total, payment type, a Pending order status and its line\nitems with food item, quantity and price",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Order Placement & Confirmation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• It is posted to the server’s order API; on success a “Thank You! Your order has been placed” pop-up\nshows for two seconds",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Order Placement & Confirmation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The app then returns to the menu; only the payment type is sent, not the card number, expiry or CVV",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Order Placement & Confirmation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 Menu Management (Admin)",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Menu Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Menu List shows product image, name, category, price and availability, with edit and delete options for\neach item",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Menu Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Add Menu captures name, price, description, category, cuisine (Indian, Chinese, Italian, Mexican,\nAmerican), availability Yes/No and a rating that defaults to 5",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Menu Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Name, price above zero and description are required; edits use a pop-up with the same checks, and\ndelete removes the item by name and refreshes the list",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Menu Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Category Management",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Category Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• An Add New Category pop-up takes a category name and saves it to the server",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Category Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Categories are loaded from the server for the category picker and for the menu filter chips, and reload\nafter a new one is added",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Category Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The category service also supports read, update and delete operations",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Category Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Order Management (Admin)",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Order Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Order Requests lists new orders that have not been accepted; Current Orders lists accepted orders\nnot yet delivered; Order Completed lists delivered and canceled orders",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Order Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Each row shows order ID, date, table, food items, quantity, amount, total and payment type",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Order Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Accept moves an order to Current Orders, Decline marks it Canceled, and Delivered marks it\nCompleted; each change is sent to the server, and the list refreshes every 60 seconds",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Order Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 6",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Order Management (Admin)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces an order from the diner’s table through the server to the restaurant staff.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "DINER (User app) STAFF (Admin app)\n| |\nv v\nBrowse menu by category / search Manage categories and menu items\n(grid or list layout) (Menu List, Add Menu, edit, delete)\n| |\nv |\nAdd items with quantity |\n(ADD, + / -) |\n| |\nv |\nView cart: edit quantities, |\nadd items, tax and total |\n| |\nv |\nChoose payment: |\nCard or Tap to Pay |\n| |\nv |\nMake Payment |\n| |\nv v\n+---------------------------------------------------------+\n| Tap2Table server (REST API: menu, categories, orders) |\n+---------------------------------------------------------+\n| |\nv v\n“Thank You! Your order Orders screen (auto-refresh 60 s)\nhas been placed” Order Requests\nAccept / Decline\n|\nv\nCurrent Orders\nDelivered\n|\nv\nOrder Completed",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fig. 1 — From ordering at the table to order fulfilment in the Table to Order Food App.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| DINER (User app) STAFF (Admin app) | \n | | | | \n | v v | \n | Browse menu by category / search Manage categories and menu items | \n | (grid or list layout) (Menu List, Add Menu, edit, delete) | \n | | | | \n | v | | \n | Add items with quantity | | \n | (ADD, + / -) | | \n | | | | \n | v | | \n | View cart: edit quantities, | | \n | add items, tax and total | | \n | | | | \n | v | | \n | Choose payment: | | \n | Card or Tap to Pay | | \n | | | | \n | v | | \n | Make Payment | | \n | | | | \n | v v | \n | +---------------------------------------------------------+ | \n | | Tap2Table server (REST API: menu, categories, orders) | | \n | +---------------------------------------------------------+ | \n | | | | \n | v v | \n | “Thank You! Your order Orders screen (auto-refresh 60 s) | \n | has been placed” Order Requests | \n | Accept / Decline | \n | | | \n | v | \n | Current Orders | \n | Delivered | \n | | | \n | v | \n | Order Completed |",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 7",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. System Architecture & Integrations",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The app is organized in layers and connects to a single external service, the Tap2Table server:",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Presentation: XAML pages for the menu list, add menu, orders, menu, cart review and ordering\nscreens, with pop-ups (Mopups) and a bottom sheet (The49.Maui.BottomSheet), inside a Shell",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• View models: MVVM view models with observable collections and commands for menu, cart,\npayment, orders and category management",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Services: food item, category, order and order-management services behind interfaces, registered\nwith dependency injection and called through HttpClient",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Tap2Table server: REST API with FoodItem, Category and Order endpoints; lists are paged (page\nnumber and page size) and exchanged as JSON",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Configuration: Appconfig.json is embedded in the app and read at start-up through\nMicrosoft.Extensions.Configuration to supply the server address",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Platform services: an Android network-availability service behind the INetwork interface",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform\n.NET 9 and .NET MAUI (C#) — Android, iOS, Mac Catalyst & Windows",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Supported OS\nAndroid 5.0+ (API 21); iOS and Mac Catalyst 15.0+; Windows 10 (build 17763)+",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Application Design\nMVVM with CommunityToolkit.Mvvm, dependency injection, Shell navigation and\nservice interfaces",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Backend Services\nREST API over HTTPS with JSON; HttpClient with Newtonsoft.Json and\nSystem.Text.Json",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Configuration\nMicrosoft.Extensions.Configuration (JSON) with an embedded Appconfig.json",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "User Interface\nXAML views, CommunityToolkit.Maui, Mopups, The49.Maui.BottomSheet, Font\nAwesome 6 icons and Open Sans fonts",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Build Flavours\nAdmin and User build configurations with ADMIN and USER compilation symbols and\nseparate app IDs",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Platform |  |  | .NET 9 and .NET MAUI (C#) — Android, iOS, Mac Catalyst & Windows | \n | Supported OS |  |  | Android 5.0+ (API 21); iOS and Mac Catalyst 15.0+; Windows 10 (build 17763)+ | \nApplication Design |  |  |  | MVVM with CommunityToolkit.Mvvm, dependency injection, Shell navigation and | \n |  |  |  | service interfaces | \nBackend Services |  |  |  | REST API over HTTPS with JSON; HttpClient with Newtonsoft.Json and | \n |  |  |  | System.Text.Json | \n | Configuration |  |  | Microsoft.Extensions.Configuration (JSON) with an embedded Appconfig.json | \nUser Interface |  |  |  | XAML views, CommunityToolkit.Maui, Mopups, The49.Maui.BottomSheet, Font | \n |  |  |  | Awesome 6 icons and Open Sans fonts | \nBuild Flavours |  |  |  | Admin and User build configurations with ADMIN and USER compilation symbols and | \n |  |  |  | separate app IDs |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Table to Order Food App — Project Profile\nPage 8",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Security & Data Handling",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The server address is an HTTPS URL supplied by Appconfig.json, so the environment can be\nchanged without changing code",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The order sent to the server carries the payment type only; the card number, expiry and CVV typed\ninto the Card Detail form are not part of the order",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Menu, category and order data is stored on the server; the app keeps no local database",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Forms enforce required fields: card number, expiry and CVV for card payment, and name, price and\ndescription for menu items",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Admin and User apps are built as separate configurations with their own application IDs",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Current scope: user sign-in and role-based access control are not part of this version, so access to\nadmin screens relies on the Admin build",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Current scope: the service clients relax server certificate validation for the present setup, which should\nbe tightened before production use",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "9. Value Delivered",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Lets diners order and pay from the table without waiting for staff",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Presents the menu with images, prices, ratings, categories and search so choices are quick",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Gives staff a single board to accept, decline and deliver orders, with automatic refresh",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Keeps the menu current from the admin app: items, prices, availability and categories are served from\nthe server",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Uses one .NET MAUI codebase for Android, iOS, Mac Catalyst and Windows, on tablets and phones",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Keeps the diner and staff apps in sync through one central server",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

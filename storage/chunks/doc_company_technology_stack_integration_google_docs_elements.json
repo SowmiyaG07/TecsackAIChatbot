@@ -1,0 +1,1953 @@
+[
+  {
+    "element_type": "heading",
+    "text": "​TECSACK SOFTWARE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​TECSACK SOFTWARE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 28.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​COMPANY PROFILE​",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​TECHNOLOGY STACK & AI SOLUTIONS​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Document Version: 1.0​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date: September 2026​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Classification: Public​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​Table of Contents​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1. Introduction.............................................................................................................................. 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2. The Core Application Platform............................................................................................... 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.1 .NET REST API................................................................................................................. 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.2 Angular............................................................................................................................... 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.3 .NET MAUI & Xamarin....................................................................................................... 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.4 Platform Summary.............................................................................................................. 5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3. The AI/ML Layer......................................................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.1 RAG (Retrieval-Augmented Generation)............................................................................. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.2 AI Application Frameworks & Agent Orchestration.............................................................. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.3 Seamless LLM Integration.................................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.4 Fine-Tuning & Model Customization..................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.5 Vector Databases & Semantic Search.................................................................................. 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.6 Responsible AI & Data Privacy.............................................................................................. 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4. How It Comes Together — Integration Architecture................................................................. 8​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5. In Practice — Case Studies......................................................................................................... 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.1 Synergy — Mobile Offer-Discovery App................................................................................. 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.2 Client Web Platform — Angular + ASP.NET Core Web API................................................... 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6. High-Value Business Use Cases................................................................................................ 10​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​7. Engagement Approach​​—-----------------------------------------------------------------------------------------​11​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1. Introduction​",
+    "page": 3,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​1. Introduction​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Businesses don't need to rip out their existing systems to adopt AI. The highest-value AI work isn't a​\n​standalone chatbot bolted onto the side of a business — it's AI woven into the systems people​\n​already use every day: the same backend, the same web dashboard, the same mobile app they​\n​already trust.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​1. Introduction​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​This document describes the technology platform this practice is built on — a .NET REST API​\n​backend, Angular web frontends, and .NET MAUI / Xamarin mobile apps — and how the AI/ML layer​\n​(RAG, LLM integration, agent orchestration, fine-tuning, vector search, and responsible-AI controls)​\n​integrates directly into that platform rather than sitting apart from it.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​1. Introduction​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The result is AI capability that behaves like a natural extension of the product: one backend, one​\n​data and security model, and AI features that show up wherever the platform already runs — web or​\n​mobile — without duplicated integration work.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​1. Introduction​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2. The Core Application Platform​",
+    "page": 3,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2. The Core Application Platform​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Every AI capability in this stack sits on top of the same foundation: a single .NET backend, an​\n​Angular web frontend, and native mobile apps built with .NET MAUI and Xamarin. Keeping the​\n​platform this consistent is what makes AI integration fast — there is one place to add an endpoint,​\n​one auth model to extend, and one data layer to connect to a vector store or LLM provider.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2. The Core Application Platform​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.1 .NET REST API​",
+    "page": 3,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The backend is the backbone of the platform — business logic, authentication and authorization, and​\n​secure data access, all exposed as clean, versioned REST endpoints that every other layer depends​\n​on.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Business logic & data access:​​centralizes​​rules and database access so the same​\n​logic serves web, mobile, and AI-facing endpoints consistently.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Authentication & authorization:​​JWT-based​​auth secures endpoints and scopes what​\n​each user or service can access, including AI-powered ones.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Versioned, documented endpoints:​​a stable​​contract that Angular, mobile apps, and​\n​internal AI services can all build against.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Natural home for AI endpoints:​​a chat endpoint,​​a semantic-search endpoint, or an​\n​agent-action endpoint plugs in alongside existing business endpoints rather than living in​\n​a separate system.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.1 .NET REST API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.2 Angular​",
+    "page": 3,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Component-driven, responsive frontends for admin panels, dashboards, and customer-facing web​\n​applications. Angular consumes the same REST API surface that powers mobile, so business logic​\n​and validation live in one place, not duplicated across frontends.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Reusable component architecture:​​consistent UI patterns across admin tools and​\n​customer-facing screens.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Reactive forms & state management:​​handles​​complex, validated workflows —​\n​including AI-assisted ones, like a chat panel or a review queue for AI-generated content.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Direct API integration:​​calls the same .NET​​REST API as mobile, including any​\n​AI-backed endpoints, with no separate integration layer.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.3 .NET MAUI & Xamarin​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Native cross-platform mobile apps for iOS and Android from a single codebase, sharing models and​\n​business rules with the backend. This is the right layer for customer-facing apps that need offline​\n​support, push notifications, location awareness, or other device-native features alongside a synced​\n​backend.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Single codebase, two platforms:​​shared UI​​and logic across iOS and Android reduces​\n​duplicate work and keeps behavior consistent.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Native device capabilities:​​location, push​​notifications, camera, and offline storage —​\n​useful for AI features like location-aware recommendations or an in-app assistant that​\n​works with patchy connectivity.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Same backend contract as web:​​an AI feature​​built for the API is available on mobile​\n​the moment the UI is wired up — no separate mobile-specific AI integration.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.4 Platform Summary​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Layer​\n​Technology​\n​Primary Role​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Backend​\n​.NET REST API​\n​Business logic, auth, data access,​\n​and the integration point for AI​\n​endpoints​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Web Frontend​\n​Angular​\n​Admin panels and customer-facing​\n​web applications​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Mobile​\n​.NET MAUI / Xamarin​\n​Native iOS & Android apps sharing​\n​logic with the backend​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​2.2 Angular​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3. The AI/ML Layer​",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Each of the capabilities below is designed to attach to the platform described in Section 2 — calling​\n​out from the .NET REST API rather than requiring a parallel system. Together they form the AI/ML​\n​layer: the part of the stack responsible for retrieval, reasoning, and generation.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.1 RAG (Retrieval-Augmented Generation)​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Layer | Technology | Primary Role\nBackend | .NET REST API | Business logic, auth, data access,\nand the integration point for AI\nendpoints\nWeb Frontend | Angular | Admin panels and customer-facing\nweb applications\nMobile | .NET MAUI / Xamarin | Native iOS & Android apps sharing\nlogic with the backend",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Grounding LLM responses in your own data — documents, product catalogs, support histories,​\n​policies — instead of relying on the model's general knowledge alone. This is what turns a generic​\n​chatbot into one that actually knows your business.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Retrieves relevant content from your own data​​before generating a response, reducing​\n​hallucination and improving accuracy.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Keeps proprietary and frequently-changing​​information (pricing, policies, inventory)​\n​current without retraining a model.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Exposed through the .NET API as a standard​​endpoint, so it's consumable from Angular​\n​or mobile like any other feature.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.2 AI Application Frameworks & Agent Orchestration​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Frameworks like LangChain coordinate multi-step AI workflows: chaining retrieval, reasoning, and​\n​tool calls together so an AI feature can do more than answer a single question — it can look things​\n​up, call internal services, and follow a multi-step process.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Orchestrates sequences of steps (retrieve​​→ reason → act) rather than a single​\n​prompt-response exchange.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Lets an AI agent call existing backend services​​and APIs as “tools”, reusing business​\n​logic that already exists.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Supports workflows like multi-turn support​​conversations, guided data entry, or​\n​automated triage.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.3 Seamless LLM Integration​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Wiring LLM providers into existing APIs and UIs without disrupting how the rest of the system works​\n​— the AI feature shows up as just another capability of the app, not a separate product with its own​\n​login and interface.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​LLM calls are wrapped behind the same .NET​​REST API used for everything else,​\n​keeping a single integration surface.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Provider-agnostic design where practical,​​so the underlying model can be swapped​\n​without reworking the app.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Consistent error handling, logging, and rate-limit​​management alongside the rest of the​\n​backend.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.4 Fine-Tuning & Model Customization​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Adapting models to domain-specific language, tone, and tasks where general-purpose prompting​\n​isn't precise enough — useful for specialized terminology, structured outputs, or a consistent brand​\n​voice.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Improves consistency and accuracy on narrow,​​repeatable tasks compared to prompting​\n​alone.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Reduces prompt length and cost for high-volume,​​well-defined tasks.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Used selectively — most integrations start with RAG and prompting, reserving​\n​fine-tuning for cases that need it.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.5 Vector Databases & Semantic Search​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The retrieval engine behind RAG — storing content as embeddings so the system can find what's​\n​relevant to a query, not just what matches keywords, and do it at scale.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Powers relevant, ranked retrieval across large​​and growing content sets.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Underpins both AI chat features and standalone​​semantic search (e.g., “find similar​\n​products” or “search support articles by meaning”).​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Kept in sync with source data so retrieval​​reflects current content, not a stale snapshot.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.6 Responsible AI & Data Privacy​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Guardrails around what data reaches the model, access control on AI features, and handling of​\n​sensitive information — so AI capabilities are safe to run against real business and customer data,​\n​not just demo data.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Access control on AI endpoints follows the​​same auth model (JWT) as the rest of the​\n​API — no separate, weaker security path for AI features.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Sensitive data is filtered or masked before​​it reaches an LLM provider where required.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Logging and monitoring of AI interactions​​to support auditability and troubleshooting.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​3. The AI/ML Layer​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4. How It Comes Together — Integration Architecture​",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The .NET REST API is the integration point. It already handles auth, data access, and business​\n​rules, so it's also the natural place to expose AI features: a chat endpoint backed by RAG and a​\n​vector database, an agent-orchestration service that automates a multi-step workflow, or a​\n​semantic-search endpoint that both the Angular admin panel and the mobile app can call.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Because Angular, MAUI, and Xamarin all consume that same API surface, an AI capability built once​\n​is instantly available everywhere the platform already runs — web, iOS, and Android — without​\n​separate integration work per surface.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Layered view​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Presentation layer:​​Angular (web) and .NET​​MAUI / Xamarin (mobile) — the surfaces​\n​users interact with.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​API & orchestration layer:​​the .NET REST API,​​exposing both business endpoints and​\n​AI endpoints (chat, search, agent actions), calling into orchestration frameworks such as​\n​LangChain where multi-step workflows are needed.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​AI/data layer:​​LLM providers, the vector database​​powering retrieval, and fine-tuned​\n​models where applicable.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Cross-cutting concerns:​​authentication (JWT), responsible-AI guardrails, and​\n​data-privacy controls applied consistently across every layer above.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​4. How It Comes Together — Integration Architecture​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5. In Practice — Case Studies​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5. In Practice — Case Studies​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.1 Synergy — Mobile Offer-Discovery App​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.1 Synergy — Mobile Offer-Discovery App​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Synergy is a mobile application, available on the Google Play Store, that surfaces offers from​\n​multiple stores based on the user's location.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.1 Synergy — Mobile Offer-Discovery App​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Includes an in-app chat assistant powered​​by RAG, so users can ask questions and get​\n​answers grounded in the app's actual offer and store data.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.1 Synergy — Mobile Offer-Discovery App​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Generates a customized card for a user to​​claim an offer — a personalized, AI-assisted​\n​output rather than a static template.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.1 Synergy — Mobile Offer-Discovery App​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Demonstrates the AI layer (RAG-powered chat)​​and a customer-facing mobile front end​\n​working from the same backend.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.1 Synergy — Mobile Offer-Discovery App​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.2 Client Web Platform — Angular + ASP.NET Core Web API​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.2 Client Web Platform — Angular + ASP.NET Core Web API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​A production example of the core platform itself: an Angular frontend backed by an ASP.NET Core​\n​Web API with JWT authentication and an admin panel.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.2 Client Web Platform — Angular + ASP.NET Core Web API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​The same foundation — Angular consuming a​​.NET REST API with JWT-secured​\n​endpoints — that an AI/RAG layer would plug into without any structural rework.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.2 Client Web Platform — Angular + ASP.NET Core Web API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​Shows the platform side of the stack in production,​​independent of the AI layer,​\n​illustrating how cleanly the two are meant to combine.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​5.2 Client Web Platform — Angular + ASP.NET Core Web API​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6. High-Value Business Use Cases​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The combination of a consistent .NET/Angular/MAUI platform and an integrated AI layer opens up​\n​use cases that are difficult to deliver with either piece alone:​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Use Case​\n​What It Does​\n​Primary Capabilities​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Customer support​\n​assistant​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Answers from your actual​\n​documentation and policies instead of​\n​generic responses​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​RAG, Vector Search,​\n​LLM Integration​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Internal knowledge​\n​assistant​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Lets staff search across scattered​\n​documents, tickets, and records in plain​\n​language​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​RAG, Semantic​\n​Search​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Use Case | What It Does | Primary Capabilities\nCustomer support\nassistant | Answers from your actual\ndocumentation and policies instead of\ngeneric responses | RAG, Vector Search,\nLLM Integration\nInternal knowledge\nassistant | Lets staff search across scattered\ndocuments, tickets, and records in plain\nlanguage | RAG, Semantic\nSearch",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Personalized offers &​\n​recommendations​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Generates per-user results instead of​\n​static, rule-based content​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​LLM Integration,​\n​Fine-Tuning​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Workflow automation​\n​agents​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Looks information up, applies logic, and​\n​takes action instead of just answering​\n​questions​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Agent Orchestration,​\n​LangChain​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Semantic search​\n​Replaces brittle keyword search across​\n​products, support content, or​\n​knowledge bases​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Vector Databases &​\n​Semantic Search​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Embedded AI features​\n​AI capability delivered inside existing​\n​web and mobile apps, not a separate​\n​tool​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Full Stack Integration​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​6. High-Value Business Use Cases​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7. Engagement Approach​",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​AI integration works best as an extension of what's already running, not a rebuild. The general​\n​approach on this stack:​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​1. Discovery:​​understand the existing .NET/Angular/mobile​​platform, the data available,​\n​and the specific workflow or pain point AI should address.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​2. Integration design:​​define where the AI​​endpoint(s) sit in the existing API, what data​\n​needs to be indexed or connected, and what guardrails are required.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​3. Incremental delivery:​​ship a working capability​​against real data early, then iterate​\n​— rather than a long build before anything is usable.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​\n​4. Responsible rollout:​​access control, monitoring,​​and data-privacy review applied​\n​before a feature reaches real users.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The goal throughout is the same: AI that feels like a natural part of the product you already have —​\n​not a separate system bolted on beside it.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​7. Engagement Approach​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7. Contact​",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Website:​ ​https://www.tecsack.in​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Contact Form:​ ​https://www.tecsack.in/contact.html​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Email:​ ​researchwing@tecsack.in​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Headquarters:​ ​Salem, India​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Phone: +​91-9786297172​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Personalized offers &\nrecommendations | Generates per-user results instead of\nstatic, rule-based content | LLM Integration,\nFine-Tuning\nWorkflow automation\nagents | Looks information up, applies logic, and\ntakes action instead of just answering\nquestions | Agent Orchestration,\nLangChain\nSemantic search | Replaces brittle keyword search across\nproducts, support content, or\nknowledge bases | Vector Databases &\nSemantic Search\nEmbedded AI features | AI capability delivered inside existing\nweb and mobile apps, not a separate\ntool | Full Stack Integration",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​7. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  }
+]

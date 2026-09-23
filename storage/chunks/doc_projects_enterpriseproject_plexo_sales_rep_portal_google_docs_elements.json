@@ -1,0 +1,3549 @@
+[
+  {
+    "element_type": "heading",
+    "text": "​TECSACK SOFTWARE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​TECSACK SOFTWARE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 25.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​COMPANY PROFILE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 30.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Plexo Sales Rep Portal​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Document Version: 1.0​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date: September 2026​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Classification: Internal / Confidential​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​Table of Contents​",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1. Platform Overview​……………………………………………………. 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2. Architecture Overview​……………………………………………….. 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3. Workflow​………………………………………………………………. 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.1 Rep Portal………………………………………………………….​​4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.2 Admin Portal……………………………………………………….​​5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.3 Authentication & Access​…………………………………………. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.4 Overall User Workflow​……………………………………………. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4. Summary Diagram​……………………………………………………. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5. Backend API Reference (.NET – Current)......................................​8​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.1 Data Model Overview​……………………………………………... 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.2 Supporting Services​……………………………………………….. 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.3 Database Schema Overview​……………………………………... 9​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6. Sourcing Notes​……………………………………………………..… 10​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​7. Technology Used​…………………………………………..…………. 10​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​7.1 Frontend……………………………………………………………​. 11​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​7.2 Backend (Current)....................................................................​.​​12​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​8. Contact​. ………………………………………………………………....12​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1. Platform Overview​",
+    "page": 3,
+    "heading_level": 1,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Plexo Sales Rep Portal (“Plexo”) is a two-portal web application built to run an independent​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​sales representative network. It gives sales representatives a self-service portal to manage their​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​own profile, agreements, and training/marketing resources, and gives internal administrators a​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​management console to onboard representatives, curate shared content, and keep track of​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​compliance documentation and payout details across the network.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The application is delivered as a single-page web application with two independently gated​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​sections — a Rep Portal and an Admin Portal — served from one shell application and backed​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​by a dedicated REST API and a SQL Server database. A personalized “portal link” lets an​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​individual representative sign in directly without filling in a login form, which is intended to make​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the link easy to share as part of onboarding or marketing outreach.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2. Architecture Overview​",
+    "page": 3,
+    "heading_level": 1,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The application follows a conventional three-tier architecture: a browser-based single-page​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​application, a REST API, and a relational database, with outbound email handled as a​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​supporting service.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Client:​​An Angular single-page application renders​​both the Rep Portal and the Admin​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Portal from one shell, and communicates with the backend exclusively over HTTP.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​API:​​A REST API exposes the application's business​​domains (representatives,​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​documents, bank details, training/marketing content, notes, email settings, and support​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​requests) as a set of resource-oriented endpoints.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Database:​​A relational database persists representative​​records and everything​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​associated with them (documents, bank details, notes) along with shared content​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(training/marketing library, links, and the welcome-email template).​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Email:​​Transactional email (the new-representative​​welcome email) and internal​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​notification email (the three “contact the admin team” flows) are sent through a shared​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​HTML templating layer and an SMTP relay.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​On the client, state that needs to be shared across screens (the representative directory, the​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​signed-in session, document and content libraries) is held in a small number of dedicated “store”​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​services built on Angular's reactive signals, with each store composing the API calls needed to​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​keep its data current. This keeps every screen that depends on the same data — for example a​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representative's own profile page and the admin's detail view of that same representative —​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​automatically in sync without a manual refresh.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Both portals sit behind their own client-side sign-in guard, so a representative session does not​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​grant access to the Admin Portal and vice versa. Section 3.3 describes the sign-in flow itself,​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and Section 7 (Sourcing Notes) records the current limits of this access-control model.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​2. Architecture Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3. Workflow​",
+    "page": 4,
+    "heading_level": 1,
+    "heading_path": [
+      "​3. Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​At a high level, a representative signs in to manage their own profile and resources, while an​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​administrator signs in to manage the full roster of representatives and the shared content both​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​portals draw on. The two workflows below describe what each audience can do; Section 3.3​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​covers how sign-in works, and Section 3.4 summarizes the journey end to end.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3.1 Rep Portal​",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The Rep Portal is where a signed-in representative manages their own information and​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​resources. Key functionalities include:​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Overview:​​A personal dashboard showing an onboarding​​checklist and progress bar​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(contact info, sales-lead link, agreement, tax form, certification, consultant fee, business​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​card, and portal-credential milestones), plus a one-click way to copy the representative's​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​personal portal link.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Profile:​​A view of the representative's contact​​information, address, certification and​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​consultant-fee status, and their assigned relationships (who referred them, and which​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​senior consultant they are assigned to). Includes a self-service business-card approval​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​workflow — a representative can approve an admin-submitted business-card proof or​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​request changes.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Sales Leads:​​A single page presenting the representative's​​personal sales-lead link for​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​sharing with prospects.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Agreements & Forms:​​The representative's own​​agreement, pricing sheet, and​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​presentation materials (view/download, managed by the admin team) alongside a​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​self-service upload for their W-9 tax form.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Training Hub:​​Admin-curated training material and FAQs, a knowledge-base link, and​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​a library the representative can browse, filter by language, and contribute their own​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​training resources to.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Marketing Hub:​​Product and dashboard walkthrough​​videos, shared pricing materials,​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and a filterable library of marketing assets (images, PDFs, documents, and videos)​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​available to view or download.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Documents & Instructions:​​A read-only library​​of shared setup instructions (email​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​setup, contract-wizard instructions, W-9 template).​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Contact Us:​​A support form for messaging the admin​​team directly from within the​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​portal.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.1 Rep Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3.2 Admin Portal​",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The Admin Portal is where internal staff manage the representative roster and the content both​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​portals rely on. Key functionalities include:​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Reps Directory:​​A searchable, filterable roster​​of every representative with status and​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​document-completeness indicators, summary statistics, and a guided multi-step wizard​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​for onboarding a new representative.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Rep Detail Console:​​The most detailed screen​​in the application — a single​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representative's full record, covering contact and address information, referral​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​relationships, resource links, certification and consultant-fee status, bank details, admin​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and shared notes, portal credentials, document management (upload/replace/delete for​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​every document type), and account status, plus the ability to resend the welcome email​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​or remove the representative.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Training Hub Admin:​​Manages the fixed Training​​Hub materials (training PDF, FAQ),​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the knowledge-base link, and provides an oversight table of every document every​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representative has uploaded, system-wide.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Marketing Hub Admin:​​Full management of the​​marketing resource library, the four​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​product/dashboard video links, and the shared marketing pricing documents.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Email Settings:​​An editor for the new-representative​​welcome-email subject and​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​body, with insertable merge tokens and a live preview.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Documents & Instructions:​​Manages the shared​​instruction documents that​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representatives see in a read-only capacity.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.2 Admin Portal​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3.3 Authentication & Access​",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Representatives sign in with their email address and their numeric Representative ID;​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​administrators sign in with an email address and password on a separate tab of the same​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​screen. A successful sign-in is kept in the browser for the duration of the session so the portal​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​remains open across page reloads.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Visiting a representative's personal portal link (for example, as shared from the Overview​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​screen) resolves the representative automatically and signs them in without displaying the login​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​form, falling back to the manual form if the link cannot be resolved.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The Rep Portal and Admin Portal are gated independently, so being signed in to one does not​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​grant access to the other. The current scope and limitations of this model — including that it​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​governs navigation within the application rather than the API itself — are recorded candidly in​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Section 7 (Sourcing Notes).​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.3 Authentication & Access​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3.4 Overall User Workflow​",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The primary journey, for either audience, follows the same shape:​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Sign In → Land on Dashboard → Browse / Manage Records → Upload or Update​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Information → Get Support or Sign Out​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The interface is web-based and responsive, collapsing the side navigation into an overlay​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​drawer on narrower screens so the same portal is usable on desktop or mobile without a​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​separate build.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​3. Workflow​",
+      "​3.4 Overall User Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4. Summary Diagram​",
+    "page": 6,
+    "heading_level": 1,
+    "heading_path": [
+      "​4. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The diagram below summarizes the application's structure — the parallel Rep Portal and Admin​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​4. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Portal navigation trees, the actions available within each, and the overall user journey end to​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​4. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​end.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​4. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "PLEXO SALES REP PORTAL\nTwo-Portal Web Application\nCore App Shell (Angular SPA)\nLogin / Portal Deep-Link\nr\nLd Aa\nREP PORTAL ADMIN PORTAL\n7 .\nOverview Reps Directory\n(Onboarding checklist & portal link) (Roster, filters, create rep)\n+ ‘\nProfile Rep Detail Consale\n(Coritact info, certification, business card) (Full profile, bank, documents, notes}\n+ +\nSales Leads Training Huts Adenin\n[Personal lead-gereration lirik) (Shared materials & knowledge base)\n+ i\nAgreements & Por. Maeketing Hub Admin\nAgreement, 'W-%, pricing sheet) (Campaign Ebrary & video links)\n+ +\nTraining Hub Ereall Settings.\n(Materials, FAQ, own uploads) [Wielcome-email template)\n+ ti\nMartrting Hut Dees & instructions\n{Campaign assets & walkthroughs} (Shared instruction library)\n| +\nContact Us Create / Edit / Detote / Approve\n[Message the admin team)\nOVERALL USER JOURNEY\na 4\nDashboard Manage / Browse Upload / Update",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​4. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "tesseract_ocr"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5. Backend API Reference (.NET – Current)​",
+    "page": 8,
+    "heading_level": 1,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The backend currently in production is an ASP.NET Core Web API (project “PlexoRepPortal”),​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​backed by a SQL Server database (“PlexoRepPortalDB”) and a shared library (“PlexoCommon”)​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​that provides transactional email templates. The API is organized into nine functional domains,​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​each exposed through its own controller.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Domain​\n​Route Prefix​\n​Capability​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Sales Reps​\n​api/reps​\n​Create, update, list, filter, and soft-delete​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representative records; validate a Rep ID for​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​login; update resource links; trigger or resend​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the welcome email.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Login / Credentials​\n​api/users​\n​Validate representative sign-in (email + Rep ID)​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and admin sign-in (email + password).​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Documents​\n​api/documents​\n​Upload, list, preview/stream, and delete a​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representative's compliance and pricing​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​documents (agreement, W-9, certification,​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​pricing sheet, presentation, business-card​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​proof).​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Bank Details​\n​api/repbankdetails​\n​Store and retrieve a representative's payout​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​bank details, encrypted at rest.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Rep Notes​\n​api/repnotes​\n​Maintain admin-only and representative-shared​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​notes against a representative record.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Training &​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Marketing Hub​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​api/traininghub​\n​Upload, categorize, list, filter, stream, update,​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and delete training and marketing content​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(video, image, PDF, document).​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Training Hub Links​\n​api/traininghublinks​\n​Maintain the shared set of product/dashboard​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​video links, knowledge-base link, and​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​sales-lead link.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Welcome Email​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Settings​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​api/welcomeemailsettin​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​gs​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Maintain the editable subject and body​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​template, with merge tokens, used for the​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​new-representative welcome email.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Domain | Route Prefix | Capability\nSales Reps | api/reps | Create, update, list, filter, and soft-delete\nrepresentative records; validate a Rep ID for\nlogin; update resource links; trigger or resend\nthe welcome email.\nLogin / Credentials | api/users | Validate representative sign-in (email + Rep ID)\nand admin sign-in (email + password).\nDocuments | api/documents | Upload, list, preview/stream, and delete a\nrepresentative's compliance and pricing\ndocuments (agreement, W-9, certification,\npricing sheet, presentation, business-card\nproof).\nBank Details | api/repbankdetails | Store and retrieve a representative's payout\nbank details, encrypted at rest.\nRep Notes | api/repnotes | Maintain admin-only and representative-shared\nnotes against a representative record.\nTraining &\nMarketing Hub | api/traininghub | Upload, categorize, list, filter, stream, update,\nand delete training and marketing content\n(video, image, PDF, document).\nTraining Hub Links | api/traininghublinks | Maintain the shared set of product/dashboard\nvideo links, knowledge-base link, and\nsales-lead link.\nWelcome Email\nSettings | api/welcomeemailsettin\ngs | Maintain the editable subject and body\ntemplate, with merge tokens, used for the\nnew-representative welcome email.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Support​\n​api/support​\n​Route the three “contact the admin team” flows​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(Ask Admin, Contact Us, Business Card​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Change Request) to a fixed internal mailbox.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.1 Data Model Overview​",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Representative:​​The core entity — identity, profile​​and address, resource links,​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​certification/status/business-card flags, referral relationships, and encrypted portal​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​credentials.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Documents:​​Per-representative uploaded file metadata​​(kind, file name, storage path,​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​upload timestamp).​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Training Hub Content & Links:​​Uploaded asset metadata​​for the training/marketing​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​library, and the single shared record of static links.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Bank Details:​​Encrypted payout bank information,​​one record per representative.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Notes:​​Free-text notes keyed by representative and​​note kind (admin-only or shared).​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Welcome Email Settings:​​The single editable email​​template record, including merge​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​tokens.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Support Requests:​​Transient payloads for the three​​contact flows — emailed directly​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​rather than stored.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.1 Data Model Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.2 Supporting Services​",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.2 Supporting Services​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Encryption Service:​​Provides AES-256 encryption​​and decryption for sensitive fields​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.2 Supporting Services​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​at rest — bank details and portal credential fields.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.2 Supporting Services​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Email Service:​​Sends transactional and notification​​email over SMTP, rendering​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.2 Supporting Services​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​shared HTML templates provided by PlexoCommon.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.2 Supporting Services​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.3 Database Schema Overview​",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Representative core:​​Reps​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Financial:​​RepBankDetails​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Documents:​​RepDocuments​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Content hub:​​TrainingHubDocuments, TrainingHubLinks​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Admin annotations:​​RepNotes​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Support | api/support | Route the three “contact the admin team” flows\n(Ask Admin, Contact Us, Business Card\nChange Request) to a fixed internal mailbox.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Configuration:​​WelcomeEmailSettings​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​A post-deployment script seeds the Training Hub Links and Welcome Email Settings tables with​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​default values the first time the database is deployed to an empty environment.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Backend API Reference (.NET – Current)​",
+      "​5.3 Database Schema Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6. Sourcing Notes​",
+    "page": 10,
+    "heading_level": 1,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​This overview was compiled by reviewing the application's underlying source code — its routing,​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​screens, controllers, and services — rather than from a separate written specification. It reflects​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​how the application currently behaves as of this review, and is intended as a functional​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​reference rather than a design document.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​A few points are worth keeping in mind when relying on this profile:​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Authentication scope:​​Sign-in on both portals​​validates credentials, but the resulting​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​session is not carried forward as a token that the API itself checks on each request. In its​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​current state, the API does not independently authenticate or authorize requests — this​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​is worth addressing before the application is reachable outside a trusted network.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Admin credentials:​​The admin sign-in path currently​​checks a single configured​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​credential pair rather than a managed set of admin accounts. A proper admin identity​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and role model is recommended before wider rollout.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Configuration & secrets:​​Database, encryption,​​and email-sending credentials are​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​currently stored directly in the API's configuration file rather than a secrets manager.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​These should be rotated and externalized as part of hardening the application for​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​production use.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Cross-origin policy:​​The API currently accepts​​requests from any origin. This should​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​be scoped to the application's known front-end origins before public release.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​API documentation exposure:​​The interactive​​API documentation​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(Swagger/OpenAPI) is available without an environment check; consider restricting it to​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​non-production environments.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​File storage:​​Uploaded documents and training/marketing​​assets are currently stored​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​on the API server's local disk at a fixed path rather than a managed storage service —​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​worth revisiting for scaling or multi-instance deployment.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Commission tracking:​​The Commission screen exists in the Rep Portal but is not​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​currently linked from the visible navigation, and shows placeholder ($0) data — the​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​backend does not yet model actual commission transactions.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Legacy route:​​An older “Documents” screen, superseded​​by “Agreements & Forms,”​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​remains reachable by direct URL though it is no longer linked from navigation.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Saved templates:​​The two blank document templates​​(Agreement, W-4) shown to​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​representatives are currently held in the browser session rather than served from the​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​backend, and reset on refresh.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Scaffolding:​​A default sample endpoint from the​​API project template remains in the​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​codebase and is not part of the business functionality.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​\n​Environment configuration:​​The front end's default​​(non-production) configuration​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​points at a local development instance of the API rather than a distinct staging​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​environment.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7. Technology Used​",
+    "page": 11,
+    "heading_level": 1,
+    "heading_path": [
+      "​7. Technology Used​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7.1 Frontend​",
+    "page": 11,
+    "heading_level": 2,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Layer​\n​Technology​\n​Notes​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Framework​\n​Angular 22​\n​Built with standalone components​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​throughout​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​UI Kit​\n​Angular Material & CDK​\n​Cards, dialogs, steppers, tables, menus,​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​breakpoint observer​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​State Management​\n​Angular Signals & RxJS​\n​Signal-based “store” services for shared,​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​reactive app state; RxJS handles the HTTP​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​request pipeline​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​HTTP Client​\n​Angular HttpClient​\n​A thin, centralized wrapper used for every​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​backend call​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Testing​\n​Vitest​\n​Unit tests for stores, guards, and​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​components​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Responsive Design​\n​Angular CDK Breakpoint​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Observer​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Adapts the side navigation for mobile and​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​desktop​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Layer | Technology | Notes\nFramework | Angular 22 | Built with standalone components\nthroughout\nUI Kit | Angular Material & CDK | Cards, dialogs, steppers, tables, menus,\nbreakpoint observer\nState Management | Angular Signals & RxJS | Signal-based “store” services for shared,\nreactive app state; RxJS handles the HTTP\nrequest pipeline\nHTTP Client | Angular HttpClient | A thin, centralized wrapper used for every\nbackend call\nTesting | Vitest | Unit tests for stores, guards, and\ncomponents\nResponsive Design | Angular CDK Breakpoint\nObserver | Adapts the side navigation for mobile and\ndesktop",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.1 Frontend​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7.2 Backend (Current)​",
+    "page": 12,
+    "heading_level": 2,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Layer​\n​Technology​\n​Notes​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Framework​\n​ASP.NET Core 9 Web API​\n​Controller-based REST API​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​ORM​\n​Entity Framework Core​\n​Data access against SQL Server, including​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​a soft-delete query filter​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Database​\n​Microsoft SQL Server​\n​Hosted relational database​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Security​\n​AES-256 encryption​\n​Protects bank details and portal credential​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​fields at rest​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Email​\n​SMTP​\n​Sends transactional and notification email​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​via shared HTML templates​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​API Documentation​\n​Swagger / OpenAPI​\n​Interactive API documentation​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​7. Technology Used​",
+      "​7.2 Backend (Current)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​8. Contact​",
+    "page": 12,
+    "heading_level": 1,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Website: https://www.tecsack.in​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Contact Form: https://www.tecsack.in/contact.html​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Email: researchwing@tecsack.in​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Headquarters: Salem, India​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Phone: +91-9786297172​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Layer | Technology | Notes\nFramework | ASP.NET Core 9 Web API | Controller-based REST API\nORM | Entity Framework Core | Data access against SQL Server, including\na soft-delete query filter\nDatabase | Microsoft SQL Server | Hosted relational database\nSecurity | AES-256 encryption | Protects bank details and portal credential\nfields at rest\nEmail | SMTP | Sends transactional and notification email\nvia shared HTML templates\nAPI Documentation | Swagger / OpenAPI | Interactive API documentation",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​8. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  }
+]

@@ -1,0 +1,2482 @@
+[
+  {
+    "element_type": "heading",
+    "text": "DIGITAL SAVINGS",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "DIGITAL SAVINGS"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 25.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PROJECT CASE STUDY",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "PROJECT CASE STUDY"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Digital Savings Synergy App",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "PROJECT CASE STUDY",
+      "Digital Savings Synergy App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "PROJECT CASE STUDY",
+      "Digital Savings Synergy App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "PROJECT CASE STUDY",
+      "Digital Savings Synergy App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Public",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "PROJECT CASE STUDY",
+      "Digital Savings Synergy App"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Secure Access & Onboarding",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Discover Offers & Savings",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Location-Based Discovery",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Saved Offers, Favorites & Alerts",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Gift Cards, Payments & Redemption",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Membership & Subscription Experience",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Support, Content & Referrals",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Profile & App Preferences",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. Engagement & Insights",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Value Delivered",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Digital Savings Synergy App (SdMAUI) is a customer-facing mobile application designed to",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "make savings, merchant offers, digital gift-card activity, and member engagement accessible",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "from one guided experience. The application brings together discovery, location-aware",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "browsing, offer saving, redemption-related journeys, membership, and support content in a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "single mobile workspace.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The app is built for consumers who want to find relevant offers, explore participating locations,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "manage their saved interests, use digital value, and stay connected with the service. Its",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "experience combines a simple entry point with a broader set of self-service and engagement",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "features available after sign-in.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Customers looking for savings and merchant benefits typically need to move between",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "discovery, location search, offer details, saved items, payment or gift-card actions, and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "account support. When these steps are fragmented, users can lose context and businesses",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "have fewer opportunities to sustain engagement.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The SdMAUI application centralizes these touchpoints in a mobile-first experience. It supports",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "a clear progression from access and onboarding through offer discovery, selection, saving,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "location exploration, digital value management, and continued engagement.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure Access & Onboarding\nLogin, account creation, password recovery, and",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "guided entry into the member experience.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nSecure Access & Onboarding | Login, account creation, password recovery, and\nguided entry into the member experience.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Offer Discovery\nBrowse, search, filter, and open offer details to",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "understand available savings opportunities.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Location-Aware Experience\nUse map and location features to discover",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "participating places and nearby opportunities.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Saved Engagement\nSave favorite offers, review saved items, and receive",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "offer-related notifications and alerts.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Digital Value Journeys\nSupport gift-card loading, card management,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "purchase-related flows, and redemption history.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Membership & Community\nSubscription-related experiences, referrals, sharing,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and member-facing content.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Self-Service Support\nAccess FAQs, terms, privacy content, contact",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "channels, and in-app informational pages.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Secure Access & Onboarding",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Users begin at a focused welcome screen with options to log in or join. The application also",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "provides password recovery and password-update journeys, helping users regain access and",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "complete account setup without leaving the mobile experience.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Discover Offers & Savings",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Browse offer listings and open a dedicated offer details experience for the full description and",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "available actions.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Use search and filtering controls to narrow the offer experience to more relevant results.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nOffer Discovery | Browse, search, filter, and open offer details to\nunderstand available savings opportunities.\nLocation-Aware Experience | Use map and location features to discover\nparticipating places and nearby opportunities.\nSaved Engagement | Save favorite offers, review saved items, and receive\noffer-related notifications and alerts.\nDigital Value Journeys | Support gift-card loading, card management,\npurchase-related flows, and redemption history.\nMembership & Community | Subscription-related experiences, referrals, sharing,\nand member-facing content.\nSelf-Service Support | Access FAQs, terms, privacy content, contact\nchannels, and in-app informational pages.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Explore category-oriented content such as deals, shopping, travel, and other available offer",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "experiences presented by the application.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Share selected offers where the user journey makes sharing relevant.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Location-Based Discovery",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Location-aware features connect offer discovery with physical places. Map views, location",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "details, pin imagery, and location services support a more practical experience for users who",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "want to understand where an offer or participating merchant can be found.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​View participating locations through map-based screens and location details.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Use device location capabilities to support nearby discovery and geofenced engagement",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "scenarios.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Move from a location or map view into relevant offer and merchant information.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Saved Offers, Favorites & Alerts",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Users can keep the offers that matter to them close at hand. Favorite and saved-offer areas",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "provide a return path to previously selected content, while notifications and saving-alert",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "screens support ongoing awareness of offer activity.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Gift Cards, Payments & Redemption",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application includes customer journeys for adding a credit or debit card, loading a digital",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "gift card, viewing gift-card activity, entering gift-card details, and reviewing redemption history.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "These capabilities connect savings discovery with the digital value that a customer can",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "manage and use.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Membership & Subscription Experience",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Subscription screens provide a dedicated place for membership-related actions and status.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The source includes subscription, success, expiration, and renewal-oriented experiences,",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "allowing the application to guide users through the lifecycle of a membership relationship.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Support, Content & Referrals",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Provide FAQ and informational pages to answer common questions and explain the service.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Expose contact and about-us content for customer support and company context.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Present terms of use and privacy information through dedicated content experiences.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Support referral and friend-sharing journeys that help customers introduce the service to others.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Include an in-app chat entry point and web-backed content experiences where appropriate.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Profile & App Preferences",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Account and preference areas give users a place to manage personal information, address",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "details, billing address information, language selection, settings, and sign-out. Notification",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inbox and message-detail experiences provide a further self-service path for staying informed.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a typical customer journey from first access through discovery,",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "selection, digital value activity, and continued engagement.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Stage\nCustomer outcome",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Open the application\nLogin or join and complete the required account steps",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Explore savings\nBrowse, search, filter, and open an offer or category",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Find a relevant place\nUse map and location details to understand where the",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "opportunity is available",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Stage | Customer outcome\nOpen the application | Login or join and complete the required account steps\nExplore savings | Browse, search, filter, and open an offer or category\nFind a relevant place | Use map and location details to understand where the\nopportunity is available",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Stage\nCustomer outcome",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Save or share\nFavorite an offer, keep it for later, or share it with",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "others",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Use digital value\nManage card or gift-card actions and review",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "redemption-related history",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Stay engaged\nReceive notifications, manage subscription status,",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and use support or referral features",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "A separate support path allows users to move directly to FAQs, contact, privacy, terms,",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "settings, or account recovery whenever assistance is needed.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Engagement & Insights",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application is designed to keep the customer journey visible and actionable across",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "several engagement surfaces:",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Offer browsing and saved-offer areas help users return to opportunities they have already",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "considered.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Map and location experiences connect digital discovery with real-world merchant visits.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Notifications, inbox views, and alerts create a channel for timely customer communication.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Gift-card and redemption history screens give users a clearer view of digital value activity.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Subscription and account settings make membership and preferences easier to manage.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​FAQ, contact, about-us, privacy, and terms content supports self-service and trust.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Together, these areas create a connected mobile experience rather than a single-purpose",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "offer catalogue. The application supports discovery, decision-making, action, and return",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "engagement within one product journey.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Stage | Customer outcome\nSave or share | Favorite an offer, keep it for later, or share it with\nothers\nUse digital value | Manage card or gift-card actions and review\nredemption-related history\nStay engaged | Receive notifications, manage subscription status,\nand use support or referral features",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "6. Engagement & Insights"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Area\nHigh-level implementation",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Mobile framework\nMicrosoft .NET MAUI with a shared application",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "experience for mobile platforms.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Programming platform\n.NET 9 application targeting Android and iOS project",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "configurations.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "User experience\nXAML-based mobile screens with reusable controls,",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "resource dictionaries, and localized application",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "content.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Application services\nService-oriented mobile components for",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "authentication, offers, billing, location, geofencing,",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "navigation, and data access.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Device capabilities\nMaps, location services, geofencing, notifications,",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "secure storage, dialogs, bottom sheets, and",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "biometric-related support where enabled.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Supporting libraries\nCommunityToolkit for MAUI and MVVM patterns, map",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and card-view components, JSON/data utilities, and",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "platform-specific billing integrations.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Value Delivered",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Brings offer discovery, saved engagement, location awareness, digital value, and membership",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "into one mobile experience.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Reduces friction between finding an opportunity and taking the next customer action.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Area | High-level implementation\nMobile framework | Microsoft .NET MAUI with a shared application\nexperience for mobile platforms.\nProgramming platform | .NET 9 application targeting Android and iOS project\nconfigurations.\nUser experience | XAML-based mobile screens with reusable controls,\nresource dictionaries, and localized application\ncontent.\nApplication services | Service-oriented mobile components for\nauthentication, offers, billing, location, geofencing,\nnavigation, and data access.\nDevice capabilities | Maps, location services, geofencing, notifications,\nsecure storage, dialogs, bottom sheets, and\nbiometric-related support where enabled.\nSupporting libraries | CommunityToolkit for MAUI and MVVM patterns, map\nand card-view components, JSON/data utilities, and\nplatform-specific billing integrations.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Supports a consistent experience across Android and iOS through a shared .NET MAUI",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "application foundation.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Provides customer self-service for account access, preferences, support content, notifications,",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and activity history.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Creates reusable mobile foundations for ongoing enhancement of offers, engagement, and",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "member services.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "8. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Our Contribution",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Based on the SdMAUI project materials, our contribution is evidenced in the implementation",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "of the mobile application experience across its customer journeys and supporting platform",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "services. The work covers the delivery of user-facing screens, navigation, reusable controls,",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "localization resources, offer and membership experiences, location-aware features, digital",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "value journeys, and platform-specific mobile integrations.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Mobile application implementation using a shared .NET MAUI foundation for Android and iOS.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​UI/UX implementation for login, onboarding, offers, maps, favorites, gift cards, subscriptions,",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "profile, support, and notification journeys.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Business workflow implementation connecting discovery, saving, location context, digital value",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "actions, and ongoing engagement.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Platform support for device location, geofencing, maps, billing-related experiences, secure",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "storage, dialogs, and mobile interaction patterns.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​Application enhancement foundations through reusable controls, shared resources, localized",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "content, and service abstractions.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Our Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Project Outcome",
+    "page": 10,
+    "heading_level": 2,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Digital Savings Synergy App provides a practical mobile channel for customers to discover",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "savings, understand participating locations, manage saved interests, access digital value",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "features, and remain connected to the service. Its broad workflow coverage gives the",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "business a foundation for customer acquisition, repeat engagement, member support, and",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "continued product growth.",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "This document is based on the verified project source and is intentionally presented at a",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "business level. It excludes source code, service endpoints, credentials, private data, and",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "developer-only configuration.",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "DIGITAL SAVINGS",
+      "Project Outcome"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

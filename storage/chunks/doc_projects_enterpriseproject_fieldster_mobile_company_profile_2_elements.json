@@ -1,0 +1,3635 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 32.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "COMPANY PROFILE",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 17.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Fieldster Mobile",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Fieldster Mobile"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 21.0,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Fieldster Mobile"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Fieldster Mobile"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Public",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Fieldster Mobile"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 1,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Login & Navigation​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Lead, Customer & Property Management​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Appointment & Route Scheduling​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Field Service Documentation​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Forms & Inspection Reports​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 E-Documents & Digital Agreements​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Billing & Payment Processing​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Ticket Management​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.9 Time Tracking & Photo Documentation​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.10 Offline Sync & Data Management​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. Field Visibility & Operational Insight​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Tecsack Software's Role & Contribution​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "9. Value Delivered​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fieldster Mobile is a cross-platform mobile field-service application built for pest control,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "termite inspection, and property service companies to equip their technicians with everything",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "needed to complete a day of scheduled visits from a phone or tablet — in the field, with or",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "without a live internet connection.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application connects technicians in the field to the office back-end system, giving service",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "companies a single mobile workspace to schedule and route appointments, capture on-site",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inspection and treatment records, generate and sign digital service agreements, document work",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "with photos and diagrams, collect customer payments, and keep field and office data in sync —",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "all from one native mobile app on Android and iOS.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Pest control, termite inspection, and property service companies that manage a mobile",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "technician workforce typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Schedule and route technician appointments efficiently across many customer properties",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture detailed on-site inspection and treatment records — pest activity, chemical",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "applications, structural conditions, and bait/monitoring station readings",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Produce industry-specific inspection paperwork, such as wood infestation/destroying-insect",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "reports and pretreatment records",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Collect customer signatures on service agreements and diagram the areas of a property that",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "were treated",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture and manage photo documentation of each visit",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Process customer payments in the field, by credit card or ACH",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track and resolve field and service issues through to completion",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keep technician and office records synchronized, even where connectivity is unreliable",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Handling this across a mobile technician workforce without a dedicated field application leads",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "to paper-based records, delayed office visibility, inconsistent documentation, and slower",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "payment collection. Fieldster Mobile centralizes the entire field-technician workflow — from the",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "day's schedule through documentation, signature, payment, and sync — into a single,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "purpose-built mobile application.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure Technician Login",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Authenticated sign-in with company context and a",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "centralized navigation menu",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Lead, Customer & Property",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Management",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capture leads and manage customer, property, and contact",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "records",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Appointment & Route",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Scheduling",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "List, calendar, and map views of the day's route, with search,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "sort, and reassignment",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Property & Station Tracking",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Manage property locations and treatment assets, including",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "bait/monitoring station networks",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Field Service",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Documentation",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Record chemical applications, pest activity, site conditions,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and environmental readings",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Diagramming Tools",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Draw and annotate treatment diagrams directly on a",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "graphical property map",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Inspection & Pretreat",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Forms",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Complete structured, industry-specific inspection and",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "pretreatment paperwork",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "E-Document & Signature",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capture",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fill, sign, and send digital service agreements and autopay",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "authorizations on-device",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Payment Processing",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Collect credit card and ACH payments in the field through",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "integrated secure processing",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nSecure Technician Login | Authenticated sign-in with company context and a\ncentralized navigation menu\nLead, Customer & Property\nManagement | Capture leads and manage customer, property, and contact\nrecords\nAppointment & Route\nScheduling | List, calendar, and map views of the day's route, with search,\nsort, and reassignment\nProperty & Station Tracking | Manage property locations and treatment assets, including\nbait/monitoring station networks\nField Service\nDocumentation | Record chemical applications, pest activity, site conditions,\nand environmental readings\nDiagramming Tools | Draw and annotate treatment diagrams directly on a\ngraphical property map\nInspection & Pretreat\nForms | Complete structured, industry-specific inspection and\npretreatment paperwork\nE-Document & Signature\nCapture | Fill, sign, and send digital service agreements and autopay\nauthorizations on-device\nPayment Processing | Collect credit card and ACH payments in the field through\nintegrated secure processing",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Ticket Management\nCreate, assign, resolve, and reopen field/service tickets",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Time Tracking\nLog technician time-in/time-out for every appointment",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Photo Documentation\nCapture, annotate, and manage service photos",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Offline Data Sync",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Keep working without connectivity; automatically reconcile",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "with the office once back online",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Login & Navigation",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Technicians authenticate through a secure sign-in screen tied to their company account. Once",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "signed in, they land on a central, tab-based navigation hub — covering the calendar, tickets, and",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "the app menu — that gives quick access to every workflow in the application.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 Lead, Customer & Property Management",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.2 Lead, Customer & Property Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture new sales leads directly from the field",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.2 Lead, Customer & Property Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Search existing customers and properties, and manage related contacts",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.2 Lead, Customer & Property Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Maintain and browse property and location records tied to each customer",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.2 Lead, Customer & Property Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View customer balance and account information relevant to a scheduled visit",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.2 Lead, Customer & Property Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Appointment & Route Scheduling",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The Appointment is the central unit of work in Fieldster Mobile — once one is created, every",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "downstream step of the visit (documentation, forms, signature, payment, and any resulting",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "ticket) is carried out within that same appointment record.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Create new appointments with associated agreement type, service line, service type, and",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "billing detail",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View the day's and historical appointments in list, calendar, or map view",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Search and filter appointments by multiple criteria, including a combined list-and-map search",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Ticket Management | Create, assign, resolve, and reopen field/service tickets\nTime Tracking | Log technician time-in/time-out for every appointment\nPhoto Documentation | Capture, annotate, and manage service photos\nOffline Data Sync | Keep working without connectivity; automatically reconcile\nwith the office once back online",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Sort and reorder the day's route, and move jobs between technicians or time slots",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Review historical appointment and service records for a property",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.3 Appointment & Route Scheduling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Field Service Documentation",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Record chemical applications and treatment detail, pest sightings and activity, and site",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "condition notes",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Log pH and weather readings relevant to a treatment",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Manage bait and monitoring station records, including Sentricon-type termite station",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "networks",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Draw and annotate treatment diagrams directly on a graphical property map, using reusable",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "symbol tools and prior-visit diagram history for context",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.4 Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Forms & Inspection Reports",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.5 Forms & Inspection Reports"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Complete structured, industry-specific inspection paperwork such as wood",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.5 Forms & Inspection Reports"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "infestation/destroying-insect reports",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.5 Forms & Inspection Reports"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Complete pretreatment forms and other configurable, custom service forms",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.5 Forms & Inspection Reports"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Retrieve and review previously completed forms tied to a job",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.5 Forms & Inspection Reports"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 E-Documents & Digital Agreements",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.6 E-Documents & Digital Agreements"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Present, fill, and capture customer signatures on service agreements and autopay",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.6 E-Documents & Digital Agreements"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "authorizations directly on the device",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.6 E-Documents & Digital Agreements"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Select the correct agreement or document set for a given job",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.6 E-Documents & Digital Agreements"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Send completed, signed documents from the field",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.6 E-Documents & Digital Agreements"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Billing & Payment Processing",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Securely process customer credit card and ACH payments in the field, integrated with the",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Adyen payment platform",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View stored payment methods and customer balance detail before collecting payment",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Support alternate payment options, with encrypted payment-token handling to protect card",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "data",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.7 Billing & Payment Processing"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Ticket Management",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.8 Ticket Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Create, assign, resolve, and reopen service tickets tied to a customer or property",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.8 Ticket Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track ticket status and history so field and office staff stay aligned on open issues",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.8 Ticket Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.9 Time Tracking & Photo Documentation",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.9 Time Tracking & Photo Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Log technician time-in/time-out per appointment for accurate labor tracking",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.9 Time Tracking & Photo Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture, annotate — markup, highlight, and text — and manage photos tied to a service visit,",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.9 Time Tracking & Photo Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "through a dedicated picture gallery and edit toolset",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.9 Time Tracking & Photo Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.10 Offline Sync & Data Management",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Local, on-device data storage lets technicians keep working in areas with poor or no signal",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A background sync process reconciles field-entered data with the office system once",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "connectivity is restored, with visible sync status",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Push notifications keep technicians informed of new or changed appointments and service",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "alerts",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "4. Functional Modules",
+      "4.10 Offline Sync & Data Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Every service visit in Fieldster Mobile is built around the Appointment. Once an appointment is",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "created, everything that follows for that visit — navigation, field documentation, forms,",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "signatures, payment, time tracking, and any resulting ticket — happens inside that same",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "appointment, keeping the full visit record as one connected unit through to office sync.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Set up Lead / Customer / Property records",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Create Appointment (schedule, route & assign the visit)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "-------------------- Inside the Appointment --------------------",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Navigate to Property",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Navigate to Property"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Navigate to Property"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Navigate to Property"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Field Service Documentation",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(chemical application / pest & condition notes /",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "station readings / property diagram)",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Field Service Documentation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Complete Inspection or Pretreat Forms (where required)",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Complete Inspection or Pretreat Forms (where required)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Complete Inspection or Pretreat Forms (where required)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Complete Inspection or Pretreat Forms (where required)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Fill & Capture Signature on E-Document / Agreement",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Fill & Capture Signature on E-Document / Agreement"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Fill & Capture Signature on E-Document / Agreement"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Fill & Capture Signature on E-Document / Agreement"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Collect Payment (credit card / ACH)",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Collect Payment (credit card / ACH)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Collect Payment (credit card / ACH)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "+----+----+",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Collect Payment (credit card / ACH)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Collect Payment (credit card / ACH)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Collect Payment (credit card / ACH)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Time Log Ticket Raised (if an issue is found)",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Time Log Ticket Raised (if an issue is found)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Closed |",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Time Log Ticket Raised (if an issue is found)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| v",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "Time Log Ticket Raised (if an issue is found)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "| Assign / Resolve / Reopen Ticket",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "+-------+------+",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "---------------------------------------------------------------",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Sync Appointment Data to Office System",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Office Visibility: Completed Visit, Documents, Photos & Payment",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(Offline-first: every step above continues to work without a live",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "connection",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and reconciles automatically once the device is back online.)",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "5. End-to-End Workflow",
+      "| Assign / Resolve / Reopen Ticket"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Field Visibility & Operational Insight",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fieldster Mobile keeps technicians — and, through synchronized data, the office — informed",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "throughout the day, including:",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A daily schedule view (list, calendar, and map) showing scheduled, in-progress, and",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "completed appointments",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A notification center surfacing new appointments, schedule changes, and service alerts",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Historical appointment and service views for reviewing past visits to a property",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Clear sync status so technicians always know their field-entered data is up to date with the",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "office",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Photo, form, diagram, and e-document records tied back to each appointment for later",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "reference by the office and the customer",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "6. Field Visibility & Operational Insight"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Layer\nDescription",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Layer | Description",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• .NET MAUI (Multi-platform App UI) targeting the latest .NET",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "runtime — native apps for Android and iOS from a single shared",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "codebase",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Data Layer",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "On-device local storage enabling offline-first operation,",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "synchronized with a central web-based service",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Payments",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Integrated Adyen payment platform, including a native iOS",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "payment component, for secure card and ACH processing",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Location & Mapping",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Google Maps integration for route, property, and technician",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "location visualization",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Architecture",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "MVVM (Model-View-ViewModel) pattern with dependency",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "injection, Shell-based navigation, and a library of custom,",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "native-feel controls for bottom sheets, calendars, pickers, and",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "diagramming",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Usage Analytics",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "In-app analytics integration to help monitor adoption and guide",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "continued improvement",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Role & Contribution",
+    "page": 10,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software has served as the engineering team behind Fieldster Mobile's ongoing",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "development — delivering new field-technician capabilities, resolving platform-specific issues",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "across Android and iOS, and continuously refining the appointment, documentation, and",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "payment workflows that technicians rely on every day.",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Highlights of Tecsack Software's contribution include:",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ End-to-end feature delivery: across every functional area of the application — from lead",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "capture and appointment creation through field documentation, e-signature, payment, and",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "sync",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Custom UI engineering: design and development of a library of reusable, native-feel controls",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "— bottom sheets, calendars, search, and photo markup tools — used throughout the app",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Platform | • .NET MAUI (Multi-platform App UI) targeting the latest .NET\nruntime — native apps for Android and iOS from a single shared\ncodebase\nData Layer | On-device local storage enabling offline-first operation,\nsynchronized with a central web-based service\nPayments | Integrated Adyen payment platform, including a native iOS\npayment component, for secure card and ACH processing\nLocation & Mapping | Google Maps integration for route, property, and technician\nlocation visualization\nArchitecture | MVVM (Model-View-ViewModel) pattern with dependency\ninjection, Shell-based navigation, and a library of custom,\nnative-feel controls for bottom sheets, calendars, pickers, and\ndiagramming\nUsage Analytics | In-app analytics integration to help monitor adoption and guide\ncontinued improvement",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Continuous quality improvement: an iterative release cadence of fixes and refinements",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "based on real field usage",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Cross-platform engineering: platform-specific work for both Android and iOS, including",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "native payment integration",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Ongoing platform support: steady, incremental delivery that keeps the appointment,",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "documentation, and payment experience reliable and up to date for the technicians who",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "depend on it daily",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "8. Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "9. Value Delivered",
+    "page": 11,
+    "heading_level": 2,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Gives field technicians a single mobile workspace covering the entire visit lifecycle — from",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "creating the appointment through documentation, signature, payment, and sync",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Reduces paperwork and manual data entry through structured, on-device inspection and",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "treatment forms",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Speeds up cash collection with secure, in-field credit card and ACH payment processing",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keeps office and field records aligned through automatic, offline-first data synchronization",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Improves accountability with photo, signature, and time-tracking documentation tied to",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "every appointment",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Provides a consistent, native experience across Android and iOS so office and field teams",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "share one reliable system",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "Table of Contents",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

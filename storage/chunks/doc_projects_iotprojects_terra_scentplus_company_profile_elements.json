@@ -1,0 +1,1414 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 24.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "COMPANY PROFILE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 24.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Terra — Scent Plus Device Companion App",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Public",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Device Discovery & Network Setup",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Guided Wi-Fi Provisioning",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Device Dashboard & Monitoring",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Spray Schedule Management",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Device Modes & Manual Controls",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Firmware (OTA) Updates",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Connection Health & Diagnostics",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. Reporting & Analytics",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Value Delivered",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1.​Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Terra (marketed to end users as Scent Plus) is a mobile companion application built to automate the",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "setup, scheduling, and monitoring of Wi-Fi-connected scent and fragrance dispenser devices for home",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and business use.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application gives users a single, mobile-first workspace to bring a new device onto their home network,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "configure a spraying schedule, monitor device status, and keep firmware up to date — all from one phone,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "with no separate hub, screen, or PC required.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1.​Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.​Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Organizations and consumers deploying screenless smart-home devices typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Onboard a new Wi-Fi device onto a home or business network without a direct physical connection",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Configure and adjust an operating schedule remotely, without buttons or a display on the device",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Monitor consumable levels, battery, and overall device health at a glance",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Keep device firmware current without returning the unit or connecting it to a computer",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Diagnose a lost connection quickly and get clear guidance to restore it",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Handling this manually for screenless IoT hardware is cumbersome and inconsistent. Terra centralizes",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "the entire device lifecycle — from provisioning through scheduling, monitoring, and servicing — into a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "single, purpose-built mobile app.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2.​Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3.​Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Wi-Fi Network Discovery\nScans and lists nearby Wi-Fi networks directly from the device setup screen",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Guided Device\nProvisioning",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "One-tap wireless pairing that gets a new device onto the home network\nwithout a physical connection",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Live Device Dashboard\nReal-time battery level, remaining scent capacity, estimated days remaining,\nand firmware version",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Spray Schedule Engine\nDay-by-day, time-based scheduling with independent active/inactive control per\nentry",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Firmware Update Delivery\nOver-the-air firmware delivery with automatic version comparison and one-tap\nupdate",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Connection Health\nMonitoring",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Continuous background checks that detect and immediately surface a lost\ndevice connection",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nWi-Fi Network Discovery Scans and lists nearby Wi-Fi networks directly from the device setup screen | \nGuided Device\nProvisioning | One-tap wireless pairing that gets a new device onto the home network\nwithout a physical connection\nLive Device Dashboard Real-time battery level, remaining scent capacity, estimated days remaining,\nand firmware version | \nSpray Schedule Engine | Day-by-day, time-based scheduling with independent active/inactive control per\nentry\nFirmware Update Delivery Over-the-air firmware delivery with automatic version comparison and one-tap\nupdate | \nConnection Health\nMonitoring | Continuous background checks that detect and immediately surface a lost\ndevice connection",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3.​Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.​Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1​Device Discovery & Network Setup",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.1​Device Discovery & Network Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Users open the app directly to a network list screen that scans nearby Wi-Fi networks in real time. The",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.1​Device Discovery & Network Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "screen highlights the target device as it is detected and guides the user straight into the pairing flow —",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.1​Device Discovery & Network Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "there is no separate sign-in step, so setup starts immediately.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.1​Device Discovery & Network Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2​Guided Wi-Fi Provisioning",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.2​Guided Wi-Fi Provisioning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Select a home Wi-Fi network and enter its password",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.2​Guided Wi-Fi Provisioning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ The app securely transmits the network credentials to the unprovisioned device over the air",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.2​Guided Wi-Fi Provisioning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ The device automatically joins the home network without ever being directly connected to the phone",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.2​Guided Wi-Fi Provisioning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ The app verifies the connection and proceeds straight into the device dashboard",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.2​Guided Wi-Fi Provisioning"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3​Device Dashboard & Monitoring",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.3​Device Dashboard & Monitoring"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Central dashboard surfaces battery level, remaining scent capacity, estimated days of scent\nremaining, and current firmware version",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.3​Device Dashboard & Monitoring"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ An automatic health check confirms the device is reachable before live data is shown",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.3​Device Dashboard & Monitoring"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Clear visual status indicators alert the user immediately if the connection is lost",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.3​Device Dashboard & Monitoring"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4​Spray Schedule Management",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.4​Spray Schedule Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Weekly, day-by-day schedule editor for configuring spray timing and frequency",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.4​Spray Schedule Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Each schedule entry can be activated, deactivated, or removed independently",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.4​Spray Schedule Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Schedule changes are sent directly to the device and take effect immediately",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.4​Spray Schedule Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5​Device Modes & Manual Controls",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.5​Device Modes & Manual Controls"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Demo mode triggers an immediate spray on demand, for testing and verification",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.5​Device Modes & Manual Controls"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Sleep mode places the device into a low-power state when it isn't needed",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.5​Device Modes & Manual Controls"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Manual controls are available for dispenser configuration",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.5​Device Modes & Manual Controls"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6​Firmware (OTA) Updates",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.6​Firmware (OTA) Updates"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ The app automatically compares the device's current firmware version against the latest available\nversion",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.6​Firmware (OTA) Updates"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ When a newer version is available, the user is prompted to update",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.6​Firmware (OTA) Updates"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Firmware is delivered directly to the device over the local network, with clear progress and completion\nfeedback",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.6​Firmware (OTA) Updates"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7​Connection Health & Diagnostics",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.7​Connection Health & Diagnostics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Continuous background monitoring keeps the app aware of the device's connection state at all times",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.7​Connection Health & Diagnostics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Users are alerted immediately if the device becomes unreachable, with guidance to restore the\nconnection",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "4.​Functional Modules",
+      "4.7​Connection Health & Diagnostics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5.​End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "5.​End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a first-time device setup from app launch through to ongoing, day-to-day",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "5.​End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "monitoring.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "5.​End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fig. 1 — First-time setup through everyday use of the Terra Scent Plus app.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "5.​End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6.​Reporting & Analytics",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The dashboard provides an at-a-glance operational view, including:",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Battery level and remaining scent capacity",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Estimated days of scent remaining",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Current firmware version, with an update prompt when a newer version is available",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Live device connection status",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ A weekly schedule overview, with each entry's active/inactive state",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Every reading on the dashboard reflects the device's current, live state — the app always shows what the",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "device itself is reporting, refreshed each time the dashboard is opened.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "6.​Reporting & Analytics"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7.​Technology Stack",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "7.​Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform\nMicrosoft .NET, Android Mobile (.NET MAUI)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "7.​Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Device Communication\nDirect, local wireless link between the phone and the device — no cloud service\nrequired",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "7.​Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Device Onboarding\nWireless provisioning that pairs a new device onto a Wi-Fi network without a\nphysical connection",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "7.​Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Architecture\nLayered, MVVM-oriented mobile application with\ndedicated device-communication and platform\ncomponents",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "7.​Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8.​Value Delivered",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Eliminates the need for screens or buttons on the physical device by centralizing setup and control in\nthe phone",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Reduces manual effort in Wi-Fi provisioning and day-to-day device operation",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Improves visibility into device health with a live status dashboard",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Streamlines schedule management from anywhere on the home network",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "•​ Simplifies firmware servicing with guided, in-app over-the-air updates",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Platform | Microsoft .NET, Android Mobile (.NET MAUI)\nDevice Communication Direct, local wireless link between the phone and the device — no cloud service\nrequired | \nDevice Onboarding | Wireless provisioning that pairs a new device onto a Wi-Fi network without a\nphysical connection\nArchitecture Layered, MVVM-oriented mobile application with\ndedicated device-communication and platform\ncomponents |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "8.​Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  }
+]

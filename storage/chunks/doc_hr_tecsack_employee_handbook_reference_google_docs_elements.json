@@ -1,0 +1,3495 @@
+[
+  {
+    "element_type": "heading",
+    "text": "​TECSACK SOFTWARE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​TECSACK SOFTWARE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 28.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​COMPANY PROFILE​",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack Employee Handbook Reference​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Document Version: 1.0​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date: September 2026​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Classification: Public​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​Table of Contents​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1. Public Holiday Calendar............................................................................................................ 1​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1.1 Public Holidays 2026......................................................................................................... 1​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1.2 Public Holidays 2025......................................................................................................... 2​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1.3 Public Holidays 2024......................................................................................................... 2​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1.4 Public Holidays 2023......................................................................................................... 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2. Employee Confidentiality and Non-Disclosure Policy................................................................ 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3. Password Policy......................................................................................................................... 4​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4. Protecting Company Assets Policy............................................................................................. 5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4.1 Authorized Use of Company Assets.................................................................................... 5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4.2 Employee Responsibility................................................................................................... 5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4.3 Reporting and Investigation............................................................................................... 5​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5. Notice Period Policy.................................................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.1 Resignation......................................................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.2 Standard Notice Period....................................................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.3 Responsibilities During Notice Period............................................................................... 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6. Leave Policy............................................................................................................................... 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6.1 Casual Leave..................................................................................................................... 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6.2 Sick Leave......................................................................................................................... 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6.3 Leave Without Pay (LOP)................................................................................................... 8​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​7. Contact Information................................................................................................................. 8​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1. Public Holiday Calendar​",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The tables below set out Tecsack Software's public holiday calendar for 2023 through 2026, as​\n​issued by HR.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1.1 Public Holidays 2026​",
+    "page": 3,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date​\n​Day​\n​Holiday​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-01-2026​\n​Thursday​\n​New Year​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-01-2026​\n​Thursday​\n​Pongal​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​26-01-2026​\n​Monday​\n​Republic Day​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​03-04-2026​\n​Friday​\n​Good Friday​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-04-2026​\n​Tuesday​\n​Tamil New Year​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-05-2026​\n​Friday​\n​Labour Day​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-08-2026​\n​Saturday​\n​Independence Day​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-09-2026​\n​Monday​\n​Vinayakar Chathurthi​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​02-10-2026​\n​Friday​\n​Gandhi Jayanthi​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​20-10-2026​\n​Tuesday​\n​Ayutha Pooja​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​08-11-2026​\n​Sunday​\n​Deepavali​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​25-12-2026​\n​Friday​\n​Christmas​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Date | Day | Holiday\n01-01-2026 | Thursday | New Year\n15-01-2026 | Thursday | Pongal\n26-01-2026 | Monday | Republic Day\n03-04-2026 | Friday | Good Friday\n14-04-2026 | Tuesday | Tamil New Year\n01-05-2026 | Friday | Labour Day\n15-08-2026 | Saturday | Independence Day\n14-09-2026 | Monday | Vinayakar Chathurthi\n02-10-2026 | Friday | Gandhi Jayanthi\n20-10-2026 | Tuesday | Ayutha Pooja\n08-11-2026 | Sunday | Deepavali\n25-12-2026 | Friday | Christmas",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Note: the original 2026 record listed Tamil New Year against 03-04-2026, duplicating the Good Friday date. Based on the​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​recorded weekday (Tuesday), the date has been corrected to 14-04-2026 above.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.1 Public Holidays 2026​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1.2 Public Holidays 2025​",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date​\n​Day​\n​Holiday​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-01-2025​\n​Wednesday​\n​New Year​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-01-2025​\n​Tuesday​\n​Pongal​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​26-01-2025​\n​Sunday​\n​Republic Day​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-04-2025​\n​Monday​\n​Tamil New Year​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​18-04-2025​\n​Friday​\n​Good Friday​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-05-2025​\n​Thursday​\n​Labour Day​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-08-2025​\n​Friday​\n​Independence Day​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​27-08-2025​\n​Wednesday​\n​Vinayakar Chathurthi​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-10-2025​\n​Wednesday​\n​Ayutha Pooja​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​02-10-2025​\n​Thursday​\n​Gandhi Jayanthi​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​20-10-2025​\n​Monday​\n​Deepavali​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​25-12-2025​\n​Thursday​\n​Christmas​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Note: the original 2025 record listed “December” in the Day column for Christmas. 25-12-2025 falls on a Thursday, shown​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​above.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.2 Public Holidays 2025​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1.3 Public Holidays 2024​",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date​\n​Day​\n​Holiday​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-01-2024​\n​Monday​\n​New Year​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-01-2024​\n​Tuesday​\n​Pongal​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Date | Day | Holiday\n01-01-2025 | Wednesday | New Year\n14-01-2025 | Tuesday | Pongal\n26-01-2025 | Sunday | Republic Day\n14-04-2025 | Monday | Tamil New Year\n18-04-2025 | Friday | Good Friday\n01-05-2025 | Thursday | Labour Day\n15-08-2025 | Friday | Independence Day\n27-08-2025 | Wednesday | Vinayakar Chathurthi\n01-10-2025 | Wednesday | Ayutha Pooja\n02-10-2025 | Thursday | Gandhi Jayanthi\n20-10-2025 | Monday | Deepavali\n25-12-2025 | Thursday | Christmas",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Date | Day | Holiday\n01-01-2024 | Monday | New Year\n14-01-2024 | Tuesday | Pongal",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 1
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​26-01-2024​\n​Friday​\n​Republic Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​29-03-2024​\n​Friday​\n​Good Friday​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-04-2024​\n​Sunday​\n​Tamil New Year​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-05-2024​\n​Wednesday​\n​Labour Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-08-2024​\n​Thursday​\n​Independence Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​07-09-2024​\n​Saturday​\n​Vinayakar Chathurthi​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​02-10-2024​\n​Wednesday​\n​Gandhi Jayanthi​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​12-10-2024​\n​Saturday​\n​Ayutha Pooja​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-11-2024​\n​Sunday​\n​Deepavali​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​25-12-2024​\n​Wednesday​\n​Christmas​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.3 Public Holidays 2024​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1.4 Public Holidays 2023​",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date​\n​Day​\n​Holiday​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-01-2023​\n​Sunday​\n​New Year​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-01-2023​\n​Sunday​\n​Pongal​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​26-01-2023​\n​Thursday​\n​Republic Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​07-04-2023​\n​Friday​\n​Good Friday​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​14-04-2023​\n​Friday​\n​Tamil New Year​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​01-05-2023​\n​Monday​\n​Labour Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​15-08-2023​\n​Tuesday​\n​Independence Day​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​17-09-2023​\n​Sunday​\n​Vinayakar Chathurthi​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​02-10-2023​\n​Monday​\n​Gandhi Jayanthi​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "26-01-2024 | Friday | Republic Day\n29-03-2024 | Friday | Good Friday\n14-04-2024 | Sunday | Tamil New Year\n01-05-2024 | Wednesday | Labour Day\n15-08-2024 | Thursday | Independence Day\n07-09-2024 | Saturday | Vinayakar Chathurthi\n02-10-2024 | Wednesday | Gandhi Jayanthi\n12-10-2024 | Saturday | Ayutha Pooja\n01-11-2024 | Sunday | Deepavali\n25-12-2024 | Wednesday | Christmas",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Date | Day | Holiday\n01-01-2023 | Sunday | New Year\n15-01-2023 | Sunday | Pongal\n26-01-2023 | Thursday | Republic Day\n07-04-2023 | Friday | Good Friday\n14-04-2023 | Friday | Tamil New Year\n01-05-2023 | Monday | Labour Day\n15-08-2023 | Tuesday | Independence Day\n17-09-2023 | Sunday | Vinayakar Chathurthi\n02-10-2023 | Monday | Gandhi Jayanthi",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 1
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​23-10-2023​\n​Monday​\n​Ayutha Pooja​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​12-11-2023​\n​Sunday​\n​Deepavali​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​25-12-2023​\n​Monday​\n​Christmas​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​1.4 Public Holidays 2023​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2. Employee Confidentiality and Non-Disclosure Policy​",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​2. Employee Confidentiality and Non-Disclosure Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack Software defines “Confidential Information” as any and all information, know-how, and data​\n​– technical or non-technical – concerning matters affecting the Company's business, operations, or​\n​products, including drawings, plans, and processes, disclosed or provided by the Company to an​\n​employee in any form (oral, written, graphic, photographic, or electronic).​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​2. Employee Confidentiality and Non-Disclosure Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​The Employee agrees to:​",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​a.​ ​Hold Confidential Information in strict confidence​​and exercise a reasonable degree of care​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​to prevent disclosure to others.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​b.​ ​Not disclose or divulge Confidential Information​​to others, directly or indirectly, unless first​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​authorised to do so by the Company.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​c.​ ​Not reproduce Confidential Information, nor​​use it commercially or for any purpose other​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​than the performance of their duties for the Company.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​d.​ ​Deliver to the Company any drawings, notes,​​documents, equipment, and materials received​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​from or originating from its activities, upon request or upon termination of employment.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​The Employee agrees to:​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​Additional Provisions​",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​The Company has the sole right to determine​​the treatment of any information that is part- or​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​project-specific and received from an employee, including the right to keep it as a trade​\n​secret, use and disclose it, or file patent or copyright registrations in its own name.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​The Employee agrees not to file any patent​​applications claiming information, developments,​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​or inventions arising from, or that could not have been made without, access to Confidential​\n​Information.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Should any provision of this Agreement be held​​invalid, illegal, or unenforceable by a court of​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​competent jurisdiction, that provision shall be severed, and all other provisions shall continue​\n​in accordance with the intentions of the parties.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Nothing in this Agreement is a promise of continued​​employment for any specific period, and​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​nothing modifies or alters the at-will nature of an employee's employment.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "23-10-2023 | Monday | Ayutha Pooja\n12-11-2023 | Sunday | Deepavali\n25-12-2023 | Monday | Christmas",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Violation of this Agreement will subject the Employee to disciplinary action according to the​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Company's disciplinary policy, up to and including termination.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​Additional Provisions​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3. Password Policy​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack enforces a stringent password policy to protect company systems and data. The essential​\n​components are:​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1.​ ​Password complexity: passwords must be at least​​8 characters long and contain a​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​combination of uppercase and lowercase letters, numbers, and special symbols.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2.​ ​Password expiry: passwords must be changed every​​90 days, and employees cannot reuse​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​their previous 10 passwords.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3.​ ​Account lockout: if an employee enters an incorrect​​password five times, their account will​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​be locked out for a period of time.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4.​ ​Password storage: Tecsack stores passwords using​​a secure hash algorithm, so that even if​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the password database is compromised, attackers cannot easily access the passwords.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5.​ ​Password sharing: employees are not permitted​​to share their passwords with anyone else​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and must keep them confidential.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​All Tecsack employees are required to follow these password practices to ensure the security of​\n​Tecsack systems and data.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​3. Password Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4. Protecting Company Assets Policy​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4. Protecting Company Assets Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack Software considers its physical, digital, intellectual, and technological assets to be important​\n​resources of the organization. All employees are expected to use Company assets responsibly,​\n​securely, and exclusively for authorized business purposes.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4. Protecting Company Assets Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4.1 Authorized Use of Company Assets​",
+    "page": 7,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Company assets may include, but are not limited to:​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Laptops, desktops, monitors, mobile devices, and other hardware.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Software licenses, development tools, and subscriptions.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Company email accounts, cloud platforms, servers, databases, and repositories.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Company documents, technical information, source code, credentials, and other confidential​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​information.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Office equipment, furniture, networking equipment, and other physical property.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Intellectual property, designs, documentation, business information, and client-related​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​materials.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees must use Company assets primarily for legitimate business activities and only for​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​purposes authorized by the Company​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.1 Authorized Use of Company Assets​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4.2 Employee Responsibility​",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees are responsible for taking reasonable care of the Company assets assigned to them.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees must:​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Keep assigned equipment in good working condition.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Follow Company security and IT guidelines.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Protect devices, passwords, credentials, and confidential information from unauthorized​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​access.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Immediately report loss, theft, accidental damage, malfunction, or security incidents to the​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​appropriate Supervisor or HR.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Avoid installing unauthorized software or modifying Company systems without approval.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Not lend Company equipment, accounts, credentials, or other resources to unauthorized​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​individuals.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.2 Employee Responsibility​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4.3 Reporting and Investigation​",
+    "page": 8,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Any incident involving Company property must be reported as soon as reasonably possible.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The Company may review:​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​The circumstances surrounding the incident.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​The condition and age of the asset.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Whether the employee followed applicable procedures.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Whether the damage resulted from normal use, negligence, or intentional misconduct.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​The reasonable value of the loss or repair.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees may be required to provide an explanation or cooperate with an internal investigation.​",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​4.3 Reporting and Investigation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5. Notice Period Policy​",
+    "page": 9,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5. Notice Period Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack Software maintains a structured notice-period process to ensure a smooth transition of​\n​responsibilities, knowledge, Company assets, and client commitments when an employee leaves the​\n​organization.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5. Notice Period Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The applicable notice period shall be determined by the employee's employment agreement,​\n​applicable Company policies, and relevant laws and regulations.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5. Notice Period Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.1 Resignation​",
+    "page": 9,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​An employee who wishes to resign must submit a formal resignation through the prescribed​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Company process and notify their Supervisor and HR.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The resignation will be reviewed and formally acknowledged by the Company. The applicable notice​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​period will be calculated from the date specified in the Company's resignation acknowledgement or​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​as otherwise provided in the employee's employment agreement.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.1 Resignation​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.2 Standard Notice Period​",
+    "page": 9,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Unless otherwise specified in the employee's employment agreement or applicable policy, Tecsack's​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​standard notice period is​​60 days​.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees are expected to continue performing their assigned responsibilities professionally​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​throughout the notice period.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​The Company may, where appropriate and subject to applicable terms and approvals:​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Waive part or all of the notice period.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Approve an earlier relieving date.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Modify the notice-period arrangement based on business requirements.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Apply contractual provisions relating to notice-period compensation or recovery where legally​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​permissible.​",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.2 Standard Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5.3 Responsibilities During Notice Period​",
+    "page": 9,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Employees serving notice are expected to:​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Continue their normal duties and responsibilities.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Maintain professional conduct and work performance.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Complete assigned tasks and pending deliverables.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Document ongoing work and technical processes.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Transfer relevant knowledge to designated team members.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Provide required project, database, code, documentation, and system handover.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Assist with the transition of client or internal responsibilities.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Return Company assets and confidential information.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Complete required exit and clearance procedures.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​5.3 Responsibilities During Notice Period​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6. Leave Policy​",
+    "page": 10,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6. Leave Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​This policy is applicable to all employees of Tecsack Software, including Trainees and Full-time​\n​Employees. There are two types of leave: Casual Leave and Sick Leave.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6. Leave Policy​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6.1 Casual Leave​",
+    "page": 10,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Purpose: to grant days off from work to an employee in the event of personal work or commitments.​\n​Casual leave should be planned in advance.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​The Employee is entitled to 12 calendar days​​of paid Casual Leave every year. The year for​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​leave accounting is the financial year, i.e. April to March.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Casual leave is credited every quarter of the​​year.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Unutilised Casual Leave is not carried forward​​to the next financial year.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Casual leave should be applied in the system​​at least five working days before the day of​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​leave, and informed by email to the Supervisor and HR team.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​An employee cannot apply for more than three​​continuous days of casual leave.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​An employee cannot apply for more than two​​casual leaves in a month.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Once approved by the Supervisor, the leave​​is considered paid leave; otherwise it is​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​considered Loss of Pay (LOP).​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Employees serving their Notice Period cannot​​avail Casual Leave, even if they have​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​sufficient balance.​",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.1 Casual Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6.2 Sick Leave​",
+    "page": 10,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Purpose: to grant days off from work to an employee in the event of illness or injury, for medical​\n​treatment and/or recuperation.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​The Employee is entitled to 12 calendar days​​of paid Sick Leave every year, accounted by​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​financial year (April to March).​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Sick leave is credited on a pro-rata basis​​for trainees and probationers, on completion of the​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​first calendar quarter after their date of joining, and thereafter at the end of each subsequent​\n​quarter.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Unutilised sick leave may be carried forward​​to the next financial year, up to a maximum​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​accumulation of 60 days. Days in excess of 60 are treated as “surplus” and lapse without​\n​encashment.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Sick leave must be availed only for an employee's​​own medical reasons.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Leave may be applied for after it is availed,​​but it must be applied within three working days​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​of returning from leave; otherwise the Supervisor may, at their discretion, convert it to Loss of​\n​Pay.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​If an employee applies for Sick Leave but does​​not avail of it for any reason, they may​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​choose to cancel it.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Where the leave duration is three days or more,​​a Medical Certificate must be submitted to​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the Supervisor.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Unlike Casual Leave, employees serving their​​Notice Period can avail Sick Leave if they​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​have sufficient balance.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Leave may be applied for a minimum of half​​a day, multiple times during the year, subject to​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​availability of balance, and may be prefixed or suffixed with other leave types, weekends, or​\n​statutory holidays.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.2 Sick Leave​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6.3 Leave Without Pay (LOP)​",
+    "page": 11,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Leave without pay should not exceed one week;​​if it does, a proper explanation is required​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and approval must be obtained from the Supervisor.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​Leave without pay for medical treatment is​​applicable for one month only. Medical certificates​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​and documents must be submitted for approval by the Supervisor and HR.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​•​ ​If LOP exceeds more than one month, the employee​​will be terminated from the organisation.​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​6.3 Leave Without Pay (LOP)​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​7. Contact Information​",
+    "page": 11,
+    "heading_level": 3,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​HR Contact​\n​Sowmiya G​",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "HR Contact | Sowmiya G",
+    "page": 11,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Phone​\n​+91 97862 97172​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​HR Email​\n​corporate.hr@tecsack.in​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Policy Queries​\n​researchwing@tecsack.in​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Website​\n​www.tecsack.in​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Tecsack Confidential – for internal circulation to Tecsack Software employees only.​",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Phone | +91 97862 97172\nHR Email | corporate.hr@tecsack.in\nPolicy Queries | researchwing@tecsack.in\nWebsite | www.tecsack.in",
+    "page": 12,
+    "heading_level": null,
+    "heading_path": [
+      "​TECSACK SOFTWARE​",
+      "​1. Public Holiday Calendar​",
+      "​7. Contact Information​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  }
+]

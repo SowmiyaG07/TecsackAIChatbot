@@ -1,0 +1,1850 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 27.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PROJECT PROFILE",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "PROJECT PROFILE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Muno",
+    "page": 1,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Muno"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.04,
+      "bold": false
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Muno"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Muno"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Internal",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Muno"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 2",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Muno"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 14.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview ................................................................................................................................. 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context .................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities ...................................................................................................................... 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules ................................................................................................................. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Account Creation & Secure Login .................................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Offers, Saving Alerts & Loyalty Rewards ......................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Explore Map, Search & Filters .......................................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Saved Offers & In-Store Redemption ............................................................................................... 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Location Alerts (Geofencing) ............................................................................................................ 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Syngillions E-Gift Card & Payments ................................................................................................. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Notifications, Referrals & Partner Sites ............................................................................................ 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Access Plans, AI Assistant & Settings ............................................................................................. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow .............................................................................................................. 6",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. System Architecture & Integrations ......................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack ................................................................................................................... 7",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Security & Data Handling ........................................................................................................ 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "9. Value Delivered ....................................................................................................................... 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 3",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Muno is a cross-platform mobile application that connects customers with savings from local businesses.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Members browse offers, saving alerts and loyalty rewards from participating brands, find them on a map,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "save the ones they like and redeem them in store, all from an Android or iOS phone.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The app also alerts members when they are near a participating location, lets them load and manage a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Syngillions e-gift card, share the app with friends and merchants, and ask questions through an AI chat",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "assistant. Content, customer accounts, offers and redemptions are held on the server and reached",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "through a secured Web API.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application is built on .NET 9 and .NET MAUI using the MVVM pattern, and talks to an ASP.NET",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Core Web API backed by SQL Server. It is available in English and Spanish.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Local savings and rewards programmes typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Give consumers one place to discover offers, saving alerts and loyalty rewards from nearby\nbusinesses",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Help businesses reach customers at the right moment, for example when they are close to a location",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Make redemption simple and verifiable at the point of sale, without paper coupons",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Grow the member base through referrals and merchant recommendations",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Support members in more than one language and more than one country",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Offer a stored-value option, such as an e-gift card, that can be used across partner shopping sites",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Muno brings these needs into one mobile app, backed by a central service that manages brands,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "locations, offers, customers and notifications.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure Account Access\nJoin with name, email, phone and zip code, validation codes, sign-in with token-\nbased authentication, Face ID / fingerprint option and password recovery",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Offers & Rewards\nBrands with offers, saving alerts and loyalty rewards, with categories, filters,\nsorting and subscription to favourite locations",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Explore Map\nMap of participating locations with search, directions, call and quick access to a\nlocation’s offers",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Save & Redeem\nSave offers, load them, and redeem in store with clerk ID, gross-sale and PIN\nchecks; full redemption history",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nSecure Account Access |  |  |  | Join with name, email, phone and zip code, validation codes, sign-in with token- | \n |  |  |  | based authentication, Face ID / fingerprint option and password recovery | \nOffers & Rewards |  |  |  | Brands with offers, saving alerts and loyalty rewards, with categories, filters, | \n |  |  |  | sorting and subscription to favourite locations | \nExplore Map |  |  |  | Map of participating locations with search, directions, call and quick access to a | \n |  |  |  | location’s offers | \nSave & Redeem |  |  |  | Save offers, load them, and redeem in store with clerk ID, gross-sale and PIN | \n |  |  |  | checks; full redemption history |",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 4",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Location Alerts\nGeofencing that raises a notification when the member is near a location with\navailable offers",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Syngillions E-Gift Card\nLoad a Syngillions gift card with a saved payment method, set auto load and add\nthe card to the phone wallet",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Notifications & Referrals\nIn-app notification list, referral links for friends, merchant referrals and review\nsharing",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "AI Assistant & Plans\nAI chat assistant, plus access plan choice between a Free Pass and a monthly\nPremium plan",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Account Creation & Secure Login",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Account Creation & Secure Login"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• New members join with name, email, country code and phone, password, zip code, birth and\nanniversary month, an optional referral code and opt-ins for mailing list, SMS redemption links and\npush",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Account Creation & Secure Login"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A validation code confirms the account; sign-in uses email and password and returns a token used for\nall protected requests",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Account Creation & Secure Login"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Face ID or fingerprint sign-in can be enabled by the member; forgot-password sends a reset code,\nthen a new password is set",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.1 Account Creation & Secure Login"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 Offers, Saving Alerts & Loyalty Rewards",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Offers, Saving Alerts & Loyalty Rewards"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Brands are listed with their offers, saving alerts and loyalty rewards, loaded in pages and grouped by\ncategory",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Offers, Saving Alerts & Loyalty Rewards"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A member can subscribe to or unsubscribe from a location to follow its offers",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Offers, Saving Alerts & Loyalty Rewards"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Location and offer details show the merchant, terms, images and the settings that apply to redemption",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.2 Offers, Saving Alerts & Loyalty Rewards"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Explore Map, Search & Filters",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Explore Map, Search & Filters"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The Explore screen shows participating locations as map pins, with search, Directions and Call\nactions and a shortcut to Saved Offer and View Offer",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Explore Map, Search & Filters"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Filter and sort options cover location and merchant, category and country, and a Clear Filter action\nresets them",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Explore Map, Search & Filters"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Distances can be shown in kilometres, and the map uses Google Maps on Android and the native\nmap on iOS",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.3 Explore Map, Search & Filters"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Saved Offers & In-Store Redemption",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Offers can be saved, marked as favourites and loaded; the app checks that an offer is valid and\nredeemable before redemption",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Capability |  |  | Description | \nLocation Alerts |  |  |  | Geofencing that raises a notification when the member is near a location with | \n |  |  |  | available offers | \nSyngillions E-Gift Card |  |  |  | Load a Syngillions gift card with a saved payment method, set auto load and add | \n |  |  |  | the card to the phone wallet | \nNotifications & Referrals |  |  |  | In-app notification list, referral links for friends, merchant referrals and review | \n |  |  |  | sharing | \nAI Assistant & Plans |  |  |  | AI chat assistant, plus access plan choice between a Free Pass and a monthly | \n |  |  |  | Premium plan |",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 5",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Depending on the offer’s settings, the member is asked for a clerk ID, a PIN or the gross sale amount,\nwhich is compared with the minimum purchase",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Redeemed offers are recorded and listed in Redemption History",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.4 Saved Offers & In-Store Redemption"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Location Alerts (Geofencing)",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Location Alerts (Geofencing)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The app watches a 300-metre area around the member and, when they leave it, monitors the nearest\nmerchant locations (up to 19, 100-metre radius each)",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Location Alerts (Geofencing)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• On entering a merchant’s area the app fetches its details and, if coupons are available, shows a\nnotification with the offer",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Location Alerts (Geofencing)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• On Android a foreground location service with background location permission keeps monitoring\nrunning; iOS uses its own geofence worker",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.5 Location Alerts (Geofencing)"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 Syngillions E-Gift Card & Payments",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Syngillions E-Gift Card & Payments"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• An information page explains the Syngillions gift card and its use on the Syngillions shopping site, and\na card number page shows the member’s card",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Syngillions E-Gift Card & Payments"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The card is loaded with a saved credit card and billing address, with amount selection and an Auto\nLoad setting for automatic reloads",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Syngillions E-Gift Card & Payments"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The card can be added to the phone wallet through a generated download link, and its transactions\nare listed",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.6 Syngillions E-Gift Card & Payments"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Notifications, Referrals & Partner Sites",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Notifications, Referrals & Partner Sites"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• A notifications list shows messages and offers from the server, with mark-as-read and delete actions\nand a detail page for each",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Notifications, Referrals & Partner Sites"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Members can refer friends with a personal referral link, refer merchants through a business\ninformation form and share a review on Facebook",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Notifications, Referrals & Partner Sites"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Friends of Synergy, vortex shopping, the Syngillions shop, FAQ and About Us open as in-app web\npages",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.7 Notifications, Referrals & Partner Sites"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Access Plans, AI Assistant & Settings",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Access Plans, AI Assistant & Settings"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.52,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The access plan screen offers a Free Pass for six months or a Premium plan at $9.99 per month, with\na Restore Purchases option; a store billing service is included for Android and iOS",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Access Plans, AI Assistant & Settings"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The AI chat assistant sends the member’s message and a session ID to a chat service and shows the\nreply in a conversation view",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Access Plans, AI Assistant & Settings"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Settings cover change password, English or Spanish language and the distance unit; Contact Us\nsends an email to support",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Access Plans, AI Assistant & Settings"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 6",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "4. Functional Modules",
+      "4.8 Access Plans, AI Assistant & Settings"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a member’s journey from launching the app to redeeming an offer, and how it",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "reaches the server.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "App launch\n|\nv\nJoin (validation code) or sign in (email + password, Face ID / fingerprint)\n|\nv\nToken issued; language, offers and menu loaded\n|\n+---------------------+-------------+---------+-----------------------+\n| | | |\nv v v v\nDiscover Explore Redeem Syngillions\nOffers, saving Map pins, search, Load and validate, Load e-gift card,\nalerts, rewards, directions, call, clerk ID / PIN / auto load, add to\nfilters, sorting location details gross sale check, wallet, share and\nand favourites and offers redeem, history refer friends\n| | | |\n+---------------------+-------------+---------+-----------------------+\n|\nv\nMobile app service (JWT) -> SQL Server data and Synergy web service\n|\nv\nResult shown in the app + nearby-offer notification (geofencing)",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Fig. 1 — From app launch to redemption and alerts in the Muno app.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| App launch | \n | | | \n | v | \n | Join (validation code) or sign in (email + password, Face ID / fingerprint) | \n | | | \n | v | \n | Token issued; language, offers and menu loaded | \n | | | \n | +---------------------+-------------+---------+-----------------------+ | \n | | | | | | \n | v v v v | \n | Discover Explore Redeem Syngillions | \n | Offers, saving Map pins, search, Load and validate, Load e-gift card, | \n | alerts, rewards, directions, call, clerk ID / PIN / auto load, add to | \n | filters, sorting location details gross sale check, wallet, share and | \n | and favourites and offers redeem, history refer friends | \n | | | | | | \n | +---------------------+-------------+---------+-----------------------+ | \n | | | \n | v | \n | Mobile app service (JWT) -> SQL Server data and Synergy web service | \n | | | \n | v | \n | Result shown in the app + nearby-offer notification (geofencing) |",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 7",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. System Architecture & Integrations",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The solution contains the mobile app and a server-side service, connected over HTTPS:",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Mobile app: SdMAUI, a single .NET MAUI project with XAML pages, MVVM view models, custom\nmap and entry controls, and service classes for authentication, brands, offers, notifications, pages,\nbilling and geofencing",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Web API: iTabula.SynergyApp.MobileAppService, an ASP.NET Core Web API with Account, Brands,\nCustomer, Locations, Notifications, Offers and Regions controllers, JWT bearer authentication and\nSwagger; the app calls it through a generated Swagger client",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Data: Entity Framework Core on SQL Server with a unit-of-work pattern, covering brands, merchants,\nlocations, offers, customers, notifications, referrals, subscriptions and white-label settings; the app\nalso keeps a local SQLite cache of offers",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Synergy web service: a connected SOAP service used for gift card and payment operations such as\nloading the Syngillions card",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Location and maps: Shiny geofencing, Google Maps on Android, the native map on iOS, and a\nHaversine helper in the Web API for distance calculations",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Other services: an AI chat service, Google Play Billing and StoreKit for purchases, and partner web\npages for shopping and information",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "6. System Architecture & Integrations"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform\n.NET 9 and .NET MAUI (C#) — Android & iOS",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Supported OS\nAndroid 6.0+ (API 23) and iOS 12.2+",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Application Design\nMVVM with CommunityToolkit.Mvvm, Shell navigation, a navigation service,\nconverters, triggers and resource-file localization (English, Spanish)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Mobile Libraries\nCommunityToolkit.Maui, Shiny.Locations, Microsoft.Maui.Controls.Maps,\nOnion.Maui.GoogleMaps, Mopups, The49.Maui.BottomSheet, CardsView, QRCoder,\nsqlite-net, libphonenumber, Plugin.Maui.Biometric",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Backend Services\nASP.NET Core 6 Web API with ASP.NET Identity, JWT bearer authentication and\nSwagger; REST/JSON",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Data\nEntity Framework Core 6 on SQL Server; SQLite on the device",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Integrations\nSynergy web service (SOAP), Google Maps, Google Play Billing, StoreKit, AI chat\nservice",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "| Platform |  |  | .NET 9 and .NET MAUI (C#) — Android & iOS | \n | Supported OS |  |  | Android 6.0+ (API 23) and iOS 12.2+ | \nApplication Design |  |  |  | MVVM with CommunityToolkit.Mvvm, Shell navigation, a navigation service, | \n |  |  |  | converters, triggers and resource-file localization (English, Spanish) | \nMobile Libraries |  |  |  | CommunityToolkit.Maui, Shiny.Locations, Microsoft.Maui.Controls.Maps, | \n |  |  |  | Onion.Maui.GoogleMaps, Mopups, The49.Maui.BottomSheet, CardsView, QRCoder, | \n |  |  |  | sqlite-net, libphonenumber, Plugin.Maui.Biometric | \nBackend Services |  |  |  | ASP.NET Core 6 Web API with ASP.NET Identity, JWT bearer authentication and | \n |  |  |  | Swagger; REST/JSON | \n | Data |  |  | Entity Framework Core 6 on SQL Server; SQLite on the device | \nIntegrations |  |  |  | Synergy web service (SOAP), Google Maps, Google Play Billing, StoreKit, AI chat | \n |  |  |  | service |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software | Muno — Project Profile\nPage 8",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Security & Data Handling",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• The Web API issues JWT bearer tokens and validates issuer, audience, lifetime and signing key; offer,\nnotification and region endpoints require authentication",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Customers are managed with ASP.NET Identity using a custom password hasher, and unique email\naddresses are required",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Face ID and fingerprint sign-in is an option the member can turn on in the app",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Requests use HTTPS, and the service redirects HTTP traffic to HTTPS",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Background location is used only for location alerts, with the required permissions and a visible\nforeground-service notification on Android",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Payment details are sent to the Synergy web service for gift card loading rather than processed on the\ndevice",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Offers are cached locally in SQLite to speed up display; customer and redemption records stay on the\nserver",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "8. Security & Data Handling"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "9. Value Delivered",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Gives members one app to discover, save and redeem local offers",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Reaches members at the right moment with alerts when they are near a participating location",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Replaces paper coupons with checked, recorded in-store redemptions",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Grows the community through referrals, merchant recommendations and review sharing",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Serves English and Spanish speakers with a single app",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Adds a stored-value option through the Syngillions e-gift card and its partner shop",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "• Runs on the current .NET 9 MAUI stack for both Android and iOS",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "9. Value Delivered"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

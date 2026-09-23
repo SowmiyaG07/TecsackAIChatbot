@@ -1,0 +1,2921 @@
+[
+  {
+    "element_type": "heading",
+    "text": "TECSACK SOFTWARE",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "TECSACK SOFTWARE"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 30.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PROJECT CASE STUDY",
+    "page": 1,
+    "heading_level": 3,
+    "heading_path": [
+      "TECSACK SOFTWARE",
+      "PROJECT CASE STUDY"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "PrimeInspect",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "PrimeInspect"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 24.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Mobile Field Inspection & Quality Audit Platform",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Document Version: 1.0",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Date: September 2026",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Classification: Public",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Table of Contents",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 20.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Overview​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Business Context​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Key Capabilities​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Functional Modules​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.1 Login & Navigation​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.2 Inspection Job & Task Assignment​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.3 Dynamic Inspection Forms & Quality Checklists​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.4 Evidence Capture & Cloud Storage​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.5 Defect & Service Request Management​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.6 Offline-First Data Synchronization​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.7 Notifications & History​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "4.8 Role-Based Access Control​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. End-to-End Workflow​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Reporting & History​",
+    "page": 2,
+    "heading_level": 2,
+    "heading_path": [
+      "PrimeInspect",
+      "6. Reporting & History​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "7. Technology Stack​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "6. Reporting & History​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "8. Our Role & Contribution​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "6. Reporting & History​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "9. Value Delivered​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "6. Reporting & History​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "PrimeInspect (AuditInspection Mobile) is a cross-platform mobile application built to digitize field",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inspections, quality audits, and task management for organizations that conduct structured checks across",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "multiple sites, suppliers, or locations. Built with .NET MAUI, it runs natively on both Android and iOS from a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "single application.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The application gives field auditors and inspection teams a single mobile workspace to receive assigned",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inspection jobs, complete configurable digital checklists, capture supporting evidence such as photos, videos",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and signatures, raise follow-up tasks for issues found, and keep all of this data reliably synchronized with a",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "central backend — even when working in locations with limited or no network connectivity.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "1. Overview"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2. Business Context",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Organizations that run recurring inspections or quality audits across many sites, suppliers, or business",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "locations typically need to:",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Assign inspection jobs and tasks to field auditors and track them through to completion",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Capture consistent, standardized checklist responses against a defined quality standard, with photo, video,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "note, or signature evidence where required",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keep working reliably even when the field location has poor or no internet connectivity (factories,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "warehouses, remote sites)",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Raise and track follow-up tasks or service requests for issues and defects identified during an inspection",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Control who can view, edit, or approve inspection and audit data based on their role in the organization",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Stay informed of job assignments, status changes, and outcomes in near real time",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Running this process on paper or disconnected spreadsheets is slow to aggregate, inconsistent between",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "auditors, and difficult to audit after the fact. PrimeInspect centralizes the entire process — from job",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "assignment through checklist completion, evidence capture, defect follow-up, and reporting — into a single,",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "purpose-built mobile application.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "PrimeInspect",
+      "2. Business Context"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Key Capabilities",
+    "page": 4,
+    "heading_level": 1,
+    "heading_path": [
+      "3. Key Capabilities"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "Capability\nDescription",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 11.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure User Access",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Authenticated login with role-based permissions and a",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "guided initial data sync",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Inspection Job & Task Management",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Receive assigned inspection jobs and tasks, and track",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "their status through to completion",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Dynamic Inspection Forms",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Checklists built from server-configured templates —",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "sections, checklist items, and fields — tailored per client",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "or site",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Evidence Capture",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Photo, video, note, and signature capture attached",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "directly to checklist items where required",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Defect & Follow-Up Tracking",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Issues identified during an inspection can be raised as",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "tasks or service requests and tracked to resolution",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Offline-First Operation",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Full local data store on the device so inspections can be",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "completed without an active connection",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Automatic Synchronization",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Two-way sync with the central server whenever",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "connectivity is available, with no manual steps",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Role-Based Access Control",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Configurable roles and permissions control what each",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "user can view, create, or edit",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Capability | Description\nSecure User Access | Authenticated login with role-based permissions and a\nguided initial data sync\nInspection Job & Task Management | Receive assigned inspection jobs and tasks, and track\ntheir status through to completion\nDynamic Inspection Forms | Checklists built from server-configured templates —\nsections, checklist items, and fields — tailored per client\nor site\nEvidence Capture | Photo, video, note, and signature capture attached\ndirectly to checklist items where required\nDefect & Follow-Up Tracking | Issues identified during an inspection can be raised as\ntasks or service requests and tracked to resolution\nOffline-First Operation | Full local data store on the device so inspections can be\ncompleted without an active connection\nAutomatic Synchronization | Two-way sync with the central server whenever\nconnectivity is available, with no manual steps\nRole-Based Access Control | Configurable roles and permissions control what each\nuser can view, create, or edit",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "Capability\nDescription"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4. Functional Modules",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.1 Login & Navigation",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Users sign in through a secure login screen. On first login, the app runs a guided data sync that brings down",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "the user's assigned jobs, forms, and reference data before they begin working. Once signed in, users move",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "between five core areas — Home, Inspection, Tasks, History, and Menu — each reachable from a single",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "navigation bar.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.1 Login & Navigation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.2 Inspection Job & Task Assignment",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.2 Inspection Job & Task Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View inspection jobs assigned to the logged-in user, with status and due-date tracking",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.2 Inspection Job & Task Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ View and manage tasks and service requests, including priority, status, and assignee",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.2 Inspection Job & Task Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A home dashboard summarizes what is assigned, in progress, and due",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.2 Inspection Job & Task Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.3 Dynamic Inspection Forms & Quality Checklists",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Inspection forms are built from templates defined centrally, organized as sections containing checklist items",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and fields",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Each checklist item can independently require a photo, video, note, or signature before it can be marked",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "complete",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Checklist items can be evaluated against defined quality criteria, supporting standardized quality-control style",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "audits (for example, acceptable-quality-limit style pass/fail evaluation)",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Forms adapt to the client, site, or inspection type being audited",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.3 Dynamic Inspection Forms & Quality Checklists"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.4 Evidence Capture & Cloud Storage",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ In-app camera and file capture for photos, video, and documents, attached directly to the relevant checklist",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "item",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ On-screen signature capture pad for sign-off at the point of inspection",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Captured media is uploaded to secure cloud storage in the background, independent of the main data sync, so",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "large files do not block the inspection workflow",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.4 Evidence Capture & Cloud Storage"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.5 Defect & Service Request Management",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.5 Defect & Service Request Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Issues or defects identified during an inspection can be raised directly as a task or service request",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.5 Defect & Service Request Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Each item tracks priority, status, due date, and the assigned owner through to resolution",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.5 Defect & Service Request Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Supporting documents can be attached to a task or service request as part of the follow-up record",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.5 Defect & Service Request Management"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.6 Offline-First Data Synchronization",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ All inspection jobs, forms, and submitted data are stored locally on the device, so field work is never blocked",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "by a lost connection",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Every record carries a synchronization flag; anything created or changed offline is queued for upload",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ The app automatically syncs local changes to the server and pulls the latest server data whenever connectivity",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "is restored — no manual “refresh” step required",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.6 Offline-First Data Synchronization"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.7 Notifications & History",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.7 Notifications & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A notification center keeps users informed of job assignments and status changes, with read / unread and",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.7 Notifications & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "mark-all-read support",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.7 Notifications & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ A history view provides access to previously completed inspections and their full submitted details for later",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.7 Notifications & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "review",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.7 Notifications & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "4.8 Role-Based Access Control",
+    "page": 6,
+    "heading_level": 3,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.8 Role-Based Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 13.5,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Access to each area of the application — inspections, tasks, sites, reports, user administration — is controlled",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.8 Role-Based Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "by a configurable, role-based permission model. Administrators define roles and the capabilities each role",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.8 Role-Based Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "has (view, create, edit, delete) per feature area, and the app enforces this consistently across every screen.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "4. Functional Modules",
+      "4.8 Role-Based Access Control"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "5. End-to-End Workflow",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The diagram below traces a typical inspection from login through to a completed, synchronized record.",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Login & Initial Data Sync",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "View Assigned Inspection Jobs / Tasks (Home & Inspection tabs)",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Open Dynamic Inspection Form",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(sections -> checklist items -> fields)",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Complete Checklist",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(photo / video / notes / signature captured per item as required)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "+---------------------+",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Defect / issue found No issues found",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "| |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Raise Task / Service Request |",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|_____________________|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Media Evidence Uploaded to Cloud Storage (background)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Submit Inspection (saved locally, queued for sync)",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "[ Automatic Sync to Server when connectivity is available ]",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "|",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "v",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Available in History & Reporting / Notifications sent to relevant users",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "This same offline-first pattern applies to tasks and service requests raised outside of a scheduled inspection — they are",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "captured locally the moment they are created and synchronized on the same automatic cycle.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "5. End-to-End Workflow"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Reporting & History",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Once an inspection is submitted and synchronized, users can:",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Review completed inspections and their full checklist responses and evidence in the History view",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Open detailed audit records showing every response, attachment, and signature captured during the",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inspection",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Access previously generated inspection reports in PDF format",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Track the status of open tasks and service requests raised from past inspections through to closure",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "6. Reporting & History"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "7. Technology Stack",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Layer\nDetails",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": ".NET MAUI — a single cross-platform codebase",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "delivering native apps for Android and iOS",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Architecture",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "MVVM with dependency injection, and an offline-first",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "data design",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "On-Device Data",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "A local on-device data store mirrors the user's assigned",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "data, enabling full offline use",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Cloud Media Storage",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Secure cloud object storage for photo, video, and",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "document evidence, with background upload",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Backend Integration",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "REST API integration with token-based authentication",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and automatic session renewal",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Platform Integration",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Native platform-specific components on Android and iOS",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "for camera, file handling, and background upload",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "7. Technology Stack"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "8. Our Role & Contribution",
+    "page": 8,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Tecsack Software designed and developed PrimeInspect end-to-end as a single cross-platform mobile",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "codebase, covering both Android and iOS from one project rather than maintaining separate native",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "applications.",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Our contribution spanned the full lifecycle of the application, including:",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Layer | Details\nPlatform | .NET MAUI — a single cross-platform codebase\ndelivering native apps for Android and iOS\nArchitecture | MVVM with dependency injection, and an offline-first\ndata design\nOn-Device Data | A local on-device data store mirrors the user's assigned\ndata, enabling full offline use\nCloud Media Storage | Secure cloud object storage for photo, video, and\ndocument evidence, with background upload\nBackend Integration | REST API integration with token-based authentication\nand automatic session renewal\nPlatform Integration | Native platform-specific components on Android and iOS\nfor camera, file handling, and background upload",
+    "page": 8,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Application architecture — an MVVM, dependency-injected structure with a clean separation between UI,",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "business logic, and data access",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ The offline-first data layer, allowing field users to complete full inspections without a live connection and sync",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "automatically once reconnected",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ The dynamic form engine that renders inspection checklists from server-defined templates, so forms can be",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "configured per client without an app update",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Native platform integration on Android and iOS, including camera/media capture, signature drawing, and",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "background cloud upload handling",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Role-based access control and the permission model that governs feature-level access across the app",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Integration with the backend platform for authentication, job assignment, and data synchronization",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "8. Our Role & Contribution"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "9. Business Value & Benefits",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Replaces paper-based or disconnected spreadsheet inspections with a single, standardized digital workflow",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Keeps field teams productive in locations with unreliable connectivity, with no loss of data and no manual",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "re-entry once back online",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Standardizes how checklist evidence is captured, so every inspection carries the same level of supporting",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "detail (photos, video, notes, signatures)",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Shortens the path from an identified defect to a tracked, assigned follow-up task",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Improves accountability and audit-readiness through a complete, reviewable history of every inspection",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Gives administrators fine-grained control over who can see or change inspection and audit data",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●​ Reduces the operational overhead of managing inspection data manually across multiple sites or suppliers",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "9. Business Value & Benefits"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "10. Outcome & Impact",
+    "page": 9,
+    "heading_level": 2,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 18.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "PrimeInspect gives organizations a single, consolidated mobile system that carries an inspection from initial",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "job assignment through checklist completion, evidence capture, defect follow-up, and final review —",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "available natively on both Android and iOS from one application.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "By building the application offline-first, field teams are no longer dependent on constant connectivity to do",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "their work, while the organization still gets a fully synchronized, centralized, and auditable record of every",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "inspection once devices reconnect. The result is a more consistent, traceable, and efficient inspection",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "process across every site, supplier, or location the organization manages.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "3. Key Capabilities",
+      "10. Outcome & Impact"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  }
+]

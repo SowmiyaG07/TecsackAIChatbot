@@ -1,0 +1,1278 @@
+[
+  {
+    "element_type": "heading",
+    "text": "​TECSACK SOFTWARE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​TECSACK SOFTWARE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 24.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​COMPANY PROFILE​",
+    "page": 1,
+    "heading_level": 1,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 24.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Picom365 — UI Modernization & Mobile Companion App​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Document Version: 1.0​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Date: September 2026​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Classification: Public​",
+    "page": 1,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​Table of Contents​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​1. Platform Overview ……………………………………………………….. 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​2. High-Level Workflow …………………………………………………….. 3​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.1 Acquisition & Upload​​……………..………………………...…..….​​4​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.1 Acquisition & Upload​​……………..………………………...…..….​​4​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.2 Worklist & Routing​​……………..………………..………...…..…...4​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.2 Worklist & Routing​​……………..………………..………...…..…...4​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.3 Viewing & Diagnosis​ ​……………..………………………...…..….​​4​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.3 Viewing & Diagnosis​ ​……………..………………………...…..….​​4​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.4 Reporting​ ​……………..………………………...……………...…. 5​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.4 Reporting​ ​……………..………………………...……………...…. 5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.5​​Distribution, Sharing & Analytics​………….…………...……...…..….​​5​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.5​​Distribution, Sharing & Analytics​………….…………...……...…..….​​5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.6​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.6​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​",
+    "page": 2,
+    "heading_level": 3,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 15.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​3. Summary Diagram ………………………….…………………………….. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​4. Sourcing Notes ……………………..……….…………………………….. 6​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​5. Technology Used ………………………….………………...…………….. 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​6. Contact ………….………………………….………………...…………….. 7​",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​Table of Contents​",
+      "​2.7​​Distribution, Sharing & Analytics​………….…………...……...…..…..5​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​1. Platform Overview​",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Picom365 is ScImage's flagship cloud-based imaging platform, used across​\n​radiology, cardiology, vascular medicine, women's health, and several other​\n​clinical specialties. It's built as a suite of interconnected web applications​\n​and modules rather than a single monolithic app, all accessed through a​\n​common login portal at picom365.com.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​1. Platform Overview​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2. High-Level Workflow​",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​At a high level, an exam or study moves through the platform in five stages:​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Acquisition & Upload — Images/exams enter the system from​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​modalities, mobile capture, or web upload.​\n​●​ ​Worklist & Routing — Studies are organized, prioritized, and routed to​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​the right reader.​\n​●​ ​Viewing & Diagnosis — Clinicians review images using​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​specialty-specific viewers and tools.​\n​●​ ​Reporting — Findings are documented, either through built-in or​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​external reporting systems.​\n​●​ ​Distribution, Sharing & Analytics — Results and images are shared​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​with referring providers/patients, and usage/outcomes data is tracked​\n​centrally.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Administration (user accounts, permissions) and interoperability with​\n​outside systems (EHRs, other PACS, HL7 feeds) run underneath all five​\n​stages rather than as a separate step.​",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2. High-Level Workflow​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.1 Acquisition & Upload​",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.1 Acquisition & Upload​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​PicomCloud — a web-based upload portal for submitting patient​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.1 Acquisition & Upload​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​exams directly, without needing local PACS infrastructure.​\n​●​ ​PicomCam — a mobile app that lets staff capture photos on a​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.1 Acquisition & Upload​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​phone/tablet and upload them straight into the PACS, used heavily in​\n​specialties like wound care, dermatology, or endoscopy where​\n​photographic documentation matters.​\n​●​ ​Modality-originated studies (CT, MRI, ultrasound, echo, etc.) flow in​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.1 Acquisition & Upload​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​through standard DICOM and non-DICOM ingestion, since the​\n​platform is built to handle both.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.1 Acquisition & Upload​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.2 Worklist & Routing​",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.2 Worklist & Routing​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​A smart worklist dynamically prioritizes urgent cases (STAT/ASAP) and auto-routes​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.2 Worklist & Routing​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​studies by modality, subspecialty, or site.​\n​●​ ​Automated alerts notify assigned readers of time-sensitive studies, with per-user tracking​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.2 Worklist & Routing​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​configurable down to the hour or minute.​\n​●​ ​A built-in patient/study identifier crosswalk lets the system reconcile records across​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.2 Worklist & Routing​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​multiple EHRs or multiple radiology groups serving one institution, which matters for​\n​multi-site or multi-tenant deployments.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.2 Worklist & Routing​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.3 Viewing & Diagnosis​",
+    "page": 4,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Viewing is delivered through specialty-tuned dashboards under the shared​\n​PicomWeb front end, rather than one generic viewer:​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Radiology — zero-footprint 2D/3D viewing, AI-assisted hanging​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​protocols and prior-study surfacing, MPR/MIP and image fusion, and​\n​integration hooks into external advanced-visualization/quantification​\n​tools.​\n​●​ ​Cardiology — workflows spanning invasive and diagnostic cardiology.​\n​●​ ​Vascular — support for both invasive and non-invasive vascular​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​imaging workflows.​\n​●​ ​Women's Health — dedicated handling for OB, MFM (maternal-fetal​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​medicine), and mammography studies.​",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Other departments — ophthalmology, endoscopy, dermatology, and​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​pathology are supported through the same underlying platform.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.3 Viewing & Diagnosis​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.4 Reporting​",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.4 Reporting​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​Structured Reporting — configurable templates for generating​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.4 Reporting​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​standardized reports, aimed at specialties with data-rich exam types​\n​(e.g., cardiology).​\n​●​ ​Voice-enabled self-reporting, using built-in speech recognition, for​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.4 Reporting​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​dictation directly inside the platform.​\n​●​ ​External reporting integration — the platform can either launch a​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.4 Reporting​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​third-party reporting system from within PACS, or be launched/driven​\n​from an external system, so sites aren't locked into one reporting tool.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.4 Reporting​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.5 Distribution, Sharing & Analytics​",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.5 Distribution, Sharing & Analytics​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​PicomShare — lets external physicians and patients submit or​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.5 Distribution, Sharing & Analytics​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​receive exams, functioning as the platform's exam-exchange front​\n​door.​\n​●​ ​Secure image sharing — web-link-based, PHI-protected distribution​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.5 Distribution, Sharing & Analytics​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​intended to replace physical media (CDs), aimed at cutting​\n​unnecessary re-imaging, radiation exposure, turnaround time, and​\n​cost.​\n​●​ ​PicomAnalytics — a reporting/analytics module for tracking worker​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.5 Distribution, Sharing & Analytics​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​productivity and patient-outcome data across the organization.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.5 Distribution, Sharing & Analytics​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.6 Cross-Cutting: Administration​",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.6 Cross-Cutting: Administration​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​AdminConsole — centralized control over user accounts and access​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.6 Cross-Cutting: Administration​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​permissions, used to configure who can see or do what across the​\n​platform.​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.6 Cross-Cutting: Administration​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​2.7 Cross-Cutting: Interoperability​",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 19.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Underneath the specialty workflows sits what ScImage calls the​\n​Interoperability Core, which handles:​",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​●​ ​HL7, EHR, DICOM, and non-DICOM data exchange​\n​●​ ​Billing and patient-ID reconciliation across systems​\n​●​ ​Connections to legacy EHRs, external reporting systems, VNAs​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​(vendor-neutral archives), and third-party PACS​\n​●​ ​Support for flexible exchange patterns: subspecialty reading,​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​teleradiology, consolidated worklists, and HIE/MPI (health information​\n​exchange/master patient index) translation​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​This is the layer that lets a single radiology group serve multiple institutions​\n​with different EHRs, or multiple groups serve one institution, without​\n​manual reconciliation.​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​2.7 Cross-Cutting: Interoperability​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​3. Summary Diagram​",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Modalities / Mobile (PicomCam) / Web Upload (PicomCloud)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​↓​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Smart Worklist & Routing ◄► Interoperability Core (HL7/EHR/DICOM)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​↓​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Specialty Viewing (Radiology / Cardiology / Vascular / Women's Health / Other)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​↓​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Reporting (Structured / Voice / External)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​↓​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Distribution & Sharing (PicomShare, secure links)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​↓​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Analytics (PicomAnalytics) & Admin (AdminConsole)​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​3. Summary Diagram​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​4. Sourcing Notes​",
+    "page": 6,
+    "heading_level": 2,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​4. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​This overview reflects publicly available descriptions from picom365.com​\n​and scimage.com as of September 2026, and is a paraphrased summary of​\n​ScImage's own marketing content — not verbatim reproduction. It​",
+    "page": 6,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​4. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​describes the platform ScImage has built and operates; it does not describe​\n​or imply any Tecsack ownership of Picom365 as a whole. Documenting​\n​Tecsack's specific contracted contribution to this platform is a separate,​\n​distinctly scoped piece of work.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​COMPANY PROFILE​",
+      "​4. Sourcing Notes​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​5. Technology Used​",
+    "page": 7,
+    "heading_level": 1,
+    "heading_path": [
+      "​5. Technology Used​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Web​\n​.NET MVC — the client's existing, established stack.​\n​Chosen/maintained for continuity within a mature,​\n​compliance-sensitive healthcare system rather than a rewrite.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Technology Used​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Mobile​\n​.NET MAUI -​​iOS, Android​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Technology Used​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Integration​\n​Existing platform authentication and data model, extended rather​\n​than replaced.​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​5. Technology Used​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "​6. Contact​",
+    "page": 7,
+    "heading_level": 1,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Website​\n​https://www.tecsack.in​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Contact Form​\n​https://www.tecsack.in/contact.html​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Email​\n​researchwing@tecsack.in​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Headquarters​\n​Salem, India​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "​Phone​\n​+91-9786297172​",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Web | .NET MVC — the client's existing, established stack.\nChosen/maintained for continuity within a mature,\ncompliance-sensitive healthcare system rather than a rewrite.\nMobile | .NET MAUI - iOS, Android\nIntegration | Existing platform authentication and data model, extended rather\nthan replaced.",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 0
+    }
+  },
+  {
+    "element_type": "table",
+    "text": "Website | https://www.tecsack.in\nContact Form | https://www.tecsack.in/contact.html\nEmail | researchwing@tecsack.in\nHeadquarters | Salem, India\nPhone | +91-9786297172",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "​6. Contact​"
+    ],
+    "metadata": {
+      "extraction_method": "pdfplumber",
+      "table_index": 1
+    }
+  }
+]
