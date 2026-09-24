@@ -7,6 +7,8 @@ from typing import Any
 from dotenv import load_dotenv
 from ollama import Client
 
+from app.observability import observed_chat
+
 
 # ---------------------------------------------------------
 # Environment
@@ -230,7 +232,9 @@ def expand_query(
         intent=intent,
     )
 
-    response = ollama_client.chat(
+    response = observed_chat(
+        ollama_client,
+        "query_expansion",
         model=OLLAMA_MODEL,
         messages=[
             {

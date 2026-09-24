@@ -6,6 +6,8 @@ import os
 from dotenv import load_dotenv
 from ollama import Client
 
+from app.observability import observed_chat
+
 
 # ---------------------------------------------------------
 # Environment
@@ -91,12 +93,51 @@ Rules:
 # Answer generation
 # ---------------------------------------------------------
 
+def format_history(
+    history: list[dict[str, str]] | None,
+) -> str:
+    """
+    Render recent conversation messages as a prompt section.
+
+    Returns "" when there is no history, so the prompt is exactly
+    the same as before conversation memory existed.
+    """
+
+    if not history:
+        return ""
+
+    lines = [
+        f"{'User' if message['role'] == 'user' else 'Assistant'}: "
+        f"{message['content'].strip()}"
+        for message in history
+    ]
+
+    return (
+        "RECENT CONVERSATION\n"
+        "===================\n"
+        "\n"
+        "Use this only to understand what the current question refers\n"
+        "to (for example \"he\", \"that project\", \"what about the CTO\").\n"
+        "It is NOT a source of facts: take every fact from the DOCUMENT\n"
+        "CONTEXT below. If the conversation and the documents disagree,\n"
+        "the documents are correct.\n"
+        "\n"
+        + "\n\n".join(lines)
+        + "\n\n\n"
+    )
+
+
 def generate_answer(
     question: str,
     context: str,
+    history: list[dict[str, str]] | None = None,
 ) -> str:
     """
     Generate a grounded answer using the retrieved context.
+
+    `history` is recent conversation (oldest first, Ollama chat
+    format) from Redis. It only helps resolve references in the
+    question; facts must come from `context`.
     """
 
     if not question.strip():
@@ -111,7 +152,7 @@ def generate_answer(
         )
 
     user_prompt = f"""
-DOCUMENT CONTEXT
+{format_history(history)}DOCUMENT CONTEXT
 ================
 
 {context}
@@ -140,7 +181,9 @@ If the answer is not present:
 ANSWER:
 """
 
-    response = ollama_client.chat(
+    response = observed_chat(
+        ollama_client,
+        "answer_generation",
         model=OLLAMA_MODEL,
         messages=[
             {

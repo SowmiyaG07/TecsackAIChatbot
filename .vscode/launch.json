@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Debug the FastAPI app. Runs uvicorn from the project root so
+            // "import app..." works. No --reload: the reloader runs the app
+            // in a child process where breakpoints are not hit.
+            "name": "API: FastAPI (uvicorn)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": ["app.api.main:app", "--port", "8000"],
+            "cwd": "${workspaceFolder}",
+            "python": "${workspaceFolder}/venv/Scripts/python.exe",
+            "jinja": false,
+            "justMyCode": true
+        },
+        {
+            // Debug one conversation turn from the terminal.
+            "name": "Chat CLI (session)",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "app.chat_service",
+            "args": ["--session", "debug-session-001"],
+            "cwd": "${workspaceFolder}",
+            "python": "${workspaceFolder}/venv/Scripts/python.exe",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

@@ -27,6 +27,7 @@ from app.embeddings.embedding_service import (
 
 from app.generation.context_builder import build_context
 from app.generation.answer_generator import generate_answer
+from app.observability import record_retrieval, timed
 # ---------------------------------------------------------
 # Environment
 # ---------------------------------------------------------
@@ -179,12 +180,13 @@ def generate_query_embedding(
             "Question cannot be empty."
         )
 
-    response = ollama_client.embed(
-        model=EMBEDDING_MODEL,
-        input=format_query_for_embedding(
-            strip_corpus_entities(question)
-        ),
-    )
+    with timed("embedding"):
+        response = ollama_client.embed(
+            model=EMBEDDING_MODEL,
+            input=format_query_for_embedding(
+                strip_corpus_entities(question)
+            ),
+        )
 
     embeddings = response["embeddings"]
 
@@ -210,9 +212,10 @@ def search_vectors(
     # ---------------------------------------------------------
     # 1. Determine query intent
     # ---------------------------------------------------------
-    intent, justification = classify_query_intent(question)
+    with timed("query_intent"):
+        intent, justification = classify_query_intent(question)
 
-    metadata_filter = get_metadata_filter(intent)
+        metadata_filter = get_metadata_filter(intent)
 
     print(f"Query intent      : {intent}")
     print(f"Justification     : {justification}")
@@ -221,20 +224,24 @@ def search_vectors(
     # ---------------------------------------------------------
     # 2. Expand query
     # ---------------------------------------------------------
-    expanded_queries = expand_query(
-        question,
-        intent=intent,
-    )
+    with timed("query_expansion", emit_event=True) as span:
+        expanded_queries = expand_query(
+            question,
+            intent=intent,
+        )
+
+        span["expanded_queries"] = len(expanded_queries)
 
     print(expanded_queries)
 
     # ---------------------------------------------------------
     # 3. BM25 index (cached per filter)
     # ---------------------------------------------------------
-    bm25_index, bm25_documents = get_bm25_index(
-        collection,
-        metadata_filter=metadata_filter,
-    )
+    with timed("bm25_index"):
+        bm25_index, bm25_documents = get_bm25_index(
+            collection,
+            metadata_filter=metadata_filter,
+        )
 
     print(
         f"BM25 documents    : {len(bm25_documents)}"
@@ -265,11 +272,12 @@ def search_vectors(
 
         # Same candidate depth as BM25 so neither retriever
         # dominates the fusion; top_k only trims the final list.
-        query_result = collection.query(
-            query_embeddings=[query_embedding],
-            n_results=RETRIEVAL_TOP_K,
-            where=metadata_filter if metadata_filter else None,
-        )
+        with timed("vector_search"):
+            query_result = collection.query(
+                query_embeddings=[query_embedding],
+                n_results=RETRIEVAL_TOP_K,
+                where=metadata_filter if metadata_filter else None,
+            )
 
         result_ids = query_result.get("ids", [[]])[0]
         result_documents = query_result.get(
@@ -351,16 +359,17 @@ def search_vectors(
         # BM25 SEARCH
         # =====================================================
 
-        bm25_results = (
-            search_bm25_index(
-                bm25=bm25_index,
-                documents=bm25_documents,
-                query=expanded_query,
-                top_k=RETRIEVAL_TOP_K,
+        with timed("bm25"):
+            bm25_results = (
+                search_bm25_index(
+                    bm25=bm25_index,
+                    documents=bm25_documents,
+                    query=expanded_query,
+                    top_k=RETRIEVAL_TOP_K,
+                )
+                if bm25_index is not None
+                else []
             )
-            if bm25_index is not None
-            else []
-        )
 
         for index, bm25_result in enumerate(
             bm25_results
@@ -429,7 +438,18 @@ def search_vectors(
     # ---------------------------------------------------------
     # 7. Return top results
     # ---------------------------------------------------------
-    return results[:top_k]
+    final_results = results[:top_k]
+
+    record_retrieval(
+        intent=intent,
+        justification=justification,
+        metadata_filter=metadata_filter,
+        expanded_queries=expanded_queries,
+        candidate_count=len(candidates),
+        final_results=final_results,
+    )
+
+    return final_results
     
 
 # ---------------------------------------------------------
@@ -572,54 +592,39 @@ def main() -> None:
         return
 
     # ---------------------------------------------------------
-    # 1. RETRIEVAL
+    # 1-4. RETRIEVAL -> CONTEXT -> ANSWER (traced request)
     # ---------------------------------------------------------
 
-    results = search_vectors(
+    # Imported here: chat_service imports this module.
+    from app.chat_service import answer_question
+    from app.observability import configure_logging
+
+    configure_logging()
+
+    result = answer_question(
         question=question,
         top_k=TOP_K,
     )
 
-    # ---------------------------------------------------------
-    # 2. PRINT RETRIEVAL RESULTS
-    # ---------------------------------------------------------
-
     print_results(
         question=question,
-        results=results,
-    )
-
-    # ---------------------------------------------------------
-    # 3. BUILD LLM CONTEXT
-    # ---------------------------------------------------------
-
-    context = build_context(
-        results
+        results=result.results,
     )
 
     print("\n" + "=" * 100)
     print("LLM CONTEXT")
     print("=" * 100)
 
-    print(context)
-
-    # ---------------------------------------------------------
-    # 4. GENERATE ANSWER
-    # ---------------------------------------------------------
+    print(result.context)
 
     print("\n" + "=" * 100)
     print("GENERATED ANSWER")
     print("=" * 100)
 
-    answer = generate_answer(
-        question=question,
-        context=context,
-        
-    )
-
-    print(answer)
+    print(result.answer)
 
     print("=" * 100)
+    print(f"trace_id: {result.trace_id}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,60 @@
+Check WSL — PowerShell
+
+wsl --status
+wsl -l -v
+
+2. Enter Ubuntu
+
+wsl -d Ubuntu-24.04
+
+3. Update Ubuntu
+
+sudo apt update
+sudo apt upgrade -y
+
+4. Install Redis
+
+sudo apt install redis-server -y
+
+5. Start Redis
+
+sudo service redis-server start
+
+6. Check Redis
+
+sudo service redis-server status
+
+7. Test Redis
+
+redis-cli ping
+
+Expected:
+
+PONG
+
+8. Test storing data
+
+redis-cli
+SET test "hello"
+GET test
+exit
+
+9. Check Redis from Windows
+
+Test-NetConnection localhost -Port 6379
+
+Expected:
+
+TcpTestSucceeded : True
+
+10. Install Python Redis package
+
+cd C:\CoreReactor\TecsackAIChatbot
+.venv\Scripts\Activate.ps1
+pip install redis
+
+11. .env
+
+REDIS_URL=redis://localhost:6379/0
+MAX_HISTORY_MESSAGES=7
+HISTORY_MAX_TOKENS=1500
