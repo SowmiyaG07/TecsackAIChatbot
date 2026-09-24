@@ -107,7 +107,7 @@
   },
   {
     "element_type": "list",
-    "text": "1. Overview​",
+    "text": "1. Overview",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -120,7 +120,7 @@
   },
   {
     "element_type": "list",
-    "text": "2. Business Context​",
+    "text": "2. Business Context",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -133,7 +133,7 @@
   },
   {
     "element_type": "list",
-    "text": "3. Key Capabilities​",
+    "text": "3. Key Capabilities",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -146,7 +146,7 @@
   },
   {
     "element_type": "list",
-    "text": "4. Functional Modules​",
+    "text": "4. Functional Modules",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -159,7 +159,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.1 Login & Navigation​",
+    "text": "4.1 Login & Navigation",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -172,7 +172,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.2 Inspection Job & Task Assignment​",
+    "text": "4.2 Inspection Job & Task Assignment",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -185,7 +185,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.3 Dynamic Inspection Forms & Quality Checklists​",
+    "text": "4.3 Dynamic Inspection Forms & Quality Checklists",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -198,7 +198,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.4 Evidence Capture & Cloud Storage​",
+    "text": "4.4 Evidence Capture & Cloud Storage",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -211,7 +211,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.5 Defect & Service Request Management​",
+    "text": "4.5 Defect & Service Request Management",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -224,7 +224,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.6 Offline-First Data Synchronization​",
+    "text": "4.6 Offline-First Data Synchronization",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -237,7 +237,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.7 Notifications & History​",
+    "text": "4.7 Notifications & History",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -250,7 +250,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.8 Role-Based Access Control​",
+    "text": "4.8 Role-Based Access Control",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -263,7 +263,7 @@
   },
   {
     "element_type": "list",
-    "text": "5. End-to-End Workflow​",
+    "text": "5. End-to-End Workflow",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -276,12 +276,12 @@
   },
   {
     "element_type": "heading",
-    "text": "6. Reporting & History​",
+    "text": "6. Reporting & History",
     "page": 2,
     "heading_level": 2,
     "heading_path": [
       "PrimeInspect",
-      "6. Reporting & History​"
+      "6. Reporting & History"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -291,12 +291,12 @@
   },
   {
     "element_type": "list",
-    "text": "7. Technology Stack​",
+    "text": "7. Technology Stack",
     "page": 2,
     "heading_level": null,
     "heading_path": [
       "PrimeInspect",
-      "6. Reporting & History​"
+      "6. Reporting & History"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -304,12 +304,12 @@
   },
   {
     "element_type": "list",
-    "text": "8. Our Role & Contribution​",
+    "text": "8. Our Role & Contribution",
     "page": 2,
     "heading_level": null,
     "heading_path": [
       "PrimeInspect",
-      "6. Reporting & History​"
+      "6. Reporting & History"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -317,12 +317,12 @@
   },
   {
     "element_type": "list",
-    "text": "9. Value Delivered​",
+    "text": "9. Value Delivered",
     "page": 2,
     "heading_level": null,
     "heading_path": [
       "PrimeInspect",
-      "6. Reporting & History​"
+      "6. Reporting & History"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -490,7 +490,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Assign inspection jobs and tasks to field auditors and track them through to completion",
+    "text": "● Assign inspection jobs and tasks to field auditors and track them through to completion",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -503,7 +503,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture consistent, standardized checklist responses against a defined quality standard, with photo, video,",
+    "text": "● Capture consistent, standardized checklist responses against a defined quality standard, with photo, video,",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -529,7 +529,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keep working reliably even when the field location has poor or no internet connectivity (factories,",
+    "text": "● Keep working reliably even when the field location has poor or no internet connectivity (factories,",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -555,7 +555,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Raise and track follow-up tasks or service requests for issues and defects identified during an inspection",
+    "text": "● Raise and track follow-up tasks or service requests for issues and defects identified during an inspection",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -568,7 +568,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Control who can view, edit, or approve inspection and audit data based on their role in the organization",
+    "text": "● Control who can view, edit, or approve inspection and audit data based on their role in the organization",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -581,7 +581,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Stay informed of job assignments, status changes, and outcomes in near real time",
+    "text": "● Stay informed of job assignments, status changes, and outcomes in near real time",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -648,8 +648,9 @@
     "element_type": "heading",
     "text": "3. Key Capabilities",
     "page": 4,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities"
     ],
     "metadata": {
@@ -664,6 +665,7 @@
     "page": 4,
     "heading_level": 3,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -679,6 +681,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -692,6 +695,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -705,6 +709,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -718,6 +723,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -731,6 +737,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -744,6 +751,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -757,6 +765,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -770,6 +779,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -783,6 +793,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -796,6 +807,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -809,6 +821,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -822,6 +835,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -835,6 +849,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -848,6 +863,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -861,6 +877,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -874,6 +891,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -887,6 +905,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -900,6 +919,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -913,6 +933,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -926,6 +947,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -939,6 +961,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -952,6 +975,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -965,6 +989,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -978,6 +1003,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -991,6 +1017,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -1004,6 +1031,7 @@
     "page": 4,
     "heading_level": null,
     "heading_path": [
+      "PrimeInspect",
       "3. Key Capabilities",
       "Capability\nDescription"
     ],
@@ -1018,7 +1046,7 @@
     "page": 5,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules"
     ],
     "metadata": {
@@ -1033,7 +1061,7 @@
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.1 Login & Navigation"
     ],
@@ -1049,7 +1077,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.1 Login & Navigation"
     ],
@@ -1063,7 +1091,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.1 Login & Navigation"
     ],
@@ -1077,7 +1105,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.1 Login & Navigation"
     ],
@@ -1091,7 +1119,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.1 Login & Navigation"
     ],
@@ -1105,7 +1133,7 @@
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.2 Inspection Job & Task Assignment"
     ],
@@ -1117,11 +1145,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View inspection jobs assigned to the logged-in user, with status and due-date tracking",
+    "text": "● View inspection jobs assigned to the logged-in user, with status and due-date tracking",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.2 Inspection Job & Task Assignment"
     ],
@@ -1131,11 +1159,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View and manage tasks and service requests, including priority, status, and assignee",
+    "text": "● View and manage tasks and service requests, including priority, status, and assignee",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.2 Inspection Job & Task Assignment"
     ],
@@ -1145,11 +1173,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A home dashboard summarizes what is assigned, in progress, and due",
+    "text": "● A home dashboard summarizes what is assigned, in progress, and due",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.2 Inspection Job & Task Assignment"
     ],
@@ -1163,7 +1191,7 @@
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1175,11 +1203,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Inspection forms are built from templates defined centrally, organized as sections containing checklist items",
+    "text": "● Inspection forms are built from templates defined centrally, organized as sections containing checklist items",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1193,7 +1221,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1203,11 +1231,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Each checklist item can independently require a photo, video, note, or signature before it can be marked",
+    "text": "● Each checklist item can independently require a photo, video, note, or signature before it can be marked",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1221,7 +1249,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1231,11 +1259,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Checklist items can be evaluated against defined quality criteria, supporting standardized quality-control style",
+    "text": "● Checklist items can be evaluated against defined quality criteria, supporting standardized quality-control style",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1249,7 +1277,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1259,11 +1287,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Forms adapt to the client, site, or inspection type being audited",
+    "text": "● Forms adapt to the client, site, or inspection type being audited",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.3 Dynamic Inspection Forms & Quality Checklists"
     ],
@@ -1277,7 +1305,7 @@
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1289,11 +1317,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ In-app camera and file capture for photos, video, and documents, attached directly to the relevant checklist",
+    "text": "● In-app camera and file capture for photos, video, and documents, attached directly to the relevant checklist",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1307,7 +1335,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1317,11 +1345,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ On-screen signature capture pad for sign-off at the point of inspection",
+    "text": "● On-screen signature capture pad for sign-off at the point of inspection",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1331,11 +1359,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Captured media is uploaded to secure cloud storage in the background, independent of the main data sync, so",
+    "text": "● Captured media is uploaded to secure cloud storage in the background, independent of the main data sync, so",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1349,7 +1377,7 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.4 Evidence Capture & Cloud Storage"
     ],
@@ -1363,7 +1391,7 @@
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.5 Defect & Service Request Management"
     ],
@@ -1375,11 +1403,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Issues or defects identified during an inspection can be raised directly as a task or service request",
+    "text": "● Issues or defects identified during an inspection can be raised directly as a task or service request",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.5 Defect & Service Request Management"
     ],
@@ -1389,11 +1417,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Each item tracks priority, status, due date, and the assigned owner through to resolution",
+    "text": "● Each item tracks priority, status, due date, and the assigned owner through to resolution",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.5 Defect & Service Request Management"
     ],
@@ -1403,11 +1431,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Supporting documents can be attached to a task or service request as part of the follow-up record",
+    "text": "● Supporting documents can be attached to a task or service request as part of the follow-up record",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.5 Defect & Service Request Management"
     ],
@@ -1421,7 +1449,7 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1433,11 +1461,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ All inspection jobs, forms, and submitted data are stored locally on the device, so field work is never blocked",
+    "text": "● All inspection jobs, forms, and submitted data are stored locally on the device, so field work is never blocked",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1451,7 +1479,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1461,11 +1489,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Every record carries a synchronization flag; anything created or changed offline is queued for upload",
+    "text": "● Every record carries a synchronization flag; anything created or changed offline is queued for upload",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1475,11 +1503,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ The app automatically syncs local changes to the server and pulls the latest server data whenever connectivity",
+    "text": "● The app automatically syncs local changes to the server and pulls the latest server data whenever connectivity",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1493,7 +1521,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.6 Offline-First Data Synchronization"
     ],
@@ -1507,7 +1535,7 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.7 Notifications & History"
     ],
@@ -1519,11 +1547,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A notification center keeps users informed of job assignments and status changes, with read / unread and",
+    "text": "● A notification center keeps users informed of job assignments and status changes, with read / unread and",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.7 Notifications & History"
     ],
@@ -1537,7 +1565,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.7 Notifications & History"
     ],
@@ -1547,11 +1575,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A history view provides access to previously completed inspections and their full submitted details for later",
+    "text": "● A history view provides access to previously completed inspections and their full submitted details for later",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.7 Notifications & History"
     ],
@@ -1565,7 +1593,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.7 Notifications & History"
     ],
@@ -1579,7 +1607,7 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.8 Role-Based Access Control"
     ],
@@ -1595,7 +1623,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.8 Role-Based Access Control"
     ],
@@ -1609,7 +1637,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.8 Role-Based Access Control"
     ],
@@ -1623,7 +1651,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "4. Functional Modules",
       "4.8 Role-Based Access Control"
     ],
@@ -1637,7 +1665,7 @@
     "page": 6,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1652,7 +1680,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1665,7 +1693,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1678,7 +1706,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1691,7 +1719,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1704,7 +1732,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1717,7 +1745,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1730,7 +1758,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1743,7 +1771,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1756,7 +1784,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1769,7 +1797,7 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1782,7 +1810,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1795,7 +1823,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1808,7 +1836,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1821,7 +1849,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1834,7 +1862,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1847,7 +1875,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1860,7 +1888,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1873,7 +1901,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1886,7 +1914,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1899,7 +1927,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1912,7 +1940,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1925,7 +1953,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1938,7 +1966,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1951,7 +1979,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1964,7 +1992,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1977,7 +2005,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1990,7 +2018,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2003,7 +2031,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2016,7 +2044,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2029,7 +2057,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2042,7 +2070,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2055,7 +2083,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2068,7 +2096,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2081,7 +2109,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2094,7 +2122,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2107,7 +2135,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -2120,7 +2148,7 @@
     "page": 7,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2135,7 +2163,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2144,11 +2172,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Review completed inspections and their full checklist responses and evidence in the History view",
+    "text": "● Review completed inspections and their full checklist responses and evidence in the History view",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2157,11 +2185,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Open detailed audit records showing every response, attachment, and signature captured during the",
+    "text": "● Open detailed audit records showing every response, attachment, and signature captured during the",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2174,7 +2202,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2183,11 +2211,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Access previously generated inspection reports in PDF format",
+    "text": "● Access previously generated inspection reports in PDF format",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2196,11 +2224,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track the status of open tasks and service requests raised from past inspections through to closure",
+    "text": "● Track the status of open tasks and service requests raised from past inspections through to closure",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "6. Reporting & History"
     ],
     "metadata": {
@@ -2213,7 +2241,7 @@
     "page": 8,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2228,7 +2256,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2241,7 +2269,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2254,7 +2282,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2267,7 +2295,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2280,7 +2308,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2293,7 +2321,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2306,7 +2334,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2319,7 +2347,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2332,7 +2360,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2345,7 +2373,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2358,7 +2386,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2371,7 +2399,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2384,7 +2412,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2397,7 +2425,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2410,7 +2438,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2423,7 +2451,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2436,7 +2464,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2449,7 +2477,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2462,7 +2490,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -2475,7 +2503,7 @@
     "page": 8,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2490,7 +2518,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2503,7 +2531,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2516,7 +2544,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2529,7 +2557,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2542,7 +2570,7 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2552,11 +2580,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Application architecture — an MVVM, dependency-injected structure with a clean separation between UI,",
+    "text": "● Application architecture — an MVVM, dependency-injected structure with a clean separation between UI,",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2569,7 +2597,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2578,11 +2606,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ The offline-first data layer, allowing field users to complete full inspections without a live connection and sync",
+    "text": "● The offline-first data layer, allowing field users to complete full inspections without a live connection and sync",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2595,7 +2623,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2604,11 +2632,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ The dynamic form engine that renders inspection checklists from server-defined templates, so forms can be",
+    "text": "● The dynamic form engine that renders inspection checklists from server-defined templates, so forms can be",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2621,7 +2649,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2630,11 +2658,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Native platform integration on Android and iOS, including camera/media capture, signature drawing, and",
+    "text": "● Native platform integration on Android and iOS, including camera/media capture, signature drawing, and",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2647,7 +2675,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2656,11 +2684,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Role-based access control and the permission model that governs feature-level access across the app",
+    "text": "● Role-based access control and the permission model that governs feature-level access across the app",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2669,11 +2697,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Integration with the backend platform for authentication, job assignment, and data synchronization",
+    "text": "● Integration with the backend platform for authentication, job assignment, and data synchronization",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "8. Our Role & Contribution"
     ],
     "metadata": {
@@ -2686,7 +2714,7 @@
     "page": 9,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2697,11 +2725,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Replaces paper-based or disconnected spreadsheet inspections with a single, standardized digital workflow",
+    "text": "● Replaces paper-based or disconnected spreadsheet inspections with a single, standardized digital workflow",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2710,11 +2738,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keeps field teams productive in locations with unreliable connectivity, with no loss of data and no manual",
+    "text": "● Keeps field teams productive in locations with unreliable connectivity, with no loss of data and no manual",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2727,7 +2755,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2736,11 +2764,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Standardizes how checklist evidence is captured, so every inspection carries the same level of supporting",
+    "text": "● Standardizes how checklist evidence is captured, so every inspection carries the same level of supporting",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2753,7 +2781,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2762,11 +2790,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Shortens the path from an identified defect to a tracked, assigned follow-up task",
+    "text": "● Shortens the path from an identified defect to a tracked, assigned follow-up task",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2775,11 +2803,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Improves accountability and audit-readiness through a complete, reviewable history of every inspection",
+    "text": "● Improves accountability and audit-readiness through a complete, reviewable history of every inspection",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2788,11 +2816,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Gives administrators fine-grained control over who can see or change inspection and audit data",
+    "text": "● Gives administrators fine-grained control over who can see or change inspection and audit data",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2801,11 +2829,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Reduces the operational overhead of managing inspection data manually across multiple sites or suppliers",
+    "text": "● Reduces the operational overhead of managing inspection data manually across multiple sites or suppliers",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "9. Business Value & Benefits"
     ],
     "metadata": {
@@ -2818,7 +2846,7 @@
     "page": 9,
     "heading_level": 2,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2833,7 +2861,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2846,7 +2874,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2859,7 +2887,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2872,7 +2900,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2885,7 +2913,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2898,7 +2926,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {
@@ -2911,7 +2939,7 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "3. Key Capabilities",
+      "PrimeInspect",
       "10. Outcome & Impact"
     ],
     "metadata": {

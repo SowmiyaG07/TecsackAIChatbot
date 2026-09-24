@@ -98,7 +98,7 @@
   },
   {
     "element_type": "list",
-    "text": "1. Overview​",
+    "text": "1. Overview",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -110,7 +110,7 @@
   },
   {
     "element_type": "list",
-    "text": "2. Business Context​",
+    "text": "2. Business Context",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -122,7 +122,7 @@
   },
   {
     "element_type": "list",
-    "text": "3. Key Capabilities​",
+    "text": "3. Key Capabilities",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -134,7 +134,7 @@
   },
   {
     "element_type": "list",
-    "text": "4. Functional Modules​",
+    "text": "4. Functional Modules",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -146,7 +146,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.1 Login & Navigation​",
+    "text": "4.1 Login & Navigation",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -158,7 +158,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.2 Lead, Customer & Property Management​",
+    "text": "4.2 Lead, Customer & Property Management",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -170,7 +170,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.3 Appointment & Route Scheduling​",
+    "text": "4.3 Appointment & Route Scheduling",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -182,7 +182,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.4 Field Service Documentation​",
+    "text": "4.4 Field Service Documentation",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -194,7 +194,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.5 Forms & Inspection Reports​",
+    "text": "4.5 Forms & Inspection Reports",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -206,7 +206,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.6 E-Documents & Digital Agreements​",
+    "text": "4.6 E-Documents & Digital Agreements",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -218,7 +218,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.7 Billing & Payment Processing​",
+    "text": "4.7 Billing & Payment Processing",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -230,7 +230,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.8 Ticket Management​",
+    "text": "4.8 Ticket Management",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -242,7 +242,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.9 Time Tracking & Photo Documentation​",
+    "text": "4.9 Time Tracking & Photo Documentation",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -254,7 +254,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "4.10 Offline Sync & Data Management​",
+    "text": "4.10 Offline Sync & Data Management",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -266,7 +266,7 @@
   },
   {
     "element_type": "list",
-    "text": "5. End-to-End Workflow​",
+    "text": "5. End-to-End Workflow",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -278,7 +278,7 @@
   },
   {
     "element_type": "list",
-    "text": "6. Field Visibility & Operational Insight​",
+    "text": "6. Field Visibility & Operational Insight",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -290,7 +290,7 @@
   },
   {
     "element_type": "list",
-    "text": "7. Technology Stack​",
+    "text": "7. Technology Stack",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -302,7 +302,7 @@
   },
   {
     "element_type": "list",
-    "text": "8. Tecsack Software's Role & Contribution​",
+    "text": "8. Tecsack Software's Role & Contribution",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -314,7 +314,7 @@
   },
   {
     "element_type": "list",
-    "text": "9. Value Delivered​",
+    "text": "9. Value Delivered",
     "page": 2,
     "heading_level": null,
     "heading_path": [
@@ -499,7 +499,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Schedule and route technician appointments efficiently across many customer properties",
+    "text": "● Schedule and route technician appointments efficiently across many customer properties",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -512,7 +512,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture detailed on-site inspection and treatment records — pest activity, chemical",
+    "text": "● Capture detailed on-site inspection and treatment records — pest activity, chemical",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -538,7 +538,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Produce industry-specific inspection paperwork, such as wood infestation/destroying-insect",
+    "text": "● Produce industry-specific inspection paperwork, such as wood infestation/destroying-insect",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -564,7 +564,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Collect customer signatures on service agreements and diagram the areas of a property that",
+    "text": "● Collect customer signatures on service agreements and diagram the areas of a property that",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -590,7 +590,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture and manage photo documentation of each visit",
+    "text": "● Capture and manage photo documentation of each visit",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -603,7 +603,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Process customer payments in the field, by credit card or ACH",
+    "text": "● Process customer payments in the field, by credit card or ACH",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -616,7 +616,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track and resolve field and service issues through to completion",
+    "text": "● Track and resolve field and service issues through to completion",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -629,7 +629,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keep technician and office records synchronized, even where connectivity is unreliable",
+    "text": "● Keep technician and office records synchronized, even where connectivity is unreliable",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -1332,7 +1332,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture new sales leads directly from the field",
+    "text": "● Capture new sales leads directly from the field",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1346,7 +1346,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Search existing customers and properties, and manage related contacts",
+    "text": "● Search existing customers and properties, and manage related contacts",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1360,7 +1360,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Maintain and browse property and location records tied to each customer",
+    "text": "● Maintain and browse property and location records tied to each customer",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1374,7 +1374,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View customer balance and account information relevant to a scheduled visit",
+    "text": "● View customer balance and account information relevant to a scheduled visit",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1446,7 +1446,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Create new appointments with associated agreement type, service line, service type, and",
+    "text": "● Create new appointments with associated agreement type, service line, service type, and",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1474,7 +1474,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View the day's and historical appointments in list, calendar, or map view",
+    "text": "● View the day's and historical appointments in list, calendar, or map view",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1488,7 +1488,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Search and filter appointments by multiple criteria, including a combined list-and-map search",
+    "text": "● Search and filter appointments by multiple criteria, including a combined list-and-map search",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1517,7 +1517,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Sort and reorder the day's route, and move jobs between technicians or time slots",
+    "text": "● Sort and reorder the day's route, and move jobs between technicians or time slots",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1531,7 +1531,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Review historical appointment and service records for a property",
+    "text": "● Review historical appointment and service records for a property",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1561,7 +1561,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Record chemical applications and treatment detail, pest sightings and activity, and site",
+    "text": "● Record chemical applications and treatment detail, pest sightings and activity, and site",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1589,7 +1589,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Log pH and weather readings relevant to a treatment",
+    "text": "● Log pH and weather readings relevant to a treatment",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1603,7 +1603,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Manage bait and monitoring station records, including Sentricon-type termite station",
+    "text": "● Manage bait and monitoring station records, including Sentricon-type termite station",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1631,7 +1631,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Draw and annotate treatment diagrams directly on a graphical property map, using reusable",
+    "text": "● Draw and annotate treatment diagrams directly on a graphical property map, using reusable",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1675,7 +1675,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Complete structured, industry-specific inspection paperwork such as wood",
+    "text": "● Complete structured, industry-specific inspection paperwork such as wood",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1703,7 +1703,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Complete pretreatment forms and other configurable, custom service forms",
+    "text": "● Complete pretreatment forms and other configurable, custom service forms",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1717,7 +1717,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Retrieve and review previously completed forms tied to a job",
+    "text": "● Retrieve and review previously completed forms tied to a job",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1747,7 +1747,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Present, fill, and capture customer signatures on service agreements and autopay",
+    "text": "● Present, fill, and capture customer signatures on service agreements and autopay",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1775,7 +1775,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Select the correct agreement or document set for a given job",
+    "text": "● Select the correct agreement or document set for a given job",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1789,7 +1789,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Send completed, signed documents from the field",
+    "text": "● Send completed, signed documents from the field",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1819,7 +1819,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Securely process customer credit card and ACH payments in the field, integrated with the",
+    "text": "● Securely process customer credit card and ACH payments in the field, integrated with the",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1847,7 +1847,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View stored payment methods and customer balance detail before collecting payment",
+    "text": "● View stored payment methods and customer balance detail before collecting payment",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1861,7 +1861,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Support alternate payment options, with encrypted payment-token handling to protect card",
+    "text": "● Support alternate payment options, with encrypted payment-token handling to protect card",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -1905,7 +1905,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Create, assign, resolve, and reopen service tickets tied to a customer or property",
+    "text": "● Create, assign, resolve, and reopen service tickets tied to a customer or property",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -1919,7 +1919,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track ticket status and history so field and office staff stay aligned on open issues",
+    "text": "● Track ticket status and history so field and office staff stay aligned on open issues",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -1949,7 +1949,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Log technician time-in/time-out per appointment for accurate labor tracking",
+    "text": "● Log technician time-in/time-out per appointment for accurate labor tracking",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -1963,7 +1963,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture, annotate — markup, highlight, and text — and manage photos tied to a service visit,",
+    "text": "● Capture, annotate — markup, highlight, and text — and manage photos tied to a service visit,",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2007,7 +2007,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Local, on-device data storage lets technicians keep working in areas with poor or no signal",
+    "text": "● Local, on-device data storage lets technicians keep working in areas with poor or no signal",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2021,7 +2021,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A background sync process reconciles field-entered data with the office system once",
+    "text": "● A background sync process reconciles field-entered data with the office system once",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2049,7 +2049,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Push notifications keep technicians informed of new or changed appointments and service",
+    "text": "● Push notifications keep technicians informed of new or changed appointments and service",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2820,7 +2820,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A daily schedule view (list, calendar, and map) showing scheduled, in-progress, and",
+    "text": "● A daily schedule view (list, calendar, and map) showing scheduled, in-progress, and",
     "page": 9,
     "heading_level": null,
     "heading_path": [
@@ -2846,7 +2846,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ A notification center surfacing new appointments, schedule changes, and service alerts",
+    "text": "● A notification center surfacing new appointments, schedule changes, and service alerts",
     "page": 9,
     "heading_level": null,
     "heading_path": [
@@ -2859,7 +2859,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Historical appointment and service views for reviewing past visits to a property",
+    "text": "● Historical appointment and service views for reviewing past visits to a property",
     "page": 9,
     "heading_level": null,
     "heading_path": [
@@ -2872,7 +2872,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Clear sync status so technicians always know their field-entered data is up to date with the",
+    "text": "● Clear sync status so technicians always know their field-entered data is up to date with the",
     "page": 9,
     "heading_level": null,
     "heading_path": [
@@ -2898,7 +2898,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Photo, form, diagram, and e-document records tied back to each appointment for later",
+    "text": "● Photo, form, diagram, and e-document records tied back to each appointment for later",
     "page": 9,
     "heading_level": null,
     "heading_path": [
@@ -3319,7 +3319,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ End-to-end feature delivery: across every functional area of the application — from lead",
+    "text": "● End-to-end feature delivery: across every functional area of the application — from lead",
     "page": 10,
     "heading_level": null,
     "heading_path": [
@@ -3358,7 +3358,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Custom UI engineering: design and development of a library of reusable, native-feel controls",
+    "text": "● Custom UI engineering: design and development of a library of reusable, native-feel controls",
     "page": 10,
     "heading_level": null,
     "heading_path": [
@@ -3398,7 +3398,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Continuous quality improvement: an iterative release cadence of fixes and refinements",
+    "text": "● Continuous quality improvement: an iterative release cadence of fixes and refinements",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3424,7 +3424,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Cross-platform engineering: platform-specific work for both Android and iOS, including",
+    "text": "● Cross-platform engineering: platform-specific work for both Android and iOS, including",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3450,7 +3450,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Ongoing platform support: steady, incremental delivery that keeps the appointment,",
+    "text": "● Ongoing platform support: steady, incremental delivery that keeps the appointment,",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3504,7 +3504,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Gives field technicians a single mobile workspace covering the entire visit lifecycle — from",
+    "text": "● Gives field technicians a single mobile workspace covering the entire visit lifecycle — from",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3530,7 +3530,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Reduces paperwork and manual data entry through structured, on-device inspection and",
+    "text": "● Reduces paperwork and manual data entry through structured, on-device inspection and",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3556,7 +3556,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Speeds up cash collection with secure, in-field credit card and ACH payment processing",
+    "text": "● Speeds up cash collection with secure, in-field credit card and ACH payment processing",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3569,7 +3569,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keeps office and field records aligned through automatic, offline-first data synchronization",
+    "text": "● Keeps office and field records aligned through automatic, offline-first data synchronization",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3582,7 +3582,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Improves accountability with photo, signature, and time-tracking documentation tied to",
+    "text": "● Improves accountability with photo, signature, and time-tracking documentation tied to",
     "page": 11,
     "heading_level": null,
     "heading_path": [
@@ -3608,7 +3608,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Provides a consistent, native experience across Android and iOS so office and field teams",
+    "text": "● Provides a consistent, native experience across Android and iOS so office and field teams",
     "page": 11,
     "heading_level": null,
     "heading_path": [

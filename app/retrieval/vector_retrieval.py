@@ -1,14 +1,32 @@
 from __future__ import annotations
 
 import os
+import re
 from pathlib import Path
 from typing import Any
-
+from app.retrieval.query_intent import (
+    classify_query_intent,
+    get_metadata_filter,
+)
 import chromadb
 from dotenv import load_dotenv
 from ollama import Client
+from app.retrieval.query_expansion import (
+    expand_query,
+    print_expanded_queries,
+)
 
 
+from app.retrieval.bm25_retrieval import (
+    get_bm25_index,
+    search_bm25_index,
+)
+from app.embeddings.embedding_service import (
+    format_query_for_embedding,
+)
+
+from app.generation.context_builder import build_context
+from app.generation.answer_generator import generate_answer
 # ---------------------------------------------------------
 # Environment
 # ---------------------------------------------------------
@@ -50,7 +68,40 @@ SIMILARITY_THRESHOLD = float(
     os.getenv("SIMILARITY_THRESHOLD", "0.2")
 )
 
+RRF_K = int(
+    os.getenv("RRF_K", "60")
+)
 
+RETRIEVAL_TOP_K = int(
+    os.getenv("RETRIEVAL_TOP_K", "10")
+)
+
+# Names that appear in almost every chunk. In a query they carry no
+# signal and pull the embedding towards generic "Tecsack Software
+# is ..." chunks, so they are removed before vector search.
+# Longest first so "tecsack software" is removed as a whole.
+CORPUS_ENTITY_TERMS = sorted(
+    (
+        term.strip().lower()
+        for term in os.getenv(
+            "CORPUS_ENTITY_TERMS",
+            "tecsack software private limited,"
+            "tecsack software,tecsack",
+        ).split(",")
+        if term.strip()
+    ),
+    key=len,
+    reverse=True,
+)
+
+# Words that do not make a query meaningful on their own.
+QUERY_FILLER_WORDS = {
+    "a", "about", "all", "an", "and", "are", "can", "describe",
+    "detail", "details", "do", "does", "explain", "for", "give",
+    "how", "i", "in", "info", "information", "is", "list", "me",
+    "of", "on", "please", "s", "show", "tell", "the", "to",
+    "what", "which", "who", "whom", "whose", "you",
+}
 # ---------------------------------------------------------
 # Clients
 # ---------------------------------------------------------
@@ -69,145 +120,49 @@ collection = chroma_client.get_collection(
 
 
 # ---------------------------------------------------------
-# Query intent
-# ---------------------------------------------------------
-
-def classify_query_intent(
-    question: str,
-) -> str:
-    """
-    Classify the question into a broad retrieval category.
-
-    Returns:
-        company
-        hr
-        project
-        general
-    """
-
-    question_lower = question.lower().strip()
-
-    # -----------------------------------------------------
-    # HR-related questions
-    # -----------------------------------------------------
-
-    hr_keywords = [
-        "hr",
-        "human resource",
-        "leave",
-        "holiday",
-        "salary",
-        "payslip",
-        "pay slip",
-        "employee",
-        "employment",
-        "attendance",
-        "policy",
-        "policies",
-        "benefit",
-        "benefits",
-        "payroll",
-        "resolution",
-    ]
-
-    if any(
-        keyword in question_lower
-        for keyword in hr_keywords
-    ):
-        return "hr"
-
-    # -----------------------------------------------------
-    # Project-related questions
-    # -----------------------------------------------------
-
-    project_keywords = [
-        "project",
-        "projects",
-        "peopleapps",
-        "school feeding",
-        "virtualterminal",
-        "virtual terminal",
-        "healthcare",
-        "inspection",
-        "iot",
-        "giftcard",
-        "gift card",
-        "mobile platform",
-        "enterprise",
-    ]
-
-    if any(
-        keyword in question_lower
-        for keyword in project_keywords
-    ):
-        return "project"
-
-    # -----------------------------------------------------
-    # Company-level questions
-    # -----------------------------------------------------
-
-    company_keywords = [
-        "about tecsack",
-        "about tecsack software",
-        "what does tecsack do",
-        "what does tecsack software do",
-        "tecsack company",
-        "tecsack software company",
-        "company overview",
-        "company profile",
-        "company mission",
-        "company vision",
-        "services",
-        "service",
-        "who is tecsack",
-        "tell me about tecsack",
-        "explain about tecsack",
-        "ceo",
-        "founder",
-        "leadership",
-    ]
-
-    if any(
-        keyword in question_lower
-        for keyword in company_keywords
-    ):
-        return "company"
-
-    return "general"
-
-
-# ---------------------------------------------------------
-# Metadata filter
-# ---------------------------------------------------------
-
-def get_metadata_filter(
-    intent: str,
-) -> dict[str, Any] | None:
-    """
-    Convert query intent into a Chroma metadata filter.
-    """
-
-    if intent == "company":
-        return {
-            "top_level": "company"
-        }
-
-    if intent == "hr":
-        return {
-            "top_level": "hr"
-        }
-
-    if intent == "project":
-        return {
-            "top_level": "project"
-        }
-
-    return None
-
-
-# ---------------------------------------------------------
 # Query embedding
 # ---------------------------------------------------------
+
+def strip_corpus_entities(
+    query: str,
+) -> str:
+    """
+    Remove corpus-wide entity names (e.g. "Tecsack") from a query.
+
+        "who are all team members of tecsack"
+            -> "who are all team members"
+
+    The original query is returned when nothing meaningful would
+    remain, e.g. "tell me about tecsack".
+    """
+
+    stripped = query
+
+    for term in CORPUS_ENTITY_TERMS:
+        stripped = re.sub(
+            rf"\b{re.escape(term)}(?:'s|’s)?\b",
+            " ",
+            stripped,
+            flags=re.IGNORECASE,
+        )
+
+    # Tidy leftovers such as "of ?" or double spaces.
+    stripped = re.sub(r"\s+", " ", stripped).strip()
+    stripped = re.sub(r"\b(of|about|at|in|for)\s*([?.!]?)$", r"\2", stripped)
+    stripped = re.sub(r"\s+([?.!,])", r"\1", stripped)
+    stripped = stripped.strip()
+
+    content_words = [
+        word
+        for word in re.findall(r"\w+", stripped.lower())
+        if word not in QUERY_FILLER_WORDS
+    ]
+
+    if not content_words:
+        return query
+
+    return stripped
+
 
 def generate_query_embedding(
     question: str,
@@ -226,7 +181,9 @@ def generate_query_embedding(
 
     response = ollama_client.embed(
         model=EMBEDDING_MODEL,
-        input=question,
+        input=format_query_for_embedding(
+            strip_corpus_entities(question)
+        ),
     )
 
     embeddings = response["embeddings"]
@@ -236,228 +193,349 @@ def generate_query_embedding(
             "No embedding returned for the question."
         )
 
-    embedding = embeddings[0]
-
-    print(
-        f"Query embedding dimension: {len(embedding)}"
-    )
-
-    return embedding
+    return embeddings[0]
 
 
 # ---------------------------------------------------------
 # Vector search
 # ---------------------------------------------------------
 
+
 def search_vectors(
+    
     question: str,
     top_k: int = TOP_K,
-    similarity_threshold: float = SIMILARITY_THRESHOLD,
 ) -> list[dict[str, Any]]:
-    """
-    Search ChromaDB using vector similarity
-    with query-aware metadata filtering.
-    """
 
-    query_embedding = generate_query_embedding(
-        question
-    )
-
-    # -----------------------------------------------------
-    # Determine query intent
-    # -----------------------------------------------------
-
-    intent = classify_query_intent(question)
+    # ---------------------------------------------------------
+    # 1. Determine query intent
+    # ---------------------------------------------------------
+    intent, justification = classify_query_intent(question)
 
     metadata_filter = get_metadata_filter(intent)
 
-    print(
-        f"Query intent      : {intent}"
+    print(f"Query intent      : {intent}")
+    print(f"Justification     : {justification}")
+    print(f"Metadata filter   : {metadata_filter}")
+
+    # ---------------------------------------------------------
+    # 2. Expand query
+    # ---------------------------------------------------------
+    expanded_queries = expand_query(
+        question,
+        intent=intent,
+    )
+
+    print(expanded_queries)
+
+    # ---------------------------------------------------------
+    # 3. BM25 index (cached per filter)
+    # ---------------------------------------------------------
+    bm25_index, bm25_documents = get_bm25_index(
+        collection,
+        metadata_filter=metadata_filter,
     )
 
     print(
-        f"Metadata filter   : {metadata_filter}"
+        f"BM25 documents    : {len(bm25_documents)}"
     )
 
-    # -----------------------------------------------------
-    # Chroma search
-    # -----------------------------------------------------
+    # ---------------------------------------------------------
+    # 4. Candidate store
+    # ---------------------------------------------------------
+    candidates: dict[str, dict[str, Any]] = {}
 
-    query_kwargs: dict[str, Any] = {
-        "query_embeddings": [query_embedding],
-        "n_results": top_k,
-        "include": [
-            "documents",
-            "metadatas",
-            "distances",
-        ],
-    }
+    # ---------------------------------------------------------
+    # 5. Search every expanded query
+    # ---------------------------------------------------------
+    for expanded_query in expanded_queries:
 
-    if metadata_filter is not None:
-        query_kwargs["where"] = metadata_filter
-
-    results = collection.query(
-        **query_kwargs
-    )
-
-    documents = results.get(
-        "documents",
-        [[]],
-    )[0]
-
-    metadatas = results.get(
-        "metadatas",
-        [[]],
-    )[0]
-
-    distances = results.get(
-        "distances",
-        [[]],
-    )[0]
-
-    ids = results.get(
-        "ids",
-        [[]],
-    )[0]
-
-    retrieved: list[dict[str, Any]] = []
-
-    for index, document in enumerate(documents):
-
-        distance = distances[index]
-
-        # Chroma uses cosine distance.
-        #
-        # distance = 0 → very similar
-        # distance = 1 → less similar
-        #
-        # Convert to similarity.
-
-        similarity = 1.0 - distance
-
-        if similarity < similarity_threshold:
-            continue
-
-        retrieved.append(
-            {
-                "rank": len(retrieved) + 1,
-                "id": ids[index],
-                "text": document,
-                "similarity": similarity,
-                "distance": distance,
-                "metadata": metadatas[index],
-                "query_intent": intent,
-            }
+        print(
+            f"\nSearching expanded query: "
+            f"{expanded_query}"
         )
 
-    return retrieved
+        # =====================================================
+        # VECTOR SEARCH
+        # =====================================================
 
+        query_embedding = generate_query_embedding(
+            expanded_query
+        )
+
+        # Same candidate depth as BM25 so neither retriever
+        # dominates the fusion; top_k only trims the final list.
+        query_result = collection.query(
+            query_embeddings=[query_embedding],
+            n_results=RETRIEVAL_TOP_K,
+            where=metadata_filter if metadata_filter else None,
+        )
+
+        result_ids = query_result.get("ids", [[]])[0]
+        result_documents = query_result.get(
+            "documents",
+            [[]],
+        )[0]
+
+        result_metadatas = query_result.get(
+            "metadatas",
+            [[]],
+        )[0]
+
+        result_distances = query_result.get(
+            "distances",
+            [[]],
+        )[0]
+
+        for index, chunk_id in enumerate(result_ids):
+
+            vector_rank = index + 1
+
+            distance = result_distances[index]
+
+            # Chroma cosine distance → similarity
+            similarity = 1.0 - distance
+
+            # Optional threshold
+            if similarity < SIMILARITY_THRESHOLD:
+                continue
+
+            if chunk_id not in candidates:
+
+                candidates[chunk_id] = {
+                    "id": chunk_id,
+                    "text": result_documents[index],
+                    "metadata": result_metadatas[index],
+
+                    "vector_score": similarity,
+                    "bm25_score": 0.0,
+
+                    "rrf_score": 0.0,
+
+                    "vector_rank_hits": [],
+                    "bm25_rank_hits": [],
+
+                    "matched_queries": [],
+
+                    "query_intent": intent,
+                    "intent_justification": justification,
+                }
+
+            candidate = candidates[chunk_id]
+
+            # Keep best vector similarity
+            candidate["vector_score"] = max(
+                candidate["vector_score"],
+                similarity,
+            )
+
+            # Record this query's vector rank
+            candidate["vector_rank_hits"].append(
+                {
+                    "query": expanded_query,
+                    "rank": vector_rank,
+                }
+            )
+
+            # Add RRF contribution
+            candidate["rrf_score"] += (
+                1.0 / (RRF_K + vector_rank)
+            )
+
+            if expanded_query not in candidate["matched_queries"]:
+                candidate["matched_queries"].append(
+                    expanded_query
+                )
+
+        # =====================================================
+        # BM25 SEARCH
+        # =====================================================
+
+        bm25_results = (
+            search_bm25_index(
+                bm25=bm25_index,
+                documents=bm25_documents,
+                query=expanded_query,
+                top_k=RETRIEVAL_TOP_K,
+            )
+            if bm25_index is not None
+            else []
+        )
+
+        for index, bm25_result in enumerate(
+            bm25_results
+        ):
+
+            bm25_rank = index + 1
+
+            chunk_id = bm25_result["id"]
+
+            if chunk_id not in candidates:
+
+                candidates[chunk_id] = {
+                    "id": chunk_id,
+                    "text": bm25_result["text"],
+                    "metadata": bm25_result["metadata"],
+
+                    "vector_score": 0.0,
+                    "bm25_score": bm25_result["bm25_score"],
+
+                    "rrf_score": 0.0,
+
+                    "vector_rank_hits": [],
+                    "bm25_rank_hits": [],
+
+                    "matched_queries": [],
+
+                    "query_intent": intent,
+                    "intent_justification": justification,
+                }
+
+            candidate = candidates[chunk_id]
+
+            # Keep best BM25 score
+            candidate["bm25_score"] = max(
+                candidate["bm25_score"],
+                bm25_result["bm25_score"],
+            )
+
+            # Record this query's BM25 rank
+            candidate["bm25_rank_hits"].append(
+                {
+                    "query": expanded_query,
+                    "rank": bm25_rank,
+                }
+            )
+
+            # Add RRF contribution
+            candidate["rrf_score"] += (
+                1.0 / (RRF_K + bm25_rank)
+            )
+
+            if expanded_query not in candidate["matched_queries"]:
+                candidate["matched_queries"].append(
+                    expanded_query
+                )
+
+    # ---------------------------------------------------------
+    # 6. Sort using accumulated RRF score
+    # ---------------------------------------------------------
+    results = sorted(
+        candidates.values(),
+        key=lambda item: item["rrf_score"],
+        reverse=True,
+    )
+
+    # ---------------------------------------------------------
+    # 7. Return top results
+    # ---------------------------------------------------------
+    return results[:top_k]
+    
 
 # ---------------------------------------------------------
 # Display results
 # ---------------------------------------------------------
 
+
+
+
 def print_results(
-    question: str,
     results: list[dict[str, Any]],
+    question: str = "",
 ) -> None:
 
-    print()
-    print("=" * 80)
-    print("VECTOR SEARCH")
-    print("=" * 80)
+    print("\n" + "=" * 100)
+    print("RETRIEVAL RESULTS")
+    print("=" * 100)
 
-    print(
-        f"Question: {question}"
-    )
+    if question:
+        print(f"Question          : {question}")
 
-    print(
-        f"Results : {len(results)}"
-    )
+    for index, result in enumerate(results, start=1):
 
-    print()
-
-    if not results:
-        print(
-            "No relevant chunks found."
-        )
-        return
-
-    for result in results:
+        print(f"\nRank              : {index}")
+        print(f"RRF Score         : {result['rrf_score']:.6f}")
+        print(f"Vector Score      : {result['vector_score']:.4f}")
+        print(f"BM25 Score        : {result['bm25_score']:.4f}")
 
         print(
-            "-" * 80
+            f"Vector Rank Hits  : "
+            f"{result['vector_rank_hits']}"
         )
 
         print(
-            f"Rank       : "
-            f"{result['rank']}"
+            f"BM25 Rank Hits    : "
+            f"{result['bm25_rank_hits']}"
+        )
+
+        print(f"Chunk ID           : {result['id']}")
+        print(f"Intent             : {result['query_intent']}")
+
+        print(
+            f"Justification      : "
+            f"{result['intent_justification']}"
         )
 
         print(
-            f"Similarity : "
-            f"{result['similarity']:.4f}"
+            f"Matched Queries   : "
+            f"{result['matched_queries']}"
+        )
+
+        metadata = result.get("metadata", {})
+
+        print(
+            f"Top Level         : "
+            f"{metadata.get('top_level')}"
         )
 
         print(
-            f"Distance   : "
-            f"{result['distance']:.4f}"
+            f"Project           : "
+            f"{metadata.get('project')}"
         )
 
         print(
-            f"Chunk ID   : "
-            f"{result['id']}"
+            f"File              : "
+            f"{metadata.get('file_name')}"
         )
 
         print(
-            f"Intent     : "
-            f"{result.get('query_intent', '')}"
+            f"Section           : "
+            f"{metadata.get('heading_path')}"
         )
 
-        metadata = result["metadata"]
+        page_start = metadata.get("page_start")
+        page_end = metadata.get("page_end")
+
+        if page_start is None:
+            pages = "-"
+        elif page_end is None or page_end == page_start:
+            pages = str(page_start)
+        else:
+            pages = f"{page_start}-{page_end}"
 
         print(
-            f"Document   : "
-            f"{metadata.get('file_name', '')}"
+            f"Pages             : "
+            f"{pages}"
         )
 
-        print(
-            f"Top Level  : "
-            f"{metadata.get('top_level', '')}"
-        )
+        print("-" * 100)
 
-        print(
-            f"Project    : "
-            f"{metadata.get('project', '')}"
-        )
+        print("Document:")
+        print(result["text"])
 
-        print(
-            f"Section    : "
-            f"{metadata.get('section', '')}"
-        )
+        print("-" * 100)
 
-        print(
-            f"Page       : "
-            f"{metadata.get('page', '')}"
-        )
-
-        print()
-
-        print("Text:")
-
-        print(
-            result["text"]
-        )
 
 
 # ---------------------------------------------------------
 # Main test
 # ---------------------------------------------------------
 
+
 def main() -> None:
 
     print("=" * 80)
-    print("VECTOR RETRIEVAL TEST")
+    print("TECSACK RAG CHATBOT TEST")
     print("=" * 80)
 
     print(
@@ -490,22 +568,58 @@ def main() -> None:
     ).strip()
 
     if not question:
-        print(
-            "Question cannot be empty."
-        )
+        print("Question cannot be empty.")
         return
+
+    # ---------------------------------------------------------
+    # 1. RETRIEVAL
+    # ---------------------------------------------------------
 
     results = search_vectors(
         question=question,
         top_k=TOP_K,
-        similarity_threshold=SIMILARITY_THRESHOLD,
     )
+
+    # ---------------------------------------------------------
+    # 2. PRINT RETRIEVAL RESULTS
+    # ---------------------------------------------------------
 
     print_results(
         question=question,
         results=results,
     )
 
+    # ---------------------------------------------------------
+    # 3. BUILD LLM CONTEXT
+    # ---------------------------------------------------------
+
+    context = build_context(
+        results
+    )
+
+    print("\n" + "=" * 100)
+    print("LLM CONTEXT")
+    print("=" * 100)
+
+    print(context)
+
+    # ---------------------------------------------------------
+    # 4. GENERATE ANSWER
+    # ---------------------------------------------------------
+
+    print("\n" + "=" * 100)
+    print("GENERATED ANSWER")
+    print("=" * 100)
+
+    answer = generate_answer(
+        question=question,
+        context=context,
+        
+    )
+
+    print(answer)
+
+    print("=" * 100)
 
 if __name__ == "__main__":
     main()

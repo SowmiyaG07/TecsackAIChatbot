@@ -416,11 +416,32 @@ def cleanup_deleted_documents(
 
 
 # ---------------------------------------------------------------------
+# Vector store sync
+# ---------------------------------------------------------------------
+
+def sync_embeddings() -> None:
+    """
+    Push chunk changes (new, changed, deleted) into ChromaDB.
+
+    Imported lazily so parsing/chunking works without the
+    Ollama/Chroma stack being available.
+    """
+
+    from app.embeddings.embedding_service import (
+        sync_vector_store,
+    )
+
+    print()
+    sync_vector_store()
+
+
+# ---------------------------------------------------------------------
 # Main ingestion
 # ---------------------------------------------------------------------
 
 def run_ingestion(
     debug: bool = False,
+    embed: bool = True,
 ) -> None:
 
     print()
@@ -489,6 +510,10 @@ def run_ingestion(
             "No new or changed documents."
         )
 
+        # Deleted documents still need their vectors removed.
+        if embed and deleted_documents:
+            sync_embeddings()
+
         return
 
     # -------------------------------------------------------------
@@ -549,6 +574,9 @@ def run_ingestion(
 
     print("=" * 80)
 
+    if embed:
+        sync_embeddings()
+
 # ---------------------------------------------------------------------
 # Full rebuild
 # ---------------------------------------------------------------------
@@ -556,12 +584,21 @@ def run_ingestion(
 
 def run_full_rebuild(
     debug: bool = False,
+    embed: bool = True,
 ) -> None:
 
     print()
     print("=" * 80)
     print("TECSACK FULL DOCUMENT REBUILD")
     print("=" * 80)
+
+    # Refresh the registry first so records carry the current
+    # location metadata and deleted files are detected.
+    changes = scan_documents()
+
+    cleanup_deleted_documents(
+        changes.get("deleted", [])
+    )
 
     registry = load_registry()
 
@@ -633,6 +670,9 @@ def run_full_rebuild(
 
     print("=" * 80)
 
+    if embed:
+        sync_embeddings()
+
 
 # ---------------------------------------------------------------------
 # CLI
@@ -669,16 +709,27 @@ if __name__ == "__main__":
         ),
     )
 
+    parser.add_argument(
+        "--no-embed",
+        action="store_true",
+        help=(
+            "Only parse and chunk; do not sync "
+            "embeddings into ChromaDB"
+        ),
+    )
+
     args = parser.parse_args()
 
     if args.rebuild:
 
         run_full_rebuild(
-            debug=args.debug
+            debug=args.debug,
+            embed=not args.no_embed,
         )
 
     else:
 
         run_ingestion(
-            debug=args.debug
+            debug=args.debug,
+            embed=not args.no_embed,
         )

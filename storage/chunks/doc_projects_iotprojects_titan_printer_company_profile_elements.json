@@ -100,7 +100,6 @@
     "heading_level": 3,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -116,7 +115,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -130,7 +128,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -144,7 +141,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -158,7 +154,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -172,7 +167,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -186,7 +180,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -200,7 +193,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -214,7 +206,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -228,7 +219,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -242,7 +232,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -256,7 +245,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -270,7 +258,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -284,7 +271,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -298,7 +284,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -312,7 +297,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -326,7 +310,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "Table of Contents"
     ],
     "metadata": {
@@ -1247,8 +1230,9 @@
     "element_type": "heading",
     "text": "5. End-to-End Workflow",
     "page": 6,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow"
     ],
     "metadata": {
@@ -1263,6 +1247,7 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow",
       "The diagram below traces a print job from the moment another app requests printing through to the job"
     ],
@@ -1278,8 +1263,8 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow",
-      "The diagram below traces a print job from the moment another app requests printing through to the job",
       "appearing in Titan Printer's history."
     ],
     "metadata": {
@@ -1294,8 +1279,8 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow",
-      "The diagram below traces a print job from the moment another app requests printing through to the job",
       "appearing in Titan Printer's history."
     ],
     "metadata": {
@@ -1308,8 +1293,8 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow",
-      "The diagram below traces a print job from the moment another app requests printing through to the job",
       "appearing in Titan Printer's history."
     ],
     "metadata": {
@@ -1322,8 +1307,8 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "5. End-to-End Workflow",
-      "The diagram below traces a print job from the moment another app requests printing through to the job",
       "appearing in Titan Printer's history."
     ],
     "metadata": {
@@ -1334,8 +1319,9 @@
     "element_type": "heading",
     "text": "6. Reliability & Diagnostics",
     "page": 6,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics"
     ],
     "metadata": {
@@ -1350,6 +1336,7 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
       "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:"
     ],
@@ -1365,8 +1352,8 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
-      "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:",
       "•\nA home-screen status indicator that clearly shows a connected printer versus a connection error"
     ],
     "metadata": {
@@ -1381,8 +1368,8 @@
     "page": 6,
     "heading_level": 3,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
-      "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:",
       "•\nA manual test print to verify connectivity at any time, independent of any other app"
     ],
     "metadata": {
@@ -1397,8 +1384,8 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
-      "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:",
       "•\nA manual test print to verify connectivity at any time, independent of any other app"
     ],
     "metadata": {
@@ -1411,8 +1398,8 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
-      "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:",
       "•\nA manual test print to verify connectivity at any time, independent of any other app"
     ],
     "metadata": {
@@ -1425,8 +1412,8 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
+      "TECSACK SOFTWARE",
       "6. Reliability & Diagnostics",
-      "Titan Printer is built to make a Bluetooth thermal printer feel dependable, including:",
       "•\nA manual test print to verify connectivity at any time, independent of any other app"
     ],
     "metadata": {
@@ -1439,7 +1426,7 @@
     "page": 7,
     "heading_level": 2,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1454,7 +1441,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1467,7 +1454,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1480,7 +1467,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1493,7 +1480,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1506,7 +1493,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1519,7 +1506,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "7. Technology Stack"
     ],
     "metadata": {
@@ -1532,7 +1519,7 @@
     "page": 7,
     "heading_level": 2,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1547,7 +1534,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1560,7 +1547,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1573,7 +1560,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1586,7 +1573,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1599,7 +1586,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {
@@ -1612,7 +1599,7 @@
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "6. Reliability & Diagnostics",
+      "TECSACK SOFTWARE",
       "8. Value Delivered"
     ],
     "metadata": {

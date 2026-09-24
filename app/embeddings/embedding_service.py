@@ -40,6 +40,28 @@ OLLAMA_BASE_URL = os.getenv(
     "http://localhost:11434",
 )
 
+EMBEDDING_BATCH_SIZE = int(
+    os.getenv("EMBEDDING_BATCH_SIZE", "32")
+)
+
+# nomic-embed-text is trained with task prefixes. Documents and
+# queries must use the matching prefix or retrieval quality drops.
+USE_TASK_PREFIXES = os.getenv(
+    "EMBEDDING_TASK_PREFIXES",
+    "true" if "nomic" in EMBEDDING_MODEL.lower() else "false",
+).strip().lower() in {"1", "true", "yes"}
+
+DOCUMENT_PREFIX = "search_document: "
+QUERY_PREFIX = "search_query: "
+
+# Stored with every vector. When the model or prefix setting
+# changes, existing vectors no longer match and are re-embedded.
+EMBEDDING_FORMAT = (
+    EMBEDDING_MODEL
+    + "|"
+    + ("prefixed" if USE_TASK_PREFIXES else "raw")
+)
+
 
 # ---------------------------------------------------------
 # Clients
@@ -136,8 +158,50 @@ def get_chunk_id(
 
 
 # ---------------------------------------------------------
+# Embedding input formatting
+# ---------------------------------------------------------
+
+def format_document_for_embedding(text: str) -> str:
+    if USE_TASK_PREFIXES:
+        return DOCUMENT_PREFIX + text
+
+    return text
+
+
+def format_query_for_embedding(text: str) -> str:
+    if USE_TASK_PREFIXES:
+        return QUERY_PREFIX + text
+
+    return text
+
+
+# ---------------------------------------------------------
 # Metadata
 # ---------------------------------------------------------
+
+def to_chroma_value(value: Any) -> str | int | float | bool | None:
+    """
+    Chroma metadata values must be primitive types.
+    """
+
+    if value is None:
+        return None
+
+    if isinstance(value, (str, int, float, bool)):
+        return value
+
+    # heading_path: ["Project", "Architecture"] -> "Project > Architecture"
+    if isinstance(value, (list, tuple)):
+        items = [
+            str(item).strip()
+            for item in value
+            if item is not None and str(item).strip()
+        ]
+
+        return " > ".join(items) if items else None
+
+    return str(value)
+
 
 def get_metadata(
     chunk: dict[str, Any],
@@ -148,6 +212,8 @@ def get_metadata(
     if not isinstance(metadata, dict):
         metadata = {}
 
+    metadata = dict(metadata)
+
     # Preserve useful top-level fields too.
     for field in [
         "document_id",
@@ -157,7 +223,9 @@ def get_metadata(
         "project",
         "section",
         "subsection",
-        "page",
+        "heading_path",
+        "page_start",
+        "page_end",
         "chunk_index",
         "version",
         "content_type",
@@ -166,19 +234,18 @@ def get_metadata(
         if field in chunk and field not in metadata:
             metadata[field] = chunk[field]
 
-    # Chroma metadata values must be primitive types.
+    metadata["embedding_format"] = EMBEDDING_FORMAT
+
     clean_metadata = {}
 
     for key, value in metadata.items():
 
+        value = to_chroma_value(value)
+
         if value is None:
             continue
 
-        if isinstance(value, (str, int, float, bool)):
-            clean_metadata[key] = value
-
-        else:
-            clean_metadata[key] = str(value)
+        clean_metadata[key] = value
 
     return clean_metadata
 
@@ -189,182 +256,186 @@ def get_metadata(
 
 def generate_embeddings(
     texts: list[str],
-    batch_size: int = 32,
 ) -> list[list[float]]:
     """
-    Generate embeddings in batches to avoid oversized Ollama requests.
+    Generate document embeddings in a single Ollama request.
+
+    Callers are responsible for batching.
     """
 
-    all_embeddings: list[list[float]] = []
+    if not texts:
+        return []
 
-    total = len(texts)
-
-    print(
-        f"Generating embeddings for {total} chunks..."
+    response = ollama_client.embed(
+        model=EMBEDDING_MODEL,
+        input=[
+            format_document_for_embedding(text)
+            for text in texts
+        ],
     )
 
-    for start in range(0, total, batch_size):
+    embeddings = response["embeddings"]
 
-        end = min(
-            start + batch_size,
-            total,
+    if len(embeddings) != len(texts):
+        raise RuntimeError(
+            f"Embedding count mismatch. "
+            f"Expected {len(texts)}, "
+            f"got {len(embeddings)}."
         )
 
-        batch = texts[start:end]
-
-        print(
-            f"Embedding chunks {start + 1}-{end} "
-            f"of {total}..."
-        )
-
-        response = ollama_client.embed(
-            model=EMBEDDING_MODEL,
-            input=batch,
-        )
-
-        embeddings = response["embeddings"]
-
-        if len(embeddings) != len(batch):
-            raise RuntimeError(
-                f"Embedding count mismatch. "
-                f"Expected {len(batch)}, "
-                f"got {len(embeddings)}."
-            )
-
-        all_embeddings.extend(embeddings)
-
-    print(
-        f"Generated {len(all_embeddings)} embeddings"
-    )
-
-    if all_embeddings:
-        print(
-            f"Embedding dimension: "
-            f"{len(all_embeddings[0])}"
-        )
-
-    return all_embeddings
+    return embeddings
 
 
-def store_embeddings(
+# ---------------------------------------------------------
+# Sync
+# ---------------------------------------------------------
+
+def build_desired_state(
     chunks: list[dict[str, Any]],
-    embeddings: list[list[float]],
-) -> None:
+) -> dict[str, dict[str, Any]]:
+    """
+    chunk_id -> {"text": ..., "metadata": ...}
+    for every valid chunk on disk.
+    """
 
-    ids = []
-    documents = []
-    metadatas = []
+    desired: dict[str, dict[str, Any]] = {}
 
-    for index, (chunk, embedding) in enumerate(
-        zip(chunks, embeddings)
-    ):
+    for index, chunk in enumerate(chunks):
 
         text = get_chunk_text(chunk)
 
         if not text:
             continue
 
-        ids.append(
-            get_chunk_id(chunk, index)
-        )
+        desired[get_chunk_id(chunk, index)] = {
+            "text": text,
+            "metadata": get_metadata(chunk),
+        }
 
-        documents.append(text)
+    return desired
 
-        metadatas.append(
-            get_metadata(chunk)
-        )
 
-    if not ids:
-        raise ValueError(
-            "No valid chunks available for ChromaDB."
-        )
+def load_existing_state() -> dict[str, dict[str, Any]]:
 
-    print(
-        f"Adding {len(ids)} chunks to ChromaDB..."
+    data = collection.get(
+        include=["documents", "metadatas"],
     )
 
-    collection.upsert(
-        ids=ids,
-        documents=documents,
-        embeddings=embeddings,
-        metadatas=metadatas,
-    )
+    existing: dict[str, dict[str, Any]] = {}
 
-    print("Embeddings stored successfully.")
+    for index, chunk_id in enumerate(data.get("ids", [])):
+        existing[chunk_id] = {
+            "text": data["documents"][index],
+            "metadata": data["metadatas"][index] or {},
+        }
+
+    return existing
 
 
-# ---------------------------------------------------------
-# Main
-# ---------------------------------------------------------
+def sync_vector_store() -> None:
+    """
+    Make ChromaDB match storage/chunks exactly.
 
-def build_vector_store() -> None:
+    - Vectors whose chunk no longer exists are deleted
+      (deleted documents, or documents that now produce
+      fewer chunks).
+    - Chunks that are new, or whose text/metadata/embedding
+      format changed, are (re-)embedded.
+    - Everything else is left untouched.
+    """
 
     print("=" * 70)
-    print("EMBEDDING GENERATION")
+    print("VECTOR STORE SYNC")
     print("=" * 70)
-
     print(f"Chunks directory : {CHUNKS_DIR}")
     print(f"Embedding model  : {EMBEDDING_MODEL}")
+    print(f"Task prefixes    : {USE_TASK_PREFIXES}")
     print(f"Chroma path      : {CHROMA_PATH}")
     print(f"Collection       : {CHROMA_COLLECTION}")
 
     chunks = load_chunks()
 
-    print(
-        f"Chunks loaded    : {len(chunks)}"
-    )
+    desired = build_desired_state(chunks)
 
-    texts = []
+    existing = load_existing_state()
 
-    valid_chunks = []
+    print(f"Chunks on disk   : {len(desired)}")
+    print(f"Vectors stored   : {len(existing)}")
 
-    for chunk in chunks:
+    # -----------------------------------------------------
+    # Delete stale vectors
+    # -----------------------------------------------------
 
-        text = get_chunk_text(chunk)
+    stale_ids = [
+        chunk_id
+        for chunk_id in existing
+        if chunk_id not in desired
+    ]
 
-        if not text:
-            continue
-
-        texts.append(text)
-        valid_chunks.append(chunk)
-
-    print(
-        f"Valid chunks     : {len(valid_chunks)}"
-    )
-
-    embeddings = generate_embeddings(texts)
-
-    if len(embeddings) != len(valid_chunks):
-        raise RuntimeError(
-            "Number of embeddings does not match "
-            "number of chunks."
+    for start in range(0, len(stale_ids), 500):
+        collection.delete(
+            ids=stale_ids[start:start + 500],
         )
 
-    store_embeddings(
-        valid_chunks,
-        embeddings,
-    )
+    print(f"Deleted stale    : {len(stale_ids)}")
+
+    # -----------------------------------------------------
+    # Embed new / changed chunks
+    # -----------------------------------------------------
+
+    to_embed = [
+        chunk_id
+        for chunk_id, item in desired.items()
+        if chunk_id not in existing
+        or existing[chunk_id]["text"] != item["text"]
+        or existing[chunk_id]["metadata"] != item["metadata"]
+    ]
+
+    print(f"To embed         : {len(to_embed)}")
+
+    dimension = None
+
+    for start in range(0, len(to_embed), EMBEDDING_BATCH_SIZE):
+
+        batch_ids = to_embed[start:start + EMBEDDING_BATCH_SIZE]
+
+        print(
+            f"Embedding chunks {start + 1}-"
+            f"{start + len(batch_ids)} of {len(to_embed)}..."
+        )
+
+        texts = [desired[i]["text"] for i in batch_ids]
+
+        embeddings = generate_embeddings(texts)
+
+        if embeddings:
+            dimension = len(embeddings[0])
+
+        collection.upsert(
+            ids=batch_ids,
+            documents=texts,
+            embeddings=embeddings,
+            metadatas=[desired[i]["metadata"] for i in batch_ids],
+        )
 
     print()
     print("=" * 70)
     print("VECTOR STORE SUMMARY")
     print("=" * 70)
 
-    print(
-        f"Chunks stored    : {collection.count()}"
-    )
+    print(f"Chunks stored    : {collection.count()}")
 
-    if embeddings:
-        print(
-            f"Dimensions       : {len(embeddings[0])}"
-        )
+    if dimension:
+        print(f"Dimensions       : {dimension}")
 
-    print(
-        f"Collection       : {CHROMA_COLLECTION}"
-    )
+    print(f"Collection       : {CHROMA_COLLECTION}")
 
     print("=" * 70)
 
 
+# Backwards-compatible name.
+build_vector_store = sync_vector_store
+
+
 if __name__ == "__main__":
-    build_vector_store()
+    sync_vector_store()

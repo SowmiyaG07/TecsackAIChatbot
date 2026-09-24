@@ -1,11 +1,11 @@
 [
   {
     "element_type": "heading",
-    "text": "​TECSACK SOFTWARE​",
+    "text": "TECSACK SOFTWARE",
     "page": 1,
     "heading_level": 1,
     "heading_path": [
-      "​TECSACK SOFTWARE​"
+      "TECSACK SOFTWARE"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -15,12 +15,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​COMPANY PROFILE​",
+    "text": "COMPANY PROFILE",
     "page": 1,
     "heading_level": 3,
     "heading_path": [
-      "​TECSACK SOFTWARE​",
-      "​COMPANY PROFILE​"
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -30,12 +30,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​About Us​",
+    "text": "About Us",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​TECSACK SOFTWARE​",
-      "​COMPANY PROFILE​"
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -43,12 +43,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Document Version: 1.0​",
+    "text": "Document Version: 1.0",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​TECSACK SOFTWARE​",
-      "​COMPANY PROFILE​"
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -56,12 +56,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Date: September 2026​",
+    "text": "Date: September 2026",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​TECSACK SOFTWARE​",
-      "​COMPANY PROFILE​"
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -69,12 +69,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Classification: Public​",
+    "text": "Classification: Public",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​TECSACK SOFTWARE​",
-      "​COMPANY PROFILE​"
+      "TECSACK SOFTWARE",
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -82,11 +82,11 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
+    "text": "ABOUT US",
     "page": 2,
     "heading_level": 1,
     "heading_path": [
-      "​ABOUT US​"
+      "ABOUT US"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -96,12 +96,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​Table of Contents​",
+    "text": "Table of Contents",
     "page": 2,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -110,13 +110,78 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "​1. Company Overview​  —---------------------------------------------------------------------      ​3​",
+    "element_type": "list",
+    "text": "1. Company Overview  —---------------------------------------------------------------------      3",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Mission, Vision, Values & Global Presence      —---------------------------------\n3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. How Tecsack Software Works  —------------------------------------------------------      4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Leadership Team —------------------------------------------------------------------------       4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. Team Structure & Talent   —--------------------------------------------------------------     5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "6. Case Studies  —-----------------------------------------------------------------------------      5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -124,12 +189,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2. Mission, Vision, Values & Global Presence​      —---------------------------------​\n​  ​3​",
+    "text": "6.1 Healthcare  —--------------------------------------------------------------------------------      6",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -137,12 +202,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​3. How Tecsack Software Works​  —------------------------------------------------------      ​4​",
+    "text": "6.2 Finance  —------------------------------------------------------------------------------------      7",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -150,12 +215,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​4. Leadership Team​ —------------------------------------------------------------------------       ​4​",
+    "text": "6.3 IoT & Manufacturing   —-------------------------------------------------------------------     7",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -163,12 +228,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​5. Team Structure & Talent​   —--------------------------------------------------------------     ​5​",
+    "text": "6.4 Construction   —-----------------------------------------------------------------------------     7",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -176,12 +241,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​6. Case Studies​  —-----------------------------------------------------------------------------      ​5​",
+    "text": "6.5 Retail     —-------------------------------------------------------------------------------------    8",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -189,12 +254,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​6.1 Healthcare​  —--------------------------------------------------------------------------------      ​6​",
+    "text": "6.6 Enterprise / Cloud  —-----------------------------------------------------------------------      9",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -202,90 +267,25 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​6.2 Finance​  —------------------------------------------------------------------------------------      ​7​",
+    "text": "6.7 Transportation  —----------------------------------------------------------------------------      11",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "​6.3 IoT & Manufacturing​   —-------------------------------------------------------------------​​     ​7​",
+    "element_type": "list",
+    "text": "7. Contact   —------------------------------------------------------------------------------------    12",
     "page": 2,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​6.4 Construction​   —-----------------------------------------------------------------------------​​     ​7​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​6.5 Retail​     —-------------------------------------------------------------------------------------​ ​   ​8​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​6.6 Enterprise / Cloud​  —-----------------------------------------------------------------------      ​9​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​6.7 Transportation​  —----------------------------------------------------------------------------      ​11​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​7. Contact​   —------------------------------------------------------------------------------------​​    12​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​Table of Contents​"
+      "ABOUT US",
+      "Table of Contents"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -293,26 +293,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 3,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​1. Company Overview​",
+    "text": "1. Company Overview",
     "page": 3,
     "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​"
+      "ABOUT US",
+      "1. Company Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -322,12 +308,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Tecsack Software is a technology consulting and software engineering company that builds digital​\n​solutions across a range of industries. By combining deep domain expertise with advanced technical​\n​capabilities, the organization helps clients modernize their core systems, optimize operational workflows,​\n​and achieve sustainable growth.​",
+    "text": "Tecsack Software is a technology consulting and software engineering company that builds digital\nsolutions across a range of industries. By combining deep domain expertise with advanced technical\ncapabilities, the organization helps clients modernize their core systems, optimize operational workflows,\nand achieve sustainable growth.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​"
+      "ABOUT US",
+      "1. Company Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -335,13 +321,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​1.1 What Tecsack Software Does​",
+    "text": "1.1 What Tecsack Software Does",
     "page": 3,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -351,13 +337,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Focus on Problem Solving:​​Add a bullet about​​how​​you solve problems. For example: \"Employs an​",
+    "text": "●\nFocus on Problem Solving:Add a bullet abouthowyou solve problems. For example: \"Employs an",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -365,13 +351,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​iterative, agile methodology to reduce time-to-market and ensure flexibility throughout the development​",
+    "text": "iterative, agile methodology to reduce time-to-market and ensure flexibility throughout the development",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -379,13 +365,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​lifecycle.\"​",
+    "text": "lifecycle.\"",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -393,13 +379,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Technology Stack/Specialization:​​Mention your technical​​versatility. For example: \"Develops scalable,​",
+    "text": "●\nTechnology Stack/Specialization:Mention your technicalversatility. For example: \"Develops scalable,",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -407,13 +393,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​secure, and future-proof solutions using modern tech stacks including cloud-native architectures,​",
+    "text": "secure, and future-proof solutions using modern tech stacks including cloud-native architectures,",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -421,13 +407,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​AI/ML integration, and robust data analytics.\"​",
+    "text": "AI/ML integration, and robust data analytics.\"",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -435,13 +421,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Collaborative Approach:​​Emphasize the relationship.​​For example: \"Acts as a strategic partner, working​",
+    "text": "●\nCollaborative Approach:Emphasize the relationship.For example: \"Acts as a strategic partner, working",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -449,13 +435,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​alongside client teams to bridge the gap between complex business requirements and​",
+    "text": "alongside client teams to bridge the gap between complex business requirements and",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -463,13 +449,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​high-performance technical execution.\"​",
+    "text": "high-performance technical execution.\"",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -477,13 +463,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​AI & Intelligent Solutions:​​Explores and integrates​​Artificial Intelligence and Generative AI​​into software​",
+    "text": "●\nAI & Intelligent Solutions:Explores and integratesArtificial Intelligence and Generative AIinto software",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -491,13 +477,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​products and development workflows, including AI-assisted application development, intelligent​",
+    "text": "products and development workflows, including AI-assisted application development, intelligent",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -505,13 +491,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​automation, AI-powered features, and the integration of modern AI models and services to improve​",
+    "text": "automation, AI-powered features, and the integration of modern AI models and services to improve",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -519,13 +505,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​productivity and business processes.​",
+    "text": "productivity and business processes.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -533,13 +519,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​End-to-End Software Development:​​Provides complete​​software development capabilities covering​",
+    "text": "●\nEnd-to-End Software Development:Provides completesoftware development capabilities covering",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -547,13 +533,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​requirements analysis, UI/UX development, frontend and backend engineering, database design, API​",
+    "text": "requirements analysis, UI/UX development, frontend and backend engineering, database design, API",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -561,13 +547,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​development, AI integration, testing, deployment, and ongoing maintenance, enabling clients to build​",
+    "text": "development, AI integration, testing, deployment, and ongoing maintenance, enabling clients to build",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -575,13 +561,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​and evolve their digital products under one development ecosystem.​",
+    "text": "and evolve their digital products under one development ecosystem.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.1 What Tecsack Software Does​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.1 What Tecsack Software Does"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -589,13 +575,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​1.2 Delivery Model​",
+    "text": "1.2 Delivery Model",
     "page": 3,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -605,13 +591,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​ ​Global Delivery Capabilities:​​Operates through multiple​​delivery centers and distributed​",
+    "text": "● Global Delivery Capabilities:Operates through multipledelivery centers and distributed",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -619,13 +605,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​development teams, enabling Tecsack to support clients across different geographic regions and​",
+    "text": "development teams, enabling Tecsack to support clients across different geographic regions and",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -633,13 +619,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​business environments.​",
+    "text": "business environments.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -647,13 +633,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​ ​Strategic Time-Zone Coverage:​​Delivery teams are positioned​​strategically to provide broader​",
+    "text": "● Strategic Time-Zone Coverage:Delivery teams are positionedstrategically to provide broader",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -661,13 +647,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​time-zone coverage, allowing development, support, and communication activities to continue​",
+    "text": "time-zone coverage, allowing development, support, and communication activities to continue",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -675,13 +661,181 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​efficiently across different working hours.​",
+    "text": "efficiently across different working hours.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​1. Company Overview​",
-      "​1.2 Delivery Model​"
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "● Agile & Iterative Development:Follows agile and iterative development practices, allowing",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "projects to be delivered in manageable stages while incorporating continuous feedback,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "requirement changes, testing, and improvements throughout the development lifecycle.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "● Dedicated Development Teams:Builds project-specificteams consisting of developers, technical",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "resources, project coordinators, and other specialists based on the complexity and requirements of",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "each engagement.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "● Flexible Engagement Models:Adapts its delivery approachaccording to project requirements,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "supporting dedicated development, project-based development, product engineering, application",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "modernization, and ongoing maintenance and enhancement engagements.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "● Business Continuity & Responsiveness:The distributeddelivery structure helps maintain",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "operational continuity, improve response times, and provide clients with consistent technical",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "support while projects progress across different working schedules.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "1. Company Overview",
+      "1.2 Delivery Model"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -689,170 +843,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
+    "text": "2. Mission, Vision, Values & Global Presence",
     "page": 4,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​ ​Agile & Iterative Development:​​Follows agile and iterative development practices, allowing​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​projects to be delivered in manageable stages while incorporating continuous feedback,​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​requirement changes, testing, and improvements throughout the development lifecycle.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​ ​Dedicated Development Teams:​​Builds project-specific​​teams consisting of developers, technical​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​resources, project coordinators, and other specialists based on the complexity and requirements of​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​each engagement.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​ ​Flexible Engagement Models:​​Adapts its delivery approach​​according to project requirements,​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​supporting dedicated development, project-based development, product engineering, application​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​modernization, and ongoing maintenance and enhancement engagements.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​ ​Business Continuity & Responsiveness:​​The distributed​​delivery structure helps maintain​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​operational continuity, improve response times, and provide clients with consistent technical​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​support while projects progress across different working schedules.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2. Mission, Vision, Values & Global Presence​",
-    "page": 4,
-    "heading_level": 3,
-    "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -862,13 +858,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​2.1 Mission​",
+    "text": "2.1 Mission",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.1 Mission​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.1 Mission"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -878,13 +874,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Tecsack Software is dedicated to empowering enterprises through purposeful digital transformation. By​\n​uniting modern engineering practices with strategic advisory, the company enables organizations to​\n​streamline operations, accelerate decision-making, and unlock new avenues for sustainable growth.​",
+    "text": "Tecsack Software is dedicated to empowering enterprises through purposeful digital transformation. By\nuniting modern engineering practices with strategic advisory, the company enables organizations to\nstreamline operations, accelerate decision-making, and unlock new avenues for sustainable growth.",
     "page": 4,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.1 Mission​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.1 Mission"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -892,13 +888,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​2.2 Vision​",
+    "text": "2.2 Vision",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.2 Vision​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.2 Vision"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -908,13 +904,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Tecsack aspires to set the global standard for digital excellence. Through data-driven insights and​\n​adaptive technology frameworks, the organization aims to continuously elevate client capabilities and​\n​shape resilient digital ecosystems for the future.​",
+    "text": "Tecsack aspires to set the global standard for digital excellence. Through data-driven insights and\nadaptive technology frameworks, the organization aims to continuously elevate client capabilities and\nshape resilient digital ecosystems for the future.",
     "page": 4,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.2 Vision​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.2 Vision"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -922,13 +918,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​2.3 Values​",
+    "text": "2.3 Values",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.3 Values​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.3 Values"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -938,13 +934,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Uncompromising quality, transparency, and client-centric collaboration form the foundation of every​\n​Tecsack engagement. By adhering to rigorous ethical standards and engineering rigor, the firm builds​\n​lasting partnerships grounded in trust and measurable value.​",
+    "text": "Uncompromising quality, transparency, and client-centric collaboration form the foundation of every\nTecsack engagement. By adhering to rigorous ethical standards and engineering rigor, the firm builds\nlasting partnerships grounded in trust and measurable value.",
     "page": 4,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.3 Values​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.3 Values"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -952,13 +948,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​2.4 Global Presence​",
+    "text": "2.4 Global Presence",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.4 Global Presence​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.4 Global Presence"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -968,39 +964,27 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Operating across strategically located global delivery centers, Tecsack seamlessly pairs deep local​\n​domain expertise with international execution capabilities. This distributed footprint ensures continuous​",
+    "text": "Operating across strategically located global delivery centers, Tecsack seamlessly pairs deep local\ndomain expertise with international execution capabilities. This distributed footprint ensures continuous",
     "page": 4,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​2. Mission, Vision, Values & Global Presence​",
-      "​2.4 Global Presence​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.4 Global Presence"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 5,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
     "element_type": "paragraph",
-    "text": "​operational coverage, rapid responsiveness, and consistent delivery standards for enterprise clients​\n​worldwide.​",
+    "text": "operational coverage, rapid responsiveness, and consistent delivery standards for enterprise clients\nworldwide.",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​"
+      "ABOUT US",
+      "2. Mission, Vision, Values & Global Presence",
+      "2.4 Global Presence"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1008,12 +992,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​3. How Tecsack Software Works​",
+    "text": "3. How Tecsack Software Works",
     "page": 5,
-    "heading_level": 3,
+    "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​"
+      "ABOUT US",
+      "3. How Tecsack Software Works"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1023,13 +1007,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​3.1 Modern Engineering​",
+    "text": "3.1 Modern Engineering",
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.1 Modern Engineering​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.1 Modern Engineering"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1039,13 +1023,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Uses current development frameworks​",
+    "text": "●\nUses current development frameworks",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.1 Modern Engineering​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.1 Modern Engineering"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1053,13 +1037,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Uses cloud-native architectures​",
+    "text": "●\nUses cloud-native architectures",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.1 Modern Engineering​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.1 Modern Engineering"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1067,13 +1051,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Follows DevOps best practices​",
+    "text": "●\nFollows DevOps best practices",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.1 Modern Engineering​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.1 Modern Engineering"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1081,13 +1065,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Applied to every engagement, not just select​​projects​",
+    "text": "●\nApplied to every engagement, not just selectprojects",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.1 Modern Engineering​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.1 Modern Engineering"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1095,13 +1079,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​3.2 Data-Driven Insights​",
+    "text": "3.2 Data-Driven Insights",
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.2 Data-Driven Insights​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.2 Data-Driven Insights"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1111,13 +1095,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Uses advanced analytics and AI​",
+    "text": "●\nUses advanced analytics and AI",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.2 Data-Driven Insights​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.2 Data-Driven Insights"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1125,13 +1109,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Converts complex data into decisions​",
+    "text": "●\nConverts complex data into decisions",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.2 Data-Driven Insights​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.2 Data-Driven Insights"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1139,13 +1123,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Goal: measurable business outcomes​",
+    "text": "●\nGoal: measurable business outcomes",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.2 Data-Driven Insights​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.2 Data-Driven Insights"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1153,13 +1137,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​3.3 Strategic Advisory​",
+    "text": "3.3 Strategic Advisory",
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.3 Strategic Advisory​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.3 Strategic Advisory"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1169,13 +1153,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Delivered by consultants with decades of​​experience​",
+    "text": "●\nDelivered by consultants with decades ofexperience",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.3 Strategic Advisory​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.3 Strategic Advisory"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1183,13 +1167,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Focused on guiding enterprises through digital​​transformation​",
+    "text": "●\nFocused on guiding enterprises through digitaltransformation",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.3 Strategic Advisory​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.3 Strategic Advisory"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1197,13 +1181,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Emphasizes clarity and precision​",
+    "text": "●\nEmphasizes clarity and precision",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.3 Strategic Advisory​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.3 Strategic Advisory"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1211,13 +1195,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​3.4 Quality Assurance​",
+    "text": "3.4 Quality Assurance",
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.4 Quality Assurance​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.4 Quality Assurance"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1227,13 +1211,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Applies rigorous QA processes​",
+    "text": "●\nApplies rigorous QA processes",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.4 Quality Assurance​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.4 Quality Assurance"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1241,13 +1225,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Goal: production-ready, secure solutions​",
+    "text": "●\nGoal: production-ready, secure solutions",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.4 Quality Assurance​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.4 Quality Assurance"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1255,13 +1239,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Emphasis on solutions built to last​",
+    "text": "●\nEmphasis on solutions built to last",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.4 Quality Assurance​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.4 Quality Assurance"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1269,13 +1253,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​3.5 Client Partnerships​",
+    "text": "3.5 Client Partnerships",
     "page": 5,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.5 Client Partnerships​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.5 Client Partnerships"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1285,13 +1269,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Builds long-term relationships​",
+    "text": "●\nBuilds long-term relationships",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.5 Client Partnerships​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.5 Client Partnerships"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1299,39 +1283,27 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Based on trust and transparency​",
+    "text": "●\nBased on trust and transparency",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​3. How Tecsack Software Works​",
-      "​3.5 Client Partnerships​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.5 Client Partnerships"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 6,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
     "element_type": "paragraph",
-    "text": "​●​\n​Focused on consistent, high-quality delivery over time​",
+    "text": "●\nFocused on consistent, high-quality delivery over time",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​"
+      "ABOUT US",
+      "3. How Tecsack Software Works",
+      "3.5 Client Partnerships"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1339,12 +1311,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​4. Leadership Team​",
+    "text": "4. Leadership Team",
     "page": 6,
-    "heading_level": 3,
+    "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1354,12 +1326,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Our leadership team brings extensive industry expertise, technical vision, and a strong commitment to​\n​delivering exceptional business outcomes for our clients globally.​",
+    "text": "Our leadership team brings extensive industry expertise, technical vision, and a strong commitment to\ndelivering exceptional business outcomes for our clients globally.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1367,12 +1339,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Chief Executive Officer (CEO) – Sakthivel​",
+    "text": "Chief Executive Officer (CEO) – Sakthivel",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1380,12 +1352,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Provides overall strategic leadership and drives the company's business direction, growth initiatives, and​\n​long-term vision.​",
+    "text": "Provides overall strategic leadership and drives the company's business direction, growth initiatives, and\nlong-term vision.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1393,12 +1365,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Co-Founder & Chief Technology Officer (CTO) – Sowmiya​",
+    "text": "Co-Founder & Chief Technology Officer (CTO) – Sowmiya",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1406,12 +1378,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Leads the company's technical direction and plays a key role in defining architecture, engineering​\n​practices, technology adoption, and product innovation.​",
+    "text": "Leads the company's technical direction and plays a key role in defining architecture, engineering\npractices, technology adoption, and product innovation.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1419,12 +1391,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Team Lead - Mugeshkumar​",
+    "text": "Team Lead - Mugeshkumar",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1432,12 +1404,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Coordinates development activities and supports the team in maintaining efficient project execution,​\n​technical quality, and consistent delivery standards.​",
+    "text": "Coordinates development activities and supports the team in maintaining efficient project execution,\ntechnical quality, and consistent delivery standards.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1445,12 +1417,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Software Developers – Manoj & Manivanan​",
+    "text": "Software Developers – Manoj & Manivanan",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1458,12 +1430,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​The software development team is responsible for the hands-on engineering and implementation of client​\n​applications and internal software solutions.​",
+    "text": "The software development team is responsible for the hands-on engineering and implementation of client\napplications and internal software solutions.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​"
+      "ABOUT US",
+      "4. Leadership Team"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1471,13 +1443,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​5. Team Structure & Talent​",
+    "text": "5. Team Structure & Talent",
     "page": 6,
-    "heading_level": 3,
+    "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5. Team Structure & Talent​"
+      "ABOUT US",
+      "5. Team Structure & Talent"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1487,13 +1458,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Tecsack Software's broader team is made up of engineers, analysts, consultants, and creative thinkers,​\n​with an emphasis on continuous learning and cross-team collaboration.​",
+    "text": "Tecsack Software's broader team is made up of engineers, analysts, consultants, and creative thinkers,\nwith an emphasis on continuous learning and cross-team collaboration.",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5. Team Structure & Talent​"
+      "ABOUT US",
+      "5. Team Structure & Talent"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1501,13 +1471,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​5.1 Software Engineers​",
+    "text": "5.1 Software Engineers",
     "page": 6,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.1 Software Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.1 Software Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1517,13 +1487,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Full-stack engineers​",
+    "text": "●\nFull-stack engineers",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.1 Software Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.1 Software Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1531,13 +1501,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Cloud-native engineers​",
+    "text": "●\nCloud-native engineers",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.1 Software Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.1 Software Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1545,13 +1515,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Mobile engineers​",
+    "text": "●\nMobile engineers",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.1 Software Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.1 Software Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1559,13 +1529,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Focus: production-grade software at enterprise​​scale​",
+    "text": "●\nFocus: production-grade software at enterprisescale",
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.1 Software Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.1 Software Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1573,66 +1543,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​5.2 Data Scientists​",
+    "text": "5.2 Data Scientists",
     "page": 6,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​4. Leadership Team​",
-      "​5.2 Data Scientists​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 12.0,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 7,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Specialize in machine learning, AI, analytics, and data architecture​",
-    "page": 7,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Focus: turning raw data into business intelligence​",
-    "page": 7,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​5.3 Consultants​",
-    "page": 7,
-    "heading_level": 3,
-    "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.2 Data Scientists"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1642,12 +1559,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Domain experts in enterprise systems​",
+    "text": "●\nSpecialize in machine learning, AI, analytics, and data architecture",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.2 Data Scientists"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1655,25 +1573,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Familiar with regulatory environments​",
+    "text": "●\nFocus: turning raw data into business intelligence",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Bring business-strategy expertise​",
-    "page": 7,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.2 Data Scientists"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1681,13 +1587,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​5.4 DevOps Engineers​",
+    "text": "5.3 Consultants",
     "page": 7,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.4 DevOps Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.3 Consultants"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1697,13 +1603,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​CI/CD specialists​",
+    "text": "●\nDomain experts in enterprise systems",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.4 DevOps Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.3 Consultants"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1711,13 +1617,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Infrastructure-as-code specialists​",
+    "text": "●\nFamiliar with regulatory environments",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.4 DevOps Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.3 Consultants"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1725,27 +1631,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Cloud operations specialists​",
+    "text": "●\nBring business-strategy expertise",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.4 DevOps Engineers​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Focus: reliable, scalable deployments​",
-    "page": 7,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.4 DevOps Engineers​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.3 Consultants"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1753,13 +1645,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​5.5 Security Experts​",
+    "text": "5.4 DevOps Engineers",
     "page": 7,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.5 Security Experts​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.4 DevOps Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1769,13 +1661,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Cybersecurity professionals​",
+    "text": "●\nCI/CD specialists",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.5 Security Experts​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.4 DevOps Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1783,13 +1675,41 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Focus: protecting client data through architecture,​​testing, and compliance work​",
+    "text": "●\nInfrastructure-as-code specialists",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​5.5 Security Experts​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.4 DevOps Engineers"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nCloud operations specialists",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.4 DevOps Engineers"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nFocus: reliable, scalable deployments",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.4 DevOps Engineers"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1797,13 +1717,56 @@
   },
   {
     "element_type": "heading",
-    "text": "​6. Case Studies​",
+    "text": "5.5 Security Experts",
     "page": 7,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​6. Case Studies​"
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.5 Security Experts"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 12.0,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nCybersecurity professionals",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.5 Security Experts"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nFocus: protecting client data through architecture,testing, and compliance work",
+    "page": 7,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "5. Team Structure & Talent",
+      "5.5 Security Experts"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "6. Case Studies",
+    "page": 7,
+    "heading_level": 2,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1813,13 +1776,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Each case study below follows a consistent text-based layout highlighting the Industry, Summary, Key​\n​Capabilities, and Outcome for streamlined comparison.​",
+    "text": "Each case study below follows a consistent text-based layout highlighting the Industry, Summary, Key\nCapabilities, and Outcome for streamlined comparison.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​5.3 Consultants​",
-      "​6. Case Studies​"
+      "ABOUT US",
+      "6. Case Studies"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1827,26 +1789,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 8,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​6.1 Healthcare​",
+    "text": "6.1 Healthcare",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1856,13 +1805,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.1.1 Telemedicine & EHR Platform​",
+    "text": "6.1.1 Telemedicine & EHR Platform",
     "page": 8,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1872,13 +1822,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Healthcare​",
+    "text": "Industry\nHealthcare",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1886,13 +1837,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A full digital health platform built to serve more than 50 clinics, covering both​",
+    "text": "Summary\nA full digital health platform built to serve more than 50 clinics, covering both",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1900,13 +1852,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​the clinical and administrative sides of telehealth.​",
+    "text": "the clinical and administrative sides of telehealth.",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1914,13 +1867,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Secure video consultations​",
+    "text": "Key Capabilities\n●\nSecure video consultations",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1928,13 +1882,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Electronic Health Record (EHR) management​",
+    "text": "●\nElectronic Health Record (EHR) management",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1942,13 +1897,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Digital prescriptions​",
+    "text": "●\nDigital prescriptions",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1956,13 +1912,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Integrated online payments​",
+    "text": "●\nIntegrated online payments",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1970,13 +1927,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Complete patient medical history management​",
+    "text": "●\nComplete patient medical history management",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.1 Telemedicine & EHR Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.1 Telemedicine & EHR Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1984,13 +1942,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.1.2 Medical Imaging Analysis System​",
+    "text": "6.1.2 Medical Imaging Analysis System",
     "page": 8,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2000,13 +1959,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Healthcare​",
+    "text": "Industry\nHealthcare",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2014,13 +1974,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A diagnostic support system that applies AI-based image analysis to medical​",
+    "text": "Summary\nA diagnostic support system that applies AI-based image analysis to medical",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2028,13 +1989,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​scans.​",
+    "text": "scans.",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2042,13 +2004,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Image recognition to support diagnosis​",
+    "text": "Key Capabilities\n●\nImage recognition to support diagnosis",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2056,13 +2019,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Automated defect detection​",
+    "text": "●\nAutomated defect detection",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2070,13 +2034,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Integration with hospital information systems​​(HIS)​",
+    "text": "●\nIntegration with hospital information systems(HIS)",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2084,13 +2049,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Built to support efficient clinical workflows​",
+    "text": "●\nBuilt to support efficient clinical workflows",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.1.2 Medical Imaging Analysis System​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.1 Healthcare",
+      "6.1.2 Medical Imaging Analysis System"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2098,13 +2064,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.2 Finance​",
+    "text": "6.2 Finance",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.2 Finance​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2114,13 +2080,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.2.1 Digital Audit & Accounts Payable​",
+    "text": "6.2.1 Digital Audit & Accounts Payable",
     "page": 8,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.2.1 Digital Audit & Accounts Payable​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2134,9 +2101,10 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.2.1 Digital Audit & Accounts Payable​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2149,9 +2117,10 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.1 Healthcare​",
-      "​6.2.1 Digital Audit & Accounts Payable​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2159,99 +2128,105 @@
     }
   },
   {
+    "element_type": "paragraph",
+    "text": "Industry\nFinance",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Summary\nA finance platform focused on automating audit and invoice-processing work.",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Key Capabilities\n●\nOCR-based invoice processing",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nRegulatory compliance workflows",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nAutomated financial reporting",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nIntegration with ERP systems",
+    "page": 9,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.1 Digital Audit & Accounts Payable"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
     "element_type": "heading",
-    "text": "​ABOUT US​",
+    "text": "6.2.2 Corporate Financial Management Platform",
     "page": 9,
-    "heading_level": 1,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Industry​\n​Finance​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Summary​\n​A finance platform focused on automating audit and invoice-processing work.​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​OCR-based invoice processing​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Regulatory compliance workflows​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Automated financial reporting​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Integration with ERP systems​",
-    "page": 9,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​6.2.2 Corporate Financial Management Platform​",
-    "page": 9,
-    "heading_level": 3,
-    "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2261,12 +2236,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Finance​",
+    "text": "Industry\nFinance",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2274,12 +2251,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A finance platform built for a global professional-services client to manage​",
+    "text": "Summary\nA finance platform built for a global professional-services client to manage",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2287,12 +2266,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​budgets and cash flow.​",
+    "text": "budgets and cash flow.",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2300,12 +2281,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Budgeting​",
+    "text": "Key Capabilities\n●\nBudgeting",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2313,12 +2296,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Forecasting​",
+    "text": "●\nForecasting",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2326,12 +2311,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Cash flow monitoring​",
+    "text": "●\nCash flow monitoring",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2339,12 +2326,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Multi-currency reporting​",
+    "text": "●\nMulti-currency reporting",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2352,12 +2341,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Outcome​\n​Built for a global professional services firm.​",
+    "text": "Outcome\nBuilt for a global professional services firm.",
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.2 Finance",
+      "6.2.2 Corporate Financial Management Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2365,13 +2356,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.3 IoT & Manufacturing​",
+    "text": "6.3 IoT & Manufacturing",
     "page": 9,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​",
-      "​6.3 IoT & Manufacturing​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2381,13 +2372,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.3.1 Smart Fleet & Warehouse Automation​",
+    "text": "6.3.1 Smart Fleet & Warehouse Automation",
     "page": 9,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​",
-      "​6.3.1 Smart Fleet & Warehouse Automation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2401,9 +2393,10 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​",
-      "​6.3.1 Smart Fleet & Warehouse Automation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2416,9 +2409,10 @@
     "page": 9,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.2.2 Corporate Financial Management Platform​",
-      "​6.3.1 Smart Fleet & Warehouse Automation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2426,135 +2420,149 @@
     }
   },
   {
+    "element_type": "paragraph",
+    "text": "Industry\nIoT & Manufacturing",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Summary\nA combined fleet-tracking and warehouse-automation solution built on IoT",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "sensors and RFID.",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Key Capabilities\n●\nReal-time GPS fleet tracking",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nFuel analytics",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nDriver behavior insights",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nRFID-based warehouse management",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nPredictive restocking",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nERP system integration",
+    "page": 10,
+    "heading_level": null,
+    "heading_path": [
+      "ABOUT US",
+      "6. Case Studies",
+      "6.3 IoT & Manufacturing",
+      "6.3.1 Smart Fleet & Warehouse Automation"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
     "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 10,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Industry​\n​IoT & Manufacturing​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Summary​\n​A combined fleet-tracking and warehouse-automation solution built on IoT​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​sensors and RFID.​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Real-time GPS fleet tracking​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Fuel analytics​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Driver behavior insights​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​RFID-based warehouse management​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Predictive restocking​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​ERP system integration​",
-    "page": 10,
-    "heading_level": null,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​6.4 Construction​",
+    "text": "6.4 Construction",
     "page": 10,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2564,13 +2572,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.4.1 Site Safety Inspection Platform​",
+    "text": "6.4.1 Site Safety Inspection Platform",
     "page": 10,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2580,13 +2589,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Construction​",
+    "text": "Industry\nConstruction",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2594,13 +2604,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A mobile app that digitizes construction safety inspections in place of paper​",
+    "text": "Summary\nA mobile app that digitizes construction safety inspections in place of paper",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2608,13 +2619,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​forms.​",
+    "text": "forms.",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2622,13 +2634,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Dynamic digital checklists​",
+    "text": "Key Capabilities\n●\nDynamic digital checklists",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2636,13 +2649,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Photo evidence capture​",
+    "text": "●\nPhoto evidence capture",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2650,13 +2664,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Instant PDF report generation​",
+    "text": "●\nInstant PDF report generation",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2664,13 +2679,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Outcome​\n​Delivered in roughly 14 weeks — see client testimonial, Robert King, CTO,​",
+    "text": "Outcome\nDelivered in roughly 14 weeks — see client testimonial, Robert King, CTO,",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2678,13 +2694,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​NorthStar Construction (Section 7).​",
+    "text": "NorthStar Construction (Section 7).",
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.4.1 Site Safety Inspection Platform​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.4 Construction",
+      "6.4.1 Site Safety Inspection Platform"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2692,13 +2709,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.5 Retail​",
+    "text": "6.5 Retail",
     "page": 10,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.5 Retail​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2712,9 +2729,9 @@
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.5 Retail​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2727,9 +2744,9 @@
     "page": 10,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.4 Construction​",
-      "​6.5 Retail​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -2738,26 +2755,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
+    "text": "6.5.1 AI-Powered Retail Analytics",
     "page": 11,
-    "heading_level": 1,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​6.5.1 AI-Powered Retail Analytics​",
-    "page": 11,
-    "heading_level": 3,
-    "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2767,12 +2772,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Retail​",
+    "text": "Industry\nRetail",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2780,12 +2787,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A retail analytics platform that applies machine learning to shopping and​",
+    "text": "Summary\nA retail analytics platform that applies machine learning to shopping and",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2793,12 +2802,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​inventory data.​",
+    "text": "inventory data.",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2806,12 +2817,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Personalized shopping experiences​",
+    "text": "Key Capabilities\n●\nPersonalized shopping experiences",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2819,12 +2832,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Inventory optimization​",
+    "text": "●\nInventory optimization",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2832,12 +2847,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Customer behavior insights​",
+    "text": "●\nCustomer behavior insights",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2845,12 +2862,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Integration with POS systems​",
+    "text": "●\nIntegration with POS systems",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2858,12 +2877,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Integration with CRM systems​",
+    "text": "●\nIntegration with CRM systems",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.5 Retail",
+      "6.5.1 AI-Powered Retail Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2871,13 +2892,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.6 Enterprise / Cloud​",
+    "text": "6.6 Enterprise / Cloud",
     "page": 11,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6 Enterprise / Cloud​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2887,13 +2908,14 @@
   },
   {
     "element_type": "heading",
-    "text": "​6.6.1 ERP Cloud Migration & Modernization​",
+    "text": "6.6.1 ERP Cloud Migration & Modernization",
     "page": 11,
-    "heading_level": 3,
+    "heading_level": 4,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -2903,13 +2925,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Enterprise​",
+    "text": "Industry\nEnterprise",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2917,13 +2940,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A cloud migration engagement that moved a mid-size manufacturer's ERP​",
+    "text": "Summary\nA cloud migration engagement that moved a mid-size manufacturer's ERP",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2931,13 +2955,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​system off on-premises infrastructure.​",
+    "text": "system off on-premises infrastructure.",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2945,13 +2970,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Migrated legacy on-premises systems to Microsoft​​Azure​",
+    "text": "Key Capabilities\n●\nMigrated legacy on-premises systems to MicrosoftAzure",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2959,13 +2985,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Achieved zero downtime during the migration​",
+    "text": "●\nAchieved zero downtime during the migration",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2973,13 +3000,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Improved system performance​",
+    "text": "●\nImproved system performance",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -2987,13 +3015,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Outcome​\n​Reduced infrastructure costs by 40% — see client testimonial, Thomas Wright,​",
+    "text": "Outcome\nReduced infrastructure costs by 40% — see client testimonial, Thomas Wright,",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3001,13 +3030,14 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​VP Technology, GlobalManufacturing Ltd. (Section 7).​",
+    "text": "VP Technology, GlobalManufacturing Ltd. (Section 7).",
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3019,9 +3049,10 @@
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -3034,9 +3065,10 @@
     "page": 11,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.5.1 AI-Powered Retail Analytics​",
-      "​6.6.1 ERP Cloud Migration & Modernization​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.6 Enterprise / Cloud",
+      "6.6.1 ERP Cloud Migration & Modernization"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -3045,26 +3077,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​ABOUT US​",
-    "page": 12,
-    "heading_level": 1,
-    "heading_path": [
-      "​ABOUT US​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 19.5,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​6.7 Transportation​",
+    "text": "6.7 Transportation",
     "page": 12,
     "heading_level": 3,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -3074,12 +3093,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​6.7.1 Logistics & Route Optimization​",
+    "text": "6.7.1 Logistics & Route Optimization",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3087,12 +3107,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Industry​\n​Transportation​",
+    "text": "Industry\nTransportation",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3100,12 +3121,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Summary​\n​A logistics platform focused on fleet management and delivery route planning.​",
+    "text": "Summary\nA logistics platform focused on fleet management and delivery route planning.",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3113,12 +3135,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Key Capabilities​\n​●​\n​Fleet management​",
+    "text": "Key Capabilities\n●\nFleet management",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3126,12 +3149,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Dynamic route optimization​",
+    "text": "●\nDynamic route optimization",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3139,12 +3163,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Delivery tracking​",
+    "text": "●\nDelivery tracking",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3152,12 +3177,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Analytics​",
+    "text": "●\nAnalytics",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3165,12 +3191,13 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Outcome​\n​Reduced operational costs and improved on-time delivery performance.​",
+    "text": "Outcome\nReduced operational costs and improved on-time delivery performance.",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​6.7 Transportation​"
+      "ABOUT US",
+      "6. Case Studies",
+      "6.7 Transportation"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3178,12 +3205,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​7. Contact​",
+    "text": "7. Contact",
     "page": 12,
     "heading_level": 2,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -3193,12 +3220,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Website:​ ​https://www.tecsack.in​",
+    "text": "Website: https://www.tecsack.in",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3206,12 +3233,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Contact Form:​ ​https://www.tecsack.in/contact.html​",
+    "text": "Contact Form: https://www.tecsack.in/contact.html",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3219,12 +3246,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Email:​ ​researchwing@tecsack.in​",
+    "text": "Email: researchwing@tecsack.in",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3232,12 +3259,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Headquarters:​ ​Salem, India​",
+    "text": "Headquarters: Salem, India",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3245,12 +3272,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Phone: +​91-9786297172​",
+    "text": "Phone: +91-9786297172",
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -3262,8 +3289,8 @@
     "page": 12,
     "heading_level": null,
     "heading_path": [
-      "​ABOUT US​",
-      "​7. Contact​"
+      "ABOUT US",
+      "7. Contact"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",

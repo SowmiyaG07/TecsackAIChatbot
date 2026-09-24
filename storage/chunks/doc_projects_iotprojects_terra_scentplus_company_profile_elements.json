@@ -287,12 +287,12 @@
   },
   {
     "element_type": "heading",
-    "text": "1.​Overview",
+    "text": "1.Overview",
     "page": 3,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -307,7 +307,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -320,7 +320,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -333,7 +333,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -346,7 +346,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -359,7 +359,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -372,7 +372,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "1.​Overview"
+      "1.Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -380,12 +380,12 @@
   },
   {
     "element_type": "heading",
-    "text": "2.​Business Context",
+    "text": "2.Business Context",
     "page": 3,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -400,72 +400,72 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Onboard a new Wi-Fi device onto a home or business network without a direct physical connection",
+    "element_type": "list",
+    "text": "• Onboard a new Wi-Fi device onto a home or business network without a direct physical connection",
     "page": 3,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Configure and adjust an operating schedule remotely, without buttons or a display on the device",
+    "element_type": "list",
+    "text": "• Configure and adjust an operating schedule remotely, without buttons or a display on the device",
     "page": 3,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Monitor consumable levels, battery, and overall device health at a glance",
+    "element_type": "list",
+    "text": "• Monitor consumable levels, battery, and overall device health at a glance",
     "page": 3,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Keep device firmware current without returning the unit or connecting it to a computer",
+    "element_type": "list",
+    "text": "• Keep device firmware current without returning the unit or connecting it to a computer",
     "page": 3,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Diagnose a lost connection quickly and get clear guidance to restore it",
+    "element_type": "list",
+    "text": "• Diagnose a lost connection quickly and get clear guidance to restore it",
     "page": 3,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -478,7 +478,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -491,7 +491,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -504,7 +504,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "2.​Business Context"
+      "2.Business Context"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -512,12 +512,12 @@
   },
   {
     "element_type": "heading",
-    "text": "3.​Key Capabilities",
+    "text": "3.Key Capabilities",
     "page": 3,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -532,7 +532,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -545,7 +545,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -558,7 +558,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -571,7 +571,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -584,7 +584,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -597,7 +597,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -610,7 +610,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -623,7 +623,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -636,7 +636,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -649,7 +649,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "3.​Key Capabilities"
+      "3.Key Capabilities"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -658,12 +658,12 @@
   },
   {
     "element_type": "heading",
-    "text": "4.​Functional Modules",
+    "text": "4.Functional Modules",
     "page": 4,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules"
+      "4.Functional Modules"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -673,13 +673,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.1​Device Discovery & Network Setup",
+    "text": "4.1Device Discovery & Network Setup",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.1​Device Discovery & Network Setup"
+      "4.Functional Modules",
+      "4.1Device Discovery & Network Setup"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -694,8 +694,8 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.1​Device Discovery & Network Setup"
+      "4.Functional Modules",
+      "4.1Device Discovery & Network Setup"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -708,8 +708,8 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.1​Device Discovery & Network Setup"
+      "4.Functional Modules",
+      "4.1Device Discovery & Network Setup"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -722,8 +722,8 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.1​Device Discovery & Network Setup"
+      "4.Functional Modules",
+      "4.1Device Discovery & Network Setup"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -731,13 +731,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.2​Guided Wi-Fi Provisioning",
+    "text": "4.2Guided Wi-Fi Provisioning",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.2​Guided Wi-Fi Provisioning"
+      "4.Functional Modules",
+      "4.2Guided Wi-Fi Provisioning"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -746,56 +746,56 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Select a home Wi-Fi network and enter its password",
+    "element_type": "list",
+    "text": "• Select a home Wi-Fi network and enter its password",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.2​Guided Wi-Fi Provisioning"
+      "4.Functional Modules",
+      "4.2Guided Wi-Fi Provisioning"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ The app securely transmits the network credentials to the unprovisioned device over the air",
+    "element_type": "list",
+    "text": "• The app securely transmits the network credentials to the unprovisioned device over the air",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.2​Guided Wi-Fi Provisioning"
+      "4.Functional Modules",
+      "4.2Guided Wi-Fi Provisioning"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ The device automatically joins the home network without ever being directly connected to the phone",
+    "element_type": "list",
+    "text": "• The device automatically joins the home network without ever being directly connected to the phone",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.2​Guided Wi-Fi Provisioning"
+      "4.Functional Modules",
+      "4.2Guided Wi-Fi Provisioning"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ The app verifies the connection and proceeds straight into the device dashboard",
+    "element_type": "list",
+    "text": "• The app verifies the connection and proceeds straight into the device dashboard",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.2​Guided Wi-Fi Provisioning"
+      "4.Functional Modules",
+      "4.2Guided Wi-Fi Provisioning"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -803,13 +803,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.3​Device Dashboard & Monitoring",
+    "text": "4.3Device Dashboard & Monitoring",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.3​Device Dashboard & Monitoring"
+      "4.Functional Modules",
+      "4.3Device Dashboard & Monitoring"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -818,42 +818,42 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Central dashboard surfaces battery level, remaining scent capacity, estimated days of scent\nremaining, and current firmware version",
+    "element_type": "list",
+    "text": "• Central dashboard surfaces battery level, remaining scent capacity, estimated days of scent\nremaining, and current firmware version",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.3​Device Dashboard & Monitoring"
+      "4.Functional Modules",
+      "4.3Device Dashboard & Monitoring"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ An automatic health check confirms the device is reachable before live data is shown",
+    "element_type": "list",
+    "text": "• An automatic health check confirms the device is reachable before live data is shown",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.3​Device Dashboard & Monitoring"
+      "4.Functional Modules",
+      "4.3Device Dashboard & Monitoring"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Clear visual status indicators alert the user immediately if the connection is lost",
+    "element_type": "list",
+    "text": "• Clear visual status indicators alert the user immediately if the connection is lost",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.3​Device Dashboard & Monitoring"
+      "4.Functional Modules",
+      "4.3Device Dashboard & Monitoring"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -861,13 +861,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.4​Spray Schedule Management",
+    "text": "4.4Spray Schedule Management",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.4​Spray Schedule Management"
+      "4.Functional Modules",
+      "4.4Spray Schedule Management"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -876,42 +876,42 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Weekly, day-by-day schedule editor for configuring spray timing and frequency",
+    "element_type": "list",
+    "text": "• Weekly, day-by-day schedule editor for configuring spray timing and frequency",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.4​Spray Schedule Management"
+      "4.Functional Modules",
+      "4.4Spray Schedule Management"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Each schedule entry can be activated, deactivated, or removed independently",
+    "element_type": "list",
+    "text": "• Each schedule entry can be activated, deactivated, or removed independently",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.4​Spray Schedule Management"
+      "4.Functional Modules",
+      "4.4Spray Schedule Management"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Schedule changes are sent directly to the device and take effect immediately",
+    "element_type": "list",
+    "text": "• Schedule changes are sent directly to the device and take effect immediately",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.4​Spray Schedule Management"
+      "4.Functional Modules",
+      "4.4Spray Schedule Management"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -919,13 +919,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.5​Device Modes & Manual Controls",
+    "text": "4.5Device Modes & Manual Controls",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.5​Device Modes & Manual Controls"
+      "4.Functional Modules",
+      "4.5Device Modes & Manual Controls"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -934,42 +934,42 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Demo mode triggers an immediate spray on demand, for testing and verification",
+    "element_type": "list",
+    "text": "• Demo mode triggers an immediate spray on demand, for testing and verification",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.5​Device Modes & Manual Controls"
+      "4.Functional Modules",
+      "4.5Device Modes & Manual Controls"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Sleep mode places the device into a low-power state when it isn't needed",
+    "element_type": "list",
+    "text": "• Sleep mode places the device into a low-power state when it isn't needed",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.5​Device Modes & Manual Controls"
+      "4.Functional Modules",
+      "4.5Device Modes & Manual Controls"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Manual controls are available for dispenser configuration",
+    "element_type": "list",
+    "text": "• Manual controls are available for dispenser configuration",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.5​Device Modes & Manual Controls"
+      "4.Functional Modules",
+      "4.5Device Modes & Manual Controls"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -977,13 +977,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.6​Firmware (OTA) Updates",
+    "text": "4.6Firmware (OTA) Updates",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.6​Firmware (OTA) Updates"
+      "4.Functional Modules",
+      "4.6Firmware (OTA) Updates"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -992,42 +992,42 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ The app automatically compares the device's current firmware version against the latest available\nversion",
+    "element_type": "list",
+    "text": "• The app automatically compares the device's current firmware version against the latest available\nversion",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.6​Firmware (OTA) Updates"
+      "4.Functional Modules",
+      "4.6Firmware (OTA) Updates"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ When a newer version is available, the user is prompted to update",
+    "element_type": "list",
+    "text": "• When a newer version is available, the user is prompted to update",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.6​Firmware (OTA) Updates"
+      "4.Functional Modules",
+      "4.6Firmware (OTA) Updates"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Firmware is delivered directly to the device over the local network, with clear progress and completion\nfeedback",
+    "element_type": "list",
+    "text": "• Firmware is delivered directly to the device over the local network, with clear progress and completion\nfeedback",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.6​Firmware (OTA) Updates"
+      "4.Functional Modules",
+      "4.6Firmware (OTA) Updates"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1035,13 +1035,13 @@
   },
   {
     "element_type": "heading",
-    "text": "4.7​Connection Health & Diagnostics",
+    "text": "4.7Connection Health & Diagnostics",
     "page": 4,
     "heading_level": 3,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.7​Connection Health & Diagnostics"
+      "4.Functional Modules",
+      "4.7Connection Health & Diagnostics"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1050,28 +1050,28 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Continuous background monitoring keeps the app aware of the device's connection state at all times",
+    "element_type": "list",
+    "text": "• Continuous background monitoring keeps the app aware of the device's connection state at all times",
     "page": 4,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.7​Connection Health & Diagnostics"
+      "4.Functional Modules",
+      "4.7Connection Health & Diagnostics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Users are alerted immediately if the device becomes unreachable, with guidance to restore the\nconnection",
+    "element_type": "list",
+    "text": "• Users are alerted immediately if the device becomes unreachable, with guidance to restore the\nconnection",
     "page": 5,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "4.​Functional Modules",
-      "4.7​Connection Health & Diagnostics"
+      "4.Functional Modules",
+      "4.7Connection Health & Diagnostics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1079,12 +1079,12 @@
   },
   {
     "element_type": "heading",
-    "text": "5.​End-to-End Workflow",
+    "text": "5.End-to-End Workflow",
     "page": 6,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "5.​End-to-End Workflow"
+      "5.End-to-End Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1099,7 +1099,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "5.​End-to-End Workflow"
+      "5.End-to-End Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1112,7 +1112,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "5.​End-to-End Workflow"
+      "5.End-to-End Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1125,7 +1125,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "5.​End-to-End Workflow"
+      "5.End-to-End Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1133,12 +1133,12 @@
   },
   {
     "element_type": "heading",
-    "text": "6.​Reporting & Analytics",
+    "text": "6.Reporting & Analytics",
     "page": 6,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1153,72 +1153,72 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Battery level and remaining scent capacity",
+    "element_type": "list",
+    "text": "• Battery level and remaining scent capacity",
     "page": 6,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Estimated days of scent remaining",
+    "element_type": "list",
+    "text": "• Estimated days of scent remaining",
     "page": 6,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Current firmware version, with an update prompt when a newer version is available",
+    "element_type": "list",
+    "text": "• Current firmware version, with an update prompt when a newer version is available",
     "page": 6,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Live device connection status",
+    "element_type": "list",
+    "text": "• Live device connection status",
     "page": 6,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ A weekly schedule overview, with each entry's active/inactive state",
+    "element_type": "list",
+    "text": "• A weekly schedule overview, with each entry's active/inactive state",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1231,7 +1231,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1244,7 +1244,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "6.​Reporting & Analytics"
+      "6.Reporting & Analytics"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1252,12 +1252,12 @@
   },
   {
     "element_type": "heading",
-    "text": "7.​Technology Stack",
+    "text": "7.Technology Stack",
     "page": 7,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "7.​Technology Stack"
+      "7.Technology Stack"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1272,7 +1272,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "7.​Technology Stack"
+      "7.Technology Stack"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1285,7 +1285,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "7.​Technology Stack"
+      "7.Technology Stack"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1298,7 +1298,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "7.​Technology Stack"
+      "7.Technology Stack"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1311,7 +1311,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "7.​Technology Stack"
+      "7.Technology Stack"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1319,12 +1319,12 @@
   },
   {
     "element_type": "heading",
-    "text": "8.​Value Delivered",
+    "text": "8.Value Delivered",
     "page": 7,
     "heading_level": 2,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1333,65 +1333,65 @@
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Eliminates the need for screens or buttons on the physical device by centralizing setup and control in\nthe phone",
+    "element_type": "list",
+    "text": "• Eliminates the need for screens or buttons on the physical device by centralizing setup and control in\nthe phone",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Reduces manual effort in Wi-Fi provisioning and day-to-day device operation",
+    "element_type": "list",
+    "text": "• Reduces manual effort in Wi-Fi provisioning and day-to-day device operation",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Improves visibility into device health with a live status dashboard",
+    "element_type": "list",
+    "text": "• Improves visibility into device health with a live status dashboard",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Streamlines schedule management from anywhere on the home network",
+    "element_type": "list",
+    "text": "• Streamlines schedule management from anywhere on the home network",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
     }
   },
   {
-    "element_type": "paragraph",
-    "text": "•​ Simplifies firmware servicing with guided, in-app over-the-air updates",
+    "element_type": "list",
+    "text": "• Simplifies firmware servicing with guided, in-app over-the-air updates",
     "page": 7,
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1404,7 +1404,7 @@
     "heading_level": null,
     "heading_path": [
       "COMPANY PROFILE",
-      "8.​Value Delivered"
+      "8.Value Delivered"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",

@@ -12,6 +12,39 @@ from PIL import Image
 from docx import Document
 
 
+# ---------------------------------------------------------------------
+# Tesseract location
+# ---------------------------------------------------------------------
+#
+# Use TESSERACT_CMD if set; otherwise fall back to the default
+# Windows install path when tesseract is not on PATH.
+
+def _configure_tesseract() -> None:
+    import os
+    import shutil
+
+    configured = os.getenv("TESSERACT_CMD")
+
+    if configured:
+        pytesseract.pytesseract.tesseract_cmd = configured
+        return
+
+    if shutil.which("tesseract"):
+        return
+
+    default_windows_path = Path(
+        r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+    )
+
+    if default_windows_path.exists():
+        pytesseract.pytesseract.tesseract_cmd = str(
+            default_windows_path
+        )
+
+
+_configure_tesseract()
+
+
 @dataclass
 class DocumentElement:
     """
@@ -48,6 +81,11 @@ def clean_text(text: str) -> str:
         return ""
 
     text = text.replace("\x00", " ")
+
+    # Zero-width characters (common in Google Docs PDF exports)
+    # break pattern matching such as numbered-heading detection.
+    text = re.sub(r"[\u200b\u200c\u200d\ufeff]", "", text)
+
     text = text.replace("\r\n", "\n")
     text = text.replace("\r", "\n")
 
@@ -105,6 +143,18 @@ def is_list_line(line: str) -> bool:
 # Heading hierarchy
 # ---------------------------------------------------------------------
 
+class HeadingStack(list):
+    """
+    List of heading texts that also remembers each heading's level.
+
+    .copy() still returns a plain list of heading texts.
+    """
+
+    def __init__(self) -> None:
+        super().__init__()
+        self.levels: list[int] = []
+
+
 def update_heading_path(
     heading_stack: list[str],
     heading_level: int,
@@ -122,14 +172,54 @@ def update_heading_path(
     becomes:
 
         ["Project", "Architecture", "Database"]
+
+    With a HeadingStack, nesting is decided by heading level, so
+    skipped levels do not shift the hierarchy:
+
+        H1 ABOUT US, H3 6.1 Healthcare, H4 6.1.1 ..., H4 6.1.2 ...
+
+    gives ["ABOUT US", "6.1 Healthcare", "6.1.2 ..."].
     """
 
-    # Remove deeper levels.
-    heading_stack[:] = heading_stack[: heading_level - 1]
+    levels = getattr(heading_stack, "levels", None)
+
+    if levels is None:
+        # Plain list: position == level.
+        heading_stack[:] = heading_stack[: heading_level - 1]
+        heading_stack.append(heading_text)
+        return heading_stack.copy()
+
+    # Remove same-level and deeper headings.
+    while levels and levels[-1] >= heading_level:
+        levels.pop()
+        heading_stack.pop()
 
     heading_stack.append(heading_text)
+    levels.append(heading_level)
 
     return heading_stack.copy()
+
+
+def is_repeated_page_title(
+    heading_stack: list[str],
+    heading_level: int,
+    heading_text: str,
+) -> bool:
+    """
+    True for a running page header such as "ABOUT US" that is
+    repeated at the top of every page. Treating it as a new
+    level-1 heading would wipe the section context at each
+    page break.
+    """
+
+    levels = getattr(heading_stack, "levels", None)
+
+    return bool(
+        levels
+        and heading_level == 1
+        and levels[0] == 1
+        and heading_stack[0].casefold() == heading_text.casefold()
+    )
 
 
 # ---------------------------------------------------------------------
@@ -155,7 +245,7 @@ def parse_txt(file_path: Path) -> list[DocumentElement]:
 
     elements: list[DocumentElement] = []
 
-    heading_stack: list[str] = []
+    heading_stack: list[str] = HeadingStack()
 
     paragraphs = re.split(r"\n\s*\n", text)
 
@@ -226,7 +316,7 @@ def parse_markdown(file_path: Path) -> list[DocumentElement]:
 
     elements: list[DocumentElement] = []
 
-    heading_stack: list[str] = []
+    heading_stack: list[str] = HeadingStack()
 
     paragraph_buffer: list[str] = []
 
@@ -356,7 +446,7 @@ def parse_docx(file_path: Path) -> list[DocumentElement]:
 
     elements: list[DocumentElement] = []
 
-    heading_stack: list[str] = []
+    heading_stack: list[str] = HeadingStack()
 
     # -------------------------------------------------------------
     # Paragraphs
@@ -521,6 +611,33 @@ def _is_pdf_bold(block: dict[str, Any]) -> bool:
     return bold / total >= 0.5
 
 
+def get_numbered_heading_level(text: str) -> int | None:
+    """
+    Derive heading level from section numbering.
+
+        "4. Leadership Team"        -> 2
+        "5.1 Software Engineers"    -> 3
+        "6.1.1 Telemedicine & EHR"  -> 4
+
+    Level 1 is left for the unnumbered document title
+    (e.g. "ABOUT US"). Returns None for unnumbered headings.
+    Components are limited to 1-2 digits so years such as
+    "2025 Holidays" are not treated as section numbers.
+    """
+
+    first_line = text.split("\n", 1)[0].strip()
+
+    match = re.match(
+        r"^(\d{1,2}(?:\.\d{1,2})*)\.?\s+[A-Za-z]",
+        first_line,
+    )
+
+    if not match:
+        return None
+
+    return len(match.group(1).split(".")) + 1
+
+
 def parse_pdf(file_path: Path) -> list[DocumentElement]:
     """
     Parse PDF pages using multiple extraction strategies.
@@ -539,7 +656,7 @@ def parse_pdf(file_path: Path) -> list[DocumentElement]:
 
     elements: list[DocumentElement] = []
 
-    heading_stack: list[str] = []
+    heading_stack: list[str] = HeadingStack()
 
     try:
 
@@ -662,12 +779,27 @@ def parse_pdf(file_path: Path) -> list[DocumentElement]:
                             else 1
                         )
 
-                        if ratio >= 1.7:
+                        numbered_level = get_numbered_heading_level(
+                            text
+                        )
+
+                        # Section numbers are more reliable than
+                        # font size ("5." must not nest under "4.").
+                        if numbered_level is not None:
+                            level = numbered_level
+                        elif ratio >= 1.7:
                             level = 1
                         elif ratio >= 1.4:
                             level = 2
                         else:
                             level = 3
+
+                        if is_repeated_page_title(
+                            heading_stack,
+                            level,
+                            text,
+                        ):
+                            continue
 
                         path = update_heading_path(
                             heading_stack,

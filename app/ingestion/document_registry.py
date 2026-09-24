@@ -24,6 +24,15 @@ DATA_DIR = PROJECT_ROOT / "data"
 STORAGE_DIR = PROJECT_ROOT / "storage"
 REGISTRY_FILE = STORAGE_DIR / "document_registry.json"
 
+# Folder name -> canonical top_level value.
+# The retrieval metadata filters rely on these canonical values.
+TOP_LEVEL_ALIASES = {
+    "projects": "project",
+    "companies": "company",
+    "human_resources": "hr",
+    "human resources": "hr",
+}
+
 # File types that the ingestion pipeline supports.
 # Add more extensions when you add new parsers.
 SUPPORTED_EXTENSIONS = {
@@ -145,12 +154,15 @@ def extract_location_metadata(relative_path: Path) -> dict[str, str | None]:
             "project": None
         }
 
-        Project/giftcard/api.pdf
+        Projects/giftcard/api.pdf
 
         {
             "top_level": "project",
             "project": "giftcard"
         }
+
+    Folder names are normalized through TOP_LEVEL_ALIASES so
+    "Projects", "project" and "PROJECT" all map to "project".
     """
 
     parts = list(relative_path.parts)
@@ -161,7 +173,12 @@ def extract_location_metadata(relative_path: Path) -> dict[str, str | None]:
             "project": None,
         }
 
-    top_level = parts[0].lower()
+    top_level = parts[0].strip().lower()
+
+    top_level = TOP_LEVEL_ALIASES.get(
+        top_level,
+        top_level,
+    )
 
     project = None
 
@@ -463,6 +480,31 @@ def detect_document_changes(
         # ----------------------------------------------------
 
         existing["last_seen_at"] = utc_now()
+
+        # ----------------------------------------------------
+        # METADATA CHANGED or PREVIOUSLY FAILED (same file)
+        # ----------------------------------------------------
+        #
+        # Chunks carry top_level/project, so they must be
+        # regenerated when the location metadata changes.
+
+        location_metadata = extract_location_metadata(
+            relative_path
+        )
+
+        # A previously failed document is retried as well.
+        if (
+            existing.get("top_level") != location_metadata["top_level"]
+            or existing.get("project") != location_metadata["project"]
+            or existing.get("status") == "failed"
+        ):
+            existing["top_level"] = location_metadata["top_level"]
+            existing["project"] = location_metadata["project"]
+            existing["status"] = "changed"
+
+            changed_documents.append(existing)
+
+            continue
 
         existing["status"] = "unchanged"
 

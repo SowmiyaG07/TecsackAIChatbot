@@ -1,11 +1,11 @@
 [
   {
     "element_type": "heading",
-    "text": "​TECSACK SOFTWARE​",
+    "text": "TECSACK SOFTWARE",
     "page": 1,
     "heading_level": 1,
     "heading_path": [
-      "​TECSACK SOFTWARE​"
+      "TECSACK SOFTWARE"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -15,11 +15,11 @@
   },
   {
     "element_type": "heading",
-    "text": "​COMPANY PROFILE​",
+    "text": "COMPANY PROFILE",
     "page": 1,
     "heading_level": 1,
     "heading_path": [
-      "​COMPANY PROFILE​"
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -29,11 +29,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Prime Inspect​",
+    "text": "Prime Inspect",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​"
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -41,11 +41,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Document Version: 1.0​",
+    "text": "Document Version: 1.0",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​"
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -53,11 +53,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Date: September 2026​",
+    "text": "Date: September 2026",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​"
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -65,11 +65,11 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Classification: Internal / Confidential​",
+    "text": "Classification: Internal / Confidential",
     "page": 1,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​"
+      "COMPANY PROFILE"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -77,12 +77,183 @@
   },
   {
     "element_type": "heading",
-    "text": "​Table of Contents​",
+    "text": "Table of Contents",
     "page": 2,
     "heading_level": 2,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 22.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "1. Platform Overview……………………………………………………. 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "2. Workflow………………………………………………………………. 3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.1 Inspection Section………………..…...………………………….3",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.2 Scheduling & Assignment.……………………………………….4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.3 Field Execution & Reporting………………………………….…. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.4 Service Requests…………………………………………………. 4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.5 Organizations, Sites & Assets………………………..………….4",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.6 Access & Plans……………………………………………...……. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "2.7Overall Platform Journey…………………………………………. 5",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "3. Summary Diagram……………………………………………………. 6",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "4. Sourcing Notes……………………………………………………...… 8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "list",
+    "text": "5. Contact………………………………………………………………....8",
+    "page": 2,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "Table of Contents"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "1. Platform Overview",
+    "page": 3,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -92,12 +263,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​1. Platform Overview​……………………………………………………. 3​",
-    "page": 2,
+    "text": "PrimeInspect is an inspection and audit management platform built by Tecsack Software. It",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -105,12 +276,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2. Workflow​………………………………………………………………. 3​",
-    "page": 2,
+    "text": "gives organizations a configurable way to define inspection templates, schedule them across",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -118,12 +289,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.1 Inspection Section………………..…...………………………….​​3​",
-    "page": 2,
+    "text": "sites and equipment, assign them to field users, and capture the results — including photo,",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -131,12 +302,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.2 Scheduling & Assignment.……………………………………….​​4​",
-    "page": 2,
+    "text": "video, and signature evidence — through to a finished report.",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -144,12 +315,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.3 Field Execution & Reporting​………………………………….…. 4​",
-    "page": 2,
+    "text": "The platform is industry-agnostic by design: the type of equipment being inspected, the checklist",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -157,12 +328,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.4 Service Requests​…………………………………………………. 4​",
-    "page": 2,
+    "text": "content, and the inspection frequency are all configured per customer account rather than being",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -170,12 +341,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.5 Organizations, Sites & Assets​………………………..………….​​4​",
-    "page": 2,
+    "text": "built for one specific industry. This makes it suitable for facilities management, equipment",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -183,12 +354,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.6 Access & Plans​……………………………………………...……. 5​",
-    "page": 2,
+    "text": "maintenance, and safety or compliance auditing programs alike.",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -196,12 +367,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​2.7​​Overall Platform Journey​…………………………………………. 5​",
-    "page": 2,
+    "text": "PrimeInspect is delivered as a backend API platform (ASP.NET Web API on .NET 9) that",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -209,38 +380,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​3. Summary Diagram​……………………………………………………. 6​",
-    "page": 2,
+    "text": "powers mobile and web client applications used by administrators and field inspection teams.",
+    "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​4. Sourcing Notes​……………………………………………………...… 8​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​5. Contact​​………………………………………………………………....8​",
-    "page": 2,
-    "heading_level": null,
-    "heading_path": [
-      "​COMPANY PROFILE​",
-      "​Table of Contents​"
+      "COMPANY PROFILE",
+      "1. Platform Overview"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -248,11 +393,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​1. Platform Overview​",
+    "text": "2. Workflow",
     "page": 3,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
-      "​1. Platform Overview​"
+      "COMPANY PROFILE",
+      "2. Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -262,11 +408,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​PrimeInspect is an inspection and audit management platform built by Tecsack Software. It​",
+    "text": "At a high level, an administrator builds a reusable inspection template, schedules it against the",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​1. Platform Overview​"
+      "COMPANY PROFILE",
+      "2. Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -274,11 +421,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​gives organizations a configurable way to define inspection templates, schedule them across​",
+    "text": "relevant sites and assets, and field users complete it on location. Findings that fail or are",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​1. Platform Overview​"
+      "COMPANY PROFILE",
+      "2. Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -286,95 +434,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​sites and equipment, assign them to field users, and capture the results — including photo,​",
+    "text": "flagged during an inspection can be escalated into a tracked follow-up ticket.",
     "page": 3,
     "heading_level": null,
     "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​video, and signature evidence — through to a finished report.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​The platform is industry-agnostic by design: the type of equipment being inspected, the checklist​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​content, and the inspection frequency are all configured per customer account rather than being​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​built for one specific industry. This makes it suitable for facilities management, equipment​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​maintenance, and safety or compliance auditing programs alike.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​PrimeInspect is delivered as a backend API platform (ASP.NET Web API on .NET 9) that​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​powers mobile and web client applications used by administrators and field inspection teams.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​1. Platform Overview​"
+      "COMPANY PROFILE",
+      "2. Workflow"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -382,11 +447,684 @@
   },
   {
     "element_type": "heading",
-    "text": "​2. Workflow​",
+    "text": "2.1 Inspection Setup",
     "page": 3,
-    "heading_level": 1,
+    "heading_level": 3,
     "heading_path": [
-      "​2. Workflow​"
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The Inspection Setup stage defines what gets inspected and how.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Inspection Forms:Reusable templates made upof one or more sections, built by an",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "administrator.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Sections:Named groupings of checklist itemswithin a form (e.g., a section per area or",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "system).",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Checklist Items:Individual questions or taskswithin a section. Each item can be",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "configured to require a photo, video, written note, and/or signature as evidence.",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Object Types:Account-defined categories usedto classify the assets being inspected",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "(for example, an HVAC unit or a fire extinguisher).",
+    "page": 3,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.1 Inspection Setup"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.2 Scheduling & Assignment",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Once a template exists, it is put on a schedule and turned into work for field teams.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nScheduler:Administrators define how often aninspection form should run.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nJob Generation:A background service periodicallychecks due schedules and",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "generates concrete Inspection Jobs from them.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nAssignment:Jobs are assigned to specific users,sites, and assets; field users see",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "their assigned work through a mobile dashboard.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.2 Scheduling & Assignment"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.3 Field Execution & Reporting",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Field users complete assigned jobs and the results are turned into a shareable report.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Inspection Data:Field users work through eachchecklist item and record the result,",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "attaching photos, video, notes, or a signature as required.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Evidence Capture:Photos and files are uploadeddirectly to secure cloud storage rather",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "than passing through the API server itself.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· PDF Reports:A completed inspection can beexported as a PDF report.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.3 Field Execution & Reporting"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.4 Service Requests",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.4 Service Requests"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "When a checklist item is flagged or fails during an inspection, it can generate a Service Request",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.4 Service Requests"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "— a follow-up ticket carrying a priority and due date, assigned to a responsible user, and linked",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.4 Service Requests"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "back to the inspection job that raised it. This lets issues found in the field be tracked through to",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.4 Service Requests"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "resolution rather than only recorded in a report.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.4 Service Requests"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.5 Organizations, Sites & Assets",
+    "page": 4,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Inspection activity is organized around a simple structure:",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Account:The billing and tenant boundary; inspectiondata is scoped to an account.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nOrganization:A customer's own internal structure,such as departments or branches.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nSites:Physical locations belonging to an account.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "●\nAssets:The individual pieces of equipment orobjects being inspected at a site.",
+    "page": 4,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.5 Organizations, Sites & Assets"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.6 Access & Plans",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Roles & Permissions:Each role is granted specificread/write access to individual",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "platform features, and access is enforced on every request.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Subscription Plans:Free and paid subscriptiontiers apply configurable limits — such",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "as the number of inspection templates or the volume of inspections — which are enforced",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "automatically.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "· Notifications:Users receive in-app notificationsto keep them informed of assigned jobs",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "and account activity.",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.6 Access & Plans"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "2.7 Overall Platform Journey",
+    "page": 5,
+    "heading_level": 3,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.7 Overall Platform Journey"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf",
+      "font_size": 16.99,
+      "bold": true
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "The primary workflow, end to end:",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.7 Overall Platform Journey"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Build Template → Schedule & Assign → Execute & Capture Evidence → Report / Flag",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.7 Overall Platform Journey"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "paragraph",
+    "text": "Issues → Resolve via Service Request",
+    "page": 5,
+    "heading_level": null,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "2. Workflow",
+      "2.7 Overall Platform Journey"
+    ],
+    "metadata": {
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "element_type": "heading",
+    "text": "3. Summary Diagram",
+    "page": 5,
+    "heading_level": 2,
+    "heading_path": [
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -396,528 +1134,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​At a high level, an administrator builds a reusable inspection template, schedules it against the​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​relevant sites and assets, and field users complete it on location. Findings that fail or are​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​flagged during an inspection can be escalated into a tracked follow-up ticket.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.1 Inspection Setup​",
-    "page": 3,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​The Inspection Setup stage defines what gets inspected and how.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Inspection Forms:​​Reusable templates made up​​of one or more sections, built by an​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​administrator.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Sections:​​Named groupings of checklist items​​within a form (e.g., a section per area or​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​system).​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Checklist Items:​​Individual questions or tasks​​within a section. Each item can be​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​configured to require a photo, video, written note, and/or signature as evidence.​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Object Types:​​Account-defined categories used​​to classify the assets being inspected​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​(for example, an HVAC unit or a fire extinguisher).​",
-    "page": 3,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.1 Inspection Setup​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.2 Scheduling & Assignment​",
-    "page": 4,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Once a template exists, it is put on a schedule and turned into work for field teams.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Scheduler:​​Administrators define how often an​​inspection form should run.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Job Generation:​​A background service periodically​​checks due schedules and​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​generates concrete Inspection Jobs from them.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Assignment:​​Jobs are assigned to specific users,​​sites, and assets; field users see​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​their assigned work through a mobile dashboard.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.2 Scheduling & Assignment​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.3 Field Execution & Reporting​",
-    "page": 4,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Field users complete assigned jobs and the results are turned into a shareable report.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Inspection Data:​​Field users work through each​​checklist item and record the result,​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​attaching photos, video, notes, or a signature as required.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Evidence Capture:​​Photos and files are uploaded​​directly to secure cloud storage rather​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​than passing through the API server itself.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​PDF Reports:​​A completed inspection can be​​exported as a PDF report.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.3 Field Execution & Reporting​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.4 Service Requests​",
-    "page": 4,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.4 Service Requests​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​When a checklist item is flagged or fails during an inspection, it can generate a Service Request​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.4 Service Requests​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​— a follow-up ticket carrying a priority and due date, assigned to a responsible user, and linked​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.4 Service Requests​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​back to the inspection job that raised it. This lets issues found in the field be tracked through to​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.4 Service Requests​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​resolution rather than only recorded in a report.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.4 Service Requests​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.5 Organizations, Sites & Assets​",
-    "page": 4,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Inspection activity is organized around a simple structure:​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Account:​​The billing and tenant boundary; inspection​​data is scoped to an account.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Organization:​​A customer's own internal structure,​​such as departments or branches.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Sites:​​Physical locations belonging to an account.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​●​\n​Assets:​​The individual pieces of equipment or​​objects being inspected at a site.​",
-    "page": 4,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.5 Organizations, Sites & Assets​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.6 Access & Plans​",
-    "page": 5,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Roles & Permissions:​​Each role is granted specific​​read/write access to individual​",
+    "text": "The diagram below summarizes the platform's structure — the parallel Inspections and Service",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -925,12 +1147,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​platform features, and access is enforced on every request.​",
+    "text": "Requests flows, the point where a failed checklist item triggers a follow-up ticket, and the overall",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -938,168 +1160,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​·​ ​Subscription Plans:​​Free and paid subscription​​tiers apply configurable limits — such​",
+    "text": "platform journey end to end.",
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​as the number of inspection templates or the volume of inspections — which are enforced​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​automatically.​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​·​ ​Notifications:​​Users receive in-app notifications​​to keep them informed of assigned jobs​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​and account activity.​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.6 Access & Plans​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​2.7 Overall Platform Journey​",
-    "page": 5,
-    "heading_level": 2,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.7 Overall Platform Journey​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​The primary workflow, end to end:​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.7 Overall Platform Journey​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Build Template → Schedule & Assign → Execute & Capture Evidence → Report / Flag​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.7 Overall Platform Journey​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Issues → Resolve via Service Request​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​2. Workflow​",
-      "​2.7 Overall Platform Journey​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​3. Summary Diagram​",
-    "page": 5,
-    "heading_level": 1,
-    "heading_path": [
-      "​3. Summary Diagram​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 22.99,
-      "bold": true
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​The diagram below summarizes the platform's structure — the parallel Inspections and Service​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​3. Summary Diagram​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​Requests flows, the point where a failed checklist item triggers a follow-up ticket, and the overall​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​3. Summary Diagram​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "​platform journey end to end.​",
-    "page": 5,
-    "heading_level": null,
-    "heading_path": [
-      "​3. Summary Diagram​"
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1111,7 +1177,8 @@
     "page": 5,
     "heading_level": null,
     "heading_path": [
-      "​3. Summary Diagram​"
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",
@@ -1124,7 +1191,8 @@
     "page": 6,
     "heading_level": null,
     "heading_path": [
-      "​3. Summary Diagram​"
+      "COMPANY PROFILE",
+      "3. Summary Diagram"
     ],
     "metadata": {
       "extraction_method": "tesseract_ocr"
@@ -1132,11 +1200,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​4. Sourcing Notes​",
+    "text": "4. Sourcing Notes",
     "page": 7,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1146,11 +1215,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​This overview was compiled by reviewing the application's underlying source code — its​",
+    "text": "This overview was compiled by reviewing the application's underlying source code — its",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1158,11 +1228,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​controllers, services, and data model — rather than from a separate written specification. It​",
+    "text": "controllers, services, and data model — rather than from a separate written specification. It",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1170,11 +1241,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​reflects how the platform currently behaves as of this review, and is intended as a functional​",
+    "text": "reflects how the platform currently behaves as of this review, and is intended as a functional",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1182,11 +1254,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​reference rather than a design document.​",
+    "text": "reference rather than a design document.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1194,11 +1267,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​A few points are worth keeping in mind when relying on this profile:​",
+    "text": "A few points are worth keeping in mind when relying on this profile:",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1206,11 +1280,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Authorization checks:​ ​Authorization is currently​​disabled on several endpoints​",
+    "text": "●\nAuthorization checks: Authorization is currentlydisabled on several endpoints",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1218,11 +1293,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​(including organization, service request, checklist-data, account, and record endpoints),​",
+    "text": "(including organization, service request, checklist-data, account, and record endpoints),",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1230,11 +1306,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​so these can be reached without a valid session. Worth reviewing before wider release,​",
+    "text": "so these can be reached without a valid session. Worth reviewing before wider release,",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1242,11 +1319,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​given this document's classification.​",
+    "text": "given this document's classification.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1254,11 +1332,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Placeholder endpoints:​ ​Two API areas (attachment​​management and a general​",
+    "text": "●\nPlaceholder endpoints: Two API areas (attachmentmanagement and a general",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1266,11 +1345,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​person lookup) exist in the API surface but currently return placeholder responses rather​",
+    "text": "person lookup) exist in the API surface but currently return placeholder responses rather",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1278,11 +1358,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​than being implemented. Actual file uploads are handled through a separate, working​",
+    "text": "than being implemented. Actual file uploads are handled through a separate, working",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1290,11 +1371,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​attachment-data endpoint.​",
+    "text": "attachment-data endpoint.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1302,11 +1384,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Location tracking:​ ​GPS coordinate/event tracking​​exists in the data model but​",
+    "text": "●\nLocation tracking: GPS coordinate/event trackingexists in the data model but",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1314,11 +1397,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​appears to be an early-stage, largely unfinished feature.​",
+    "text": "appears to be an early-stage, largely unfinished feature.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1326,11 +1410,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Plan limit enforcement:​ ​A per-inspection usage limit​​for subscription plans is​",
+    "text": "●\nPlan limit enforcement: A per-inspection usage limitfor subscription plans is",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1338,11 +1423,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​implemented in code but is not currently active.​",
+    "text": "implemented in code but is not currently active.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1350,11 +1436,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Environment configuration:​ ​The application currently​​points to development​",
+    "text": "●\nEnvironment configuration: The application currentlypoints to development",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1362,11 +1449,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​database and service settings rather than a distinct production configuration.​",
+    "text": "database and service settings rather than a distinct production configuration.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1374,11 +1462,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​●​\n​Background jobs:​ ​The background Windows Service​​that generates inspection jobs​",
+    "text": "●\nBackground jobs: The background Windows Servicethat generates inspection jobs",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1386,11 +1475,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​and processes outbound email is currently set to always run its full job list rather than on​",
+    "text": "and processes outbound email is currently set to always run its full job list rather than on",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1398,11 +1488,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​its intended timer-based schedule.​",
+    "text": "its intended timer-based schedule.",
     "page": 7,
     "heading_level": null,
     "heading_path": [
-      "​4. Sourcing Notes​"
+      "COMPANY PROFILE",
+      "4. Sourcing Notes"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1410,11 +1501,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​5. Technology Used​",
+    "text": "5. Technology Used",
     "page": 8,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
-      "​5. Technology Used​"
+      "COMPANY PROFILE",
+      "5. Technology Used"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1424,11 +1516,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Layer​\n​Technology​\n​Notes​\n​Framework​\n​ASP.NET Web API (.NET 9)​\n​Layered solution: API,​\n​Services, Data, Entity, and​\n​Common projects​\n​Database​\n​Microsoft SQL Server (EF​\n​Core)​",
+    "text": "Layer\nTechnology\nNotes\nFramework\nASP.NET Web API (.NET 9)\nLayered solution: API,\nServices, Data, Entity, and\nCommon projects\nDatabase\nMicrosoft SQL Server (EF\nCore)",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​5. Technology Used​"
+      "COMPANY PROFILE",
+      "5. Technology Used"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1436,11 +1529,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Data access via a shared​\n​DbContext and business-logic​\n​managers​\n​Authentication​\n​JWT Bearer tokens​\n​Role-based access control​\n​with per-feature read/write​\n​permissions​\n​File Storage​\n​AWS S3​\n​Pre-signed URLs let client​\n​apps upload photos and files​\n​directly​\n​Email​\n​Mailgun​\n​Messages are queued in the​\n​database and sent by a​\n​background service​\n​Reporting​\n​Headless Chrome (PDF​\n​generation)​",
+    "text": "Data access via a shared\nDbContext and business-logic\nmanagers\nAuthentication\nJWT Bearer tokens\nRole-based access control\nwith per-feature read/write\npermissions\nFile Storage\nAWS S3\nPre-signed URLs let client\napps upload photos and files\ndirectly\nEmail\nMailgun\nMessages are queued in the\ndatabase and sent by a\nbackground service\nReporting\nHeadless Chrome (PDF\ngeneration)",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​5. Technology Used​"
+      "COMPANY PROFILE",
+      "5. Technology Used"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1448,11 +1542,12 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​Renders completed​\n​inspections as downloadable​\n​PDF reports​\n​Background Processing​\n​Windows Service​\n​Generates inspection jobs​\n​from schedules; processes the​\n​email queue​\n​Object Mapping​\n​AutoMapper​\n​Converts between database​\n​entities and API-facing DTOs​\n​Logging​\n​Serilog​\n​Structured, file-based​\n​application logs​",
+    "text": "Renders completed\ninspections as downloadable\nPDF reports\nBackground Processing\nWindows Service\nGenerates inspection jobs\nfrom schedules; processes the\nemail queue\nObject Mapping\nAutoMapper\nConverts between database\nentities and API-facing DTOs\nLogging\nSerilog\nStructured, file-based\napplication logs",
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​5. Technology Used​"
+      "COMPANY PROFILE",
+      "5. Technology Used"
     ],
     "metadata": {
       "extraction_method": "pymupdf"
@@ -1460,11 +1555,12 @@
   },
   {
     "element_type": "heading",
-    "text": "​6. Contact​",
+    "text": "6. Contact",
     "page": 8,
-    "heading_level": 1,
+    "heading_level": 2,
     "heading_path": [
-      "​6. Contact​"
+      "COMPANY PROFILE",
+      "6. Contact"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1474,12 +1570,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​Website:​​https://www.tecsack.in​",
+    "text": "Website:https://www.tecsack.in",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Website:https://www.tecsack.in"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1489,13 +1586,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​Contact Form:​​https://www.tecsack.in/contact.html​",
+    "text": "Contact Form:https://www.tecsack.in/contact.html",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​",
-      "​Contact Form:​​https://www.tecsack.in/contact.html​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Contact Form:https://www.tecsack.in/contact.html"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1505,13 +1602,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​Email:​​researchwing@tecsack.in​",
+    "text": "Email:researchwing@tecsack.in",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​",
-      "​Email:​​researchwing@tecsack.in​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Email:researchwing@tecsack.in"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1521,13 +1618,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​Headquarters:​​Salem, India​",
+    "text": "Headquarters:Salem, India",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​",
-      "​Headquarters:​​Salem, India​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Headquarters:Salem, India"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1537,13 +1634,13 @@
   },
   {
     "element_type": "heading",
-    "text": "​Phone:​​+91-9786297172​",
+    "text": "Phone:+91-9786297172",
     "page": 8,
     "heading_level": 3,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​",
-      "​Phone:​​+91-9786297172​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Phone:+91-9786297172"
     ],
     "metadata": {
       "extraction_method": "pymupdf",
@@ -1557,9 +1654,9 @@
     "page": 8,
     "heading_level": null,
     "heading_path": [
-      "​6. Contact​",
-      "​Website:​​https://www.tecsack.in​",
-      "​Phone:​​+91-9786297172​"
+      "COMPANY PROFILE",
+      "6. Contact",
+      "Phone:+91-9786297172"
     ],
     "metadata": {
       "extraction_method": "pdfplumber",

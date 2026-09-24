@@ -35,7 +35,6 @@
     "heading_level": 3,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "PeopleApps School Feeding Mobile Platform"
     ],
     "metadata": {
@@ -51,7 +50,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "PeopleApps School Feeding Mobile Platform"
     ],
     "metadata": {
@@ -65,7 +63,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "PeopleApps School Feeding Mobile Platform"
     ],
     "metadata": {
@@ -79,7 +76,6 @@
     "heading_level": null,
     "heading_path": [
       "TECSACK SOFTWARE",
-      "COMPANY PROFILE",
       "PeopleApps School Feeding Mobile Platform"
     ],
     "metadata": {
@@ -432,7 +428,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Coordinate schools, menus, and participating institutions",
+    "text": "● Coordinate schools, menus, and participating institutions",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -445,7 +441,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Plan and place food orders with suppliers on a regular basis",
+    "text": "● Plan and place food orders with suppliers on a regular basis",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -458,7 +454,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track deliveries and confirm what has been received",
+    "text": "● Track deliveries and confirm what has been received",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -471,7 +467,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture invoices and monitor related payments",
+    "text": "● Capture invoices and monitor related payments",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -484,7 +480,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keep staff and stakeholders informed as activities progress",
+    "text": "● Keep staff and stakeholders informed as activities progress",
     "page": 3,
     "heading_level": null,
     "heading_path": [
@@ -545,21 +541,6 @@
     ],
     "metadata": {
       "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "heading",
-    "text": "​",
-    "page": 3,
-    "heading_level": 2,
-    "heading_path": [
-      "TECSACK SOFTWARE",
-      "​"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf",
-      "font_size": 16.0,
-      "bold": true
     }
   },
   {
@@ -903,7 +884,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Maintain school records, including institutional details and participating status",
+    "text": "● Maintain school records, including institutional details and participating status",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -917,7 +898,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ View and manage menu information tied to each school",
+    "text": "● View and manage menu information tied to each school",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -931,7 +912,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track relevant notes and contacts associated with each school",
+    "text": "● Track relevant notes and contacts associated with each school",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -945,7 +926,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Quickly locate schools relevant to the user's role",
+    "text": "● Quickly locate schools relevant to the user's role",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -975,7 +956,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Plan upcoming order and menu needs ahead of time, by month or by year",
+    "text": "● Plan upcoming order and menu needs ahead of time, by month or by year",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -989,7 +970,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Create, review, and assign food orders and supply requests",
+    "text": "● Create, review, and assign food orders and supply requests",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -1003,7 +984,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track order status from creation through delivery and receipt",
+    "text": "● Track order status from creation through delivery and receipt",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -1017,7 +998,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Supports both individual and bulk order handling across schools",
+    "text": "● Supports both individual and bulk order handling across schools",
     "page": 4,
     "heading_level": null,
     "heading_path": [
@@ -1062,7 +1043,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Create and manage invoice records tied to deliveries",
+    "text": "● Create and manage invoice records tied to deliveries",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1076,7 +1057,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Capture photos or documents directly from a mobile device as supporting evidence",
+    "text": "● Capture photos or documents directly from a mobile device as supporting evidence",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1090,7 +1071,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Preview and confirm invoice details before submission",
+    "text": "● Preview and confirm invoice details before submission",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1104,7 +1085,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Maintain a record of invoice status and updates over time",
+    "text": "● Maintain a record of invoice status and updates over time",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1134,7 +1115,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Review account balances and payment status",
+    "text": "● Review account balances and payment status",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1148,7 +1129,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Track payments and related financial activity tied to program operations",
+    "text": "● Track payments and related financial activity tied to program operations",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1162,7 +1143,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Access financial information relevant to a user's role",
+    "text": "● Access financial information relevant to a user's role",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1176,7 +1157,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keep operational activity connected to its financial record",
+    "text": "● Keep operational activity connected to its financial record",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1294,7 +1275,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Maintain product and product type information used across orders",
+    "text": "● Maintain product and product type information used across orders",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1308,7 +1289,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Manage supplier and producer records",
+    "text": "● Manage supplier and producer records",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1322,7 +1303,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Keep product and supplier data aligned with ordering needs",
+    "text": "● Keep product and supplier data aligned with ordering needs",
     "page": 5,
     "heading_level": null,
     "heading_path": [
@@ -1364,7 +1345,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Set up School / Menu records​",
+    "text": "Set up School / Menu records",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1377,7 +1358,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1390,7 +1371,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1403,7 +1384,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Create Order or Invoice -----> Track Activity Status​",
+    "text": "Create Order or Invoice -----> Track Activity Status",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1416,7 +1397,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1429,7 +1410,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1442,7 +1423,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Attach Supporting Evidence​",
+    "text": "Attach Supporting Evidence",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1455,7 +1436,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "(photos / documents for invoices)​",
+    "text": "(photos / documents for invoices)",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1468,7 +1449,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1481,7 +1462,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1494,7 +1475,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "[ Backend system validates and processes the submission ]​",
+    "text": "[ Backend system validates and processes the submission ]",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1507,7 +1488,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1520,7 +1501,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1533,7 +1514,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Review Status Update​",
+    "text": "Review Status Update",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1546,7 +1527,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1559,7 +1540,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "+-------------------+​",
+    "text": "+-------------------+",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1572,7 +1553,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "| |​",
+    "text": "| |",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1585,7 +1566,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v v​",
+    "text": "v v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1598,7 +1579,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Needs Correction Approved / Confirmed​",
+    "text": "Needs Correction Approved / Confirmed",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1611,7 +1592,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "| |​",
+    "text": "| |",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1624,7 +1605,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v v​",
+    "text": "v v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1637,7 +1618,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Update & resubmit Continue to next step​",
+    "text": "Update & resubmit Continue to next step",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1650,7 +1631,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1663,7 +1644,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1676,7 +1657,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Finance & Reporting Review​",
+    "text": "Finance & Reporting Review",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1689,7 +1670,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "|​",
+    "text": "|",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1702,7 +1683,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "v​",
+    "text": "v",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1715,7 +1696,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "Notifications sent to relevant users​",
+    "text": "Notifications sent to relevant users",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1728,20 +1709,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "​",
-    "page": 6,
-    "heading_level": null,
-    "heading_path": [
-      "TECSACK SOFTWARE",
-      "5. End-to-End Workflow"
-    ],
-    "metadata": {
-      "extraction_method": "pymupdf"
-    }
-  },
-  {
-    "element_type": "paragraph",
-    "text": "(A separate public browsing path allows general visitors​",
+    "text": "(A separate public browsing path allows general visitors",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1795,7 +1763,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Order and delivery status across schools",
+    "text": "● Order and delivery status across schools",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1808,7 +1776,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Invoice and payment tracking tied to program activity",
+    "text": "● Invoice and payment tracking tied to program activity",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1821,7 +1789,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Notification history for relevant updates",
+    "text": "● Notification history for relevant updates",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -1834,7 +1802,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ School and menu information at a glance",
+    "text": "● School and menu information at a glance",
     "page": 6,
     "heading_level": null,
     "heading_path": [
@@ -2033,7 +2001,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Consolidates school, order, invoice, and finance activity into a single mobile system",
+    "text": "● Consolidates school, order, invoice, and finance activity into a single mobile system",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2046,7 +2014,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Reduces manual effort and delays in day-to-day program coordination",
+    "text": "● Reduces manual effort and delays in day-to-day program coordination",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2059,7 +2027,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Improves visibility and accountability across schools, suppliers, and administrators",
+    "text": "● Improves visibility and accountability across schools, suppliers, and administrators",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2072,7 +2040,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Connects field activity directly to financial tracking and reporting",
+    "text": "● Connects field activity directly to financial tracking and reporting",
     "page": 7,
     "heading_level": null,
     "heading_path": [
@@ -2085,7 +2053,7 @@
   },
   {
     "element_type": "paragraph",
-    "text": "●​ Supports timely communication through built-in notifications",
+    "text": "● Supports timely communication through built-in notifications",
     "page": 7,
     "heading_level": null,
     "heading_path": [
